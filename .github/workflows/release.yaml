@@ -24,12 +24,13 @@ jobs:
 
       - name: Create Release
         id: create_release
-        uses: actions/create-release@v1
+        uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: v${{ steps.date.outputs.date }}
-          release_name: Release v${{ steps.date.outputs.date }}
+          name: Release v${{ steps.date.outputs.date }}
+          files: README.md
+          generate_release_notes: true
           draft: false
-          prerelease: false
-          generate_release_notes: true 
+          prerelease: false 
