@@ -2,7 +2,7 @@
 
 This project curates a comprehensive collection of research papers examining the relationship between artificial intelligence and sustainability. The repository focuses on recent scholarly work that addresses critical topics including environmental impact of AI systems, sustainable computing practices, energy efficiency in machine learning, and AI applications for environmental sustainability. The collection spans various domains including large language models, federated learning, sustainable infrastructure, and climate adaptation. By aggregating these papers, this project serves as a valuable resource for researchers, practitioners, and policymakers interested in developing and implementing environmentally conscious AI solutions while understanding their broader societal impacts.
 
-You can click the 'Watch' button to receive daily email notifications.
+You can click the 'Watch' and 'Star' buttons to receive daily email notifications.
 
 Last update: 2025-04-18
 
