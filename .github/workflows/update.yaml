@@ -54,9 +54,18 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
           const fs = require('fs');
-          const issueContent = fs.readFileSync('.github/ISSUE_TEMPLATE.md', 'utf8');
+          let issueContent = fs.readFileSync('.github/ISSUE_TEMPLATE.md', 'utf8');
           const titleMatch = issueContent.match(/title: (.*)/);
           const title = titleMatch ? titleMatch[1] : 'Latest Papers Update';
+          
+          // If content is too long, truncate it and add a note
+          const maxLength = 60000; // Leave some buffer from the 65536 limit
+          if (issueContent.length > maxLength) {
+            const truncatedContent = issueContent.substring(0, maxLength);
+            const lastNewline = truncatedContent.lastIndexOf('\n');
+            issueContent = truncatedContent.substring(0, lastNewline) + 
+              '\n\n---\n\n**Note: This issue has been truncated due to length. Please check the [README](../../README.md) for the complete list.**';
+          }
           
           await github.rest.issues.create({
             owner: context.repo.owner,
