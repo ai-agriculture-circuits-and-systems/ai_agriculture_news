@@ -1,11 +1,12 @@
 name: Update
 
 on:
+  workflow_dispatch:  # Allow manual triggering
   label:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * 0-4' # 00:30 Singapore time every Monday to Friday
+      - cron: '30 16 * * *' # 00:30 Singapore time every Monday to Friday
 
 permissions:
   contents: write
