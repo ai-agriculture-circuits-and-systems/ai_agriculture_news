@@ -35,14 +35,27 @@ jobs:
       uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
+        push-branch: 'main'
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
         name: yongfu-li
         email: liyongfu.sg@gmail.com
 
-    - name: Create an issue to notify
-      uses: yongfu-li/create-an-issue@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Create Issue
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const fs = require('fs');
+          const issueContent = fs.readFileSync('.github/ISSUE_TEMPLATE.md', 'utf8');
+          const titleMatch = issueContent.match(/title: (.*)/);
+          const title = titleMatch ? titleMatch[1] : 'Latest Papers Update';
+          
+          await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: title,
+            body: issueContent,
+            labels: ['documentation']
+          });

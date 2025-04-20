@@ -42,6 +42,9 @@ def main():
     
     logger.info("Starting AI Agriculture News Update Script")
     
+    # Ensure .github directory exists
+    os.makedirs(".github", exist_ok=True)
+    
     # Check last update date
     try:
         with open("README.md", "r") as f:
