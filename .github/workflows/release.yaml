@@ -1,10 +1,13 @@
 name: Automated Release
 
 on:
-  push:
-    branches:
-      - master
-      - main
+  workflow_dispatch:  # Allow manual triggering
+  label:
+    types:
+      - created # for test
+  schedule:
+      - cron: '30 16 * * *' # 00:30 Singapore time every day
+
 
 permissions:
   contents: write

@@ -1,6 +1,5 @@
 name: Update
 
-# This is version 2 of the workflow
 on:
   workflow_dispatch:  # Allow manual triggering
   label:
