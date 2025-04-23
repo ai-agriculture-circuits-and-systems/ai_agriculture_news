@@ -6,7 +6,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * *' # 00:30 Singapore time every day
+      - cron: '45 16 * * *' # 00:45 Singapore time every day
 
 
 permissions:
