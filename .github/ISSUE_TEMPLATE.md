@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - April 24, 2025
+title: Latest 200 Papers - April 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## agriculture
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Learning Meets Process-Based Models: A Hybrid Approach to Agricultural Challenges](http://arxiv.org/abs/2504.16141v1)** | 2025-04-22 |  |
+| **[Hybrid Knowledge Transfer through Attention and Logit Distillation for On-Device Vision Systems in Agricultural IoT](http://arxiv.org/abs/2504.16128v1)** | 2025-04-21 | <details><summary>12 pa...</summary><p>12 pages and 4 figures</p></details> |
 | **[VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture](http://arxiv.org/abs/2504.13365v1)** | 2025-04-17 |  |
 | **[AgMMU: A Comprehensive Agricultural Multimodal Understanding and Reasoning Benchmark](http://arxiv.org/abs/2504.10568v1)** | 2025-04-14 | <details><summary>Proje...</summary><p>Project Website: https://agmmu.github.io/ Huggingface: https://huggingface.co/datasets/AgMMU/AgMMU_v1/</p></details> |
 | **[agriFrame: Agricultural framework to remotely control a rover inside a greenhouse environment](http://arxiv.org/abs/2504.09079v1)** | 2025-04-12 |  |
@@ -205,8 +207,6 @@ labels: documentation
 | **[Constrained Prioritized 3T2R Task Control for Robotic Agricultural Spraying](http://arxiv.org/abs/2307.00302v1)** | 2023-07-01 |  |
 | **[Energy Modelling and Forecasting for an Underground Agricultural Farm using a Higher Order Dynamic Mode Decomposition Approach](http://arxiv.org/abs/2306.15089v1)** | 2023-06-26 |  |
 | **[Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots](http://arxiv.org/abs/2306.13518v2)** | 2023-06-26 |  |
-| **[Exploring New Frontiers in Agricultural NLP: Investigating the Potential of Large Language Models for Food Applications](http://arxiv.org/abs/2306.11892v1)** | 2023-06-20 |  |
-| **[INoD: Injected Noise Discriminator for Self-Supervised Representation Learning in Agricultural Fields](http://arxiv.org/abs/2303.18101v3)** | 2023-06-19 | 11 pages, 10 figures |
 
 ## farming
 | **Title** | **Date** | **Comment** |
@@ -1206,6 +1206,7 @@ labels: documentation
 ## plant
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping](http://arxiv.org/abs/2504.16840v1)** | 2025-04-23 |  |
 | **[ChronoRoot 2.0: An Open AI-Powered Platform for 2D Temporal Plant Phenotyping](http://arxiv.org/abs/2504.14736v1)** | 2025-04-20 |  |
 | **[Reinforcement Learning-Driven Plant-Wide Refinery Planning Using Model Decomposition](http://arxiv.org/abs/2504.08642v1)** | 2025-04-11 |  |
 | **[Optimal Frequency Support from Virtual Power Plants: Minimal Reserve and Allocation](http://arxiv.org/abs/2504.07703v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted by Applied Energy</p></details> |
@@ -1290,10 +1291,128 @@ labels: documentation
 | **[Residual-based Attention Physics-informed Neural Networks for Spatio-Temporal Ageing Assessment of Transformers Operated in Renewable Power Plants](http://arxiv.org/abs/2405.06443v2)** | 2024-10-03 | 23 pages, 18 figures |
 | **[A Novel Feature Extraction Model for the Detection of Plant Disease from Leaf Images in Low Computational Devices](http://arxiv.org/abs/2410.01854v1)** | 2024-10-01 | <details><summary>10 Pa...</summary><p>10 Pages, 8 figures, 1 table</p></details> |
 | **[A Knowledge-Informed Large Language Model Framework for U.S. Nuclear Power Plant Shutdown Initiating Event Classification for Probabilistic Risk Assessment](http://arxiv.org/abs/2410.00929v1)** | 2024-09-30 |  |
+| **[Automated Disease Diagnosis in Pumpkin Plants Using Advanced CNN Models](http://arxiv.org/abs/2410.00062v1)** | 2024-09-29 | 10 pages, 8 figures |
+| **[Plant Robots: Harnessing Growth Actuation of Plants for Locomotion and Object Manipulation](http://arxiv.org/abs/2407.16162v3)** | 2024-09-26 | 16 pages, 4 figures |
+| **[Low-degree Security of the Planted Random Subgraph Problem](http://arxiv.org/abs/2409.16227v1)** | 2024-09-24 |  |
+| **[Forecasting steam mass flow in power plants using the parallel hybrid network](http://arxiv.org/abs/2307.09483v2)** | 2024-09-19 | 11 pages, 5 figures |
+| **[Fixed-Parameter Tractability of the (1+1) Evolutionary Algorithm on Random Planted Vertex Covers](http://arxiv.org/abs/2409.10144v1)** | 2024-09-16 |  |
+| **[A Dataset of the Operating Station Heat Rate for 806 Indian Coal Plant Units using Machine Learning](http://arxiv.org/abs/2410.00016v1)** | 2024-09-14 |  |
+| **[Impacts of EPA Power Plant Emissions Regulations on the US Electricity Sector](http://arxiv.org/abs/2409.08093v1)** | 2024-09-12 |  |
+| **[Low carbon optimal scheduling of integrated energy system considering waste heat utilization under the coordinated operation of incineration power plant and P2G](http://arxiv.org/abs/2409.07254v2)** | 2024-09-12 | <details><summary>Accep...</summary><p>Accepted by Acta Energiae Solaris Sinica, 9 pages, in Chinese language, 12 figures</p></details> |
+| **[Mixed additive modelling of global alien species co-invasions of plants and insects](http://arxiv.org/abs/2304.00654v2)** | 2024-09-09 |  |
+| **[Advanced Machine Learning Framework for Efficient Plant Disease Prediction](http://arxiv.org/abs/2409.05174v1)** | 2024-09-08 |  |
+| **[PlantSeg: A Large-Scale In-the-wild Dataset for Plant Disease Segmentation](http://arxiv.org/abs/2409.04038v1)** | 2024-09-06 |  |
+| **[Combined Plant and Control Co-design via Solutions of Hamilton-Jacobi-Bellman Equation Based on Physics-informed Learning](http://arxiv.org/abs/2409.02345v2)** | 2024-09-05 |  |
+| **[Plant detection from ultra high resolution remote sensing images: A Semantic Segmentation approach based on fuzzy loss](http://arxiv.org/abs/2409.00513v1)** | 2024-08-31 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 2 tables</p></details> |
+| **[Hybrid Plant Models Call for a Different Plant Modelling Paradigm and a New Generation of Software (Heresy in the land of moles, fractions, & rigorous physical properties)](http://arxiv.org/abs/2408.15415v1)** | 2024-08-27 |  |
+| **[Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild](http://arxiv.org/abs/2408.14723v1)** | 2024-08-27 |  |
+| **[Multi-Class Plant Leaf Disease Detection: A CNN-based Approach with Mobile App Integration](http://arxiv.org/abs/2408.15289v1)** | 2024-08-26 |  |
+| **[Operational Safety in Human-in-the-loop Human-in-the-plant Autonomous Systems](http://arxiv.org/abs/2409.03780v1)** | 2024-08-22 | <details><summary>Desig...</summary><p>Design Automation Conference 2024 Work in progress paper</p></details> |
+| **[Evaluating Neural Radiance Fields (NeRFs) for 3D Plant Geometry Reconstruction in Field Conditions](http://arxiv.org/abs/2402.10344v3)** | 2024-08-06 | <details><summary>Publi...</summary><p>Published in 'Plant Phenomics'</p></details> |
+| **[A study on general visual categorization of objects into animal and plant groups using global shape descriptors with a focus on category-specific deficits](http://arxiv.org/abs/1901.11398v3)** | 2024-08-05 | <details><summary>11 pa...</summary><p>11 pages, 7 Figures, 1 Table</p></details> |
+| **[Designing Harvesting Tools for Olive Trees: Methodological Reflections on Exploring and Incorporating Plant Perspectives in the Early Stages of Design Process](http://arxiv.org/abs/2407.21481v1)** | 2024-07-31 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 3 tables, The Design Journal</p></details> |
+| **[PLANesT-3D: A new annotated dataset for segmentation of 3D plant point clouds](http://arxiv.org/abs/2407.21150v1)** | 2024-07-30 |  |
+| **[Differential algebraic modeling of an alkaline electrolyzer plant](http://arxiv.org/abs/2311.09882v2)** | 2024-07-27 |  |
+| **[A Fault Prognostic System for the Turbine Guide Bearings of a Hydropower Plant Using Long-Short Term Memory (LSTM)](http://arxiv.org/abs/2407.19040v1)** | 2024-07-26 | 8 figures, 3 tables |
+| **[Investigation to answer three key questions concerning plant pest identification and development of a practical identification framework](http://arxiv.org/abs/2407.18000v1)** | 2024-07-25 | 40 pages, 10 figures |
+| **[Hierarchical Object Detection and Recognition Framework for Practical Plant Disease Diagnosis](http://arxiv.org/abs/2407.17906v1)** | 2024-07-25 | 6 pages, 3 figures |
+| **[PlantTrack: Task-Driven Plant Keypoint Tracking with Zero-Shot Sim2Real Transfer](http://arxiv.org/abs/2407.16829v1)** | 2024-07-23 |  |
+| **[Self-supervised transformer-based pre-training method with General Plant Infection dataset](http://arxiv.org/abs/2407.14911v1)** | 2024-07-20 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 4 tables, 3 formulas</p></details> |
+| **[Sharp Thresholds Imply Circuit Lower Bounds: from random 2-SAT to Planted Clique](http://arxiv.org/abs/2311.04204v3)** | 2024-07-16 | <details><summary>Added...</summary><p>Added a partial converse result, showing that for monotone graph properties if they do not have a sharp threshold then they are computed on average by a bounded depth and polynomial size circuit</p></details> |
+| **[Transformer-based Drum-level Prediction in a Boiler Plant with Delayed Relations among Multivariates](http://arxiv.org/abs/2407.11180v1)** | 2024-07-15 | <details><summary>under...</summary><p>under review of IEEE PES ISGT Europe 2024 conference</p></details> |
+| **[Generative Plant Growth Simulation from Sequence-Informed Environmental Conditions](http://arxiv.org/abs/2405.14796v3)** | 2024-07-10 |  |
+| **[Multi-Label Plant Species Classification with Self-Supervised Vision Transformers](http://arxiv.org/abs/2407.06298v1)** | 2024-07-08 | <details><summary>Paper...</summary><p>Paper submitted to CLEF 2024 CEUR-WS</p></details> |
+| **[Wastewater Treatment Plant Data for Nutrient Removal System](http://arxiv.org/abs/2407.05346v1)** | 2024-07-07 | Data Paper |
+| **[3D Multimodal Image Registration for Plant Phenotyping](http://arxiv.org/abs/2407.02946v1)** | 2024-07-03 | <details><summary>53 pa...</summary><p>53 pages, 13 Figures, preprint submitted to Computers and Electronics in Agriculture</p></details> |
+| **[Plant Doctor: A hybrid machine learning and image segmentation software to quantify plant damage in video footage](http://arxiv.org/abs/2407.02853v1)** | 2024-07-03 | <details><summary>29 pa...</summary><p>29 pages, 10 figures, 2 tables</p></details> |
+| **[DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots](http://arxiv.org/abs/2303.05764v3)** | 2024-07-01 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 5 tables. Accepted to CASE2024</p></details> |
+| **[Quartic quantum speedups for planted inference](http://arxiv.org/abs/2406.19378v1)** | 2024-06-27 | 50 pages |
+| **[Detecting Abnormal Operations in Concentrated Solar Power Plants from Irregular Sequences of Thermal Images](http://arxiv.org/abs/2406.16077v1)** | 2024-06-23 | Accepted in KDD 2024 |
+| **[Class-specific Data Augmentation for Plant Stress Classification](http://arxiv.org/abs/2406.13081v1)** | 2024-06-18 |  |
+| **[Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants](http://arxiv.org/abs/2406.11174v1)** | 2024-06-17 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, conference</p></details> |
+| **[Risk-Aware Value-Oriented Net Demand Forecasting for Virtual Power Plants](http://arxiv.org/abs/2406.10434v1)** | 2024-06-14 | <details><summary>Submi...</summary><p>Submitted to The 56th North American Power Symposium (NAPS 2024)</p></details> |
+| **[Dynamic Virtual Power Plants With Frequency Regulation Capacity](http://arxiv.org/abs/2406.05976v1)** | 2024-06-10 | <details><summary>Accep...</summary><p>Accepted by IAS Annual Meeting 2024</p></details> |
+| **[IndoHerb: Indonesia Medicinal Plants Recognition using Transfer Learning and Deep Learning](http://arxiv.org/abs/2308.01604v2)** | 2024-06-09 | 34 pages, 27 figures |
+| **[Tree-Planted Transformers: Unidirectional Transformer Language Models with Implicit Syntactic Supervision](http://arxiv.org/abs/2402.12691v2)** | 2024-06-06 | <details><summary>Accep...</summary><p>Accepted by ACL 2024 (Findings)</p></details> |
+| **[Push Past Green: Learning to Look Behind Plant Foliage by Moving It](http://arxiv.org/abs/2307.03175v2)** | 2024-06-05 | <details><summary>Accep...</summary><p>Accepted by Conference on Robot Learning (CoRL) 2023. for project website with video, see https://sites.google.com/view/pushpastgreen/</p></details> |
+| **[A Stochastic Incentive-based Demand Response Program for Virtual Power Plant with Solar, Battery, Electric Vehicles, and Controllable Loads](http://arxiv.org/abs/2406.00163v1)** | 2024-05-31 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, submitted to IEEE Transactions on Industry Applications for potential publication</p></details> |
+| **[Enhancing Plant Disease Detection: A Novel CNN-Based Approach with Tensor Subspace Learning and HOWSVD-MD](http://arxiv.org/abs/2405.20058v1)** | 2024-05-30 | <details><summary>17 pa...</summary><p>17 pages, 9 figures and 8 tables</p></details> |
+| **[Integrated Design for Wave Energy Converter Farms: Assessing Plant, Control, Layout, and Site Selection Coupling in the Presence of Irregular Waves](http://arxiv.org/abs/2405.15717v1)** | 2024-05-24 | <details><summary>12 pa...</summary><p>12 pages and 7 figures</p></details> |
+| **[Planted: a dataset for planted forest identification from multi-satellite time series](http://arxiv.org/abs/2406.18554v1)** | 2024-05-24 |  |
+| **[Detecting Planted Partition in Sparse Multi-Layer Networks](http://arxiv.org/abs/2209.07554v3)** | 2024-05-24 | <details><summary>Updat...</summary><p>Updated simulations and clarified certain results</p></details> |
+| **[CPS-LLM: Large Language Model based Safe Usage Plan Generator for Human-in-the-Loop Human-in-the-Plant Cyber-Physical System](http://arxiv.org/abs/2405.11458v1)** | 2024-05-19 | <details><summary>Accep...</summary><p>Accepted for publication in AAAI 2024, Planning for Cyber Physical Systems</p></details> |
+| **[Machine Learning Infused Distributed Optimization for Coordinating Virtual Power Plant Assets](http://arxiv.org/abs/2310.17882v2)** | 2024-05-16 |  |
+| **[Revealing Hierarchical Structure of Leaf Venations in Plant Science via Label-Efficient Segmentation: Dataset and Method](http://arxiv.org/abs/2405.10041v1)** | 2024-05-16 | <details><summary>Accep...</summary><p>Accepted by IJCAI2024, Code: https://github.com/WeizhenLiuBioinform/HALVS-Hierarchical-Vein-Segment.git</p></details> |
+| **[Causal health impacts of power plant emission controls under modeled and uncertain physical process interference](http://arxiv.org/abs/2306.05665v2)** | 2024-05-14 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Associated code and supplementary material can be found at https://github.com/nbwikle/estimating-interference. Version 2 includes additional references, an expanded discussion section, and some additional results from an analysis that considers a single exposure level, G_i. A version of this article has been accepted for publication in the Annals of Applied Statistics</p></details> |
+| **[Certifying Euclidean Sections and Finding Planted Sparse Vectors Beyond the $\sqrt{n}$ Dimension Threshold](http://arxiv.org/abs/2405.05373v1)** | 2024-05-08 | 32 pages, 2 Figures |
+| **[Reinforcement Learning control strategies for Electric Vehicles and Renewable energy sources Virtual Power Plants](http://arxiv.org/abs/2405.01889v1)** | 2024-05-03 | <details><summary>DAI-L...</summary><p>DAI-Labor of Technische Universit\"at Berlin Master thesis</p></details> |
+| **[Gradient-based Local Next-best-view Planning for Improved Perception of Targeted Plant Nodes](http://arxiv.org/abs/2311.16759v2)** | 2024-04-29 | <details><summary>This ...</summary><p>This work has been accepted for the 2024 International Conference on Robotics and Automation (ICRA 2024)</p></details> |
+| **[Challenges in automatic and selective plant-clearing](http://arxiv.org/abs/2404.13996v1)** | 2024-04-22 |  |
+| **[Feedback control of plant-soil autotoxicity via pulse-width modulation](http://arxiv.org/abs/2311.13295v2)** | 2024-04-15 | Accepted to ECC 2024 |
+| **[Plus Strategies are Exponentially Slower for Planted Optima of Random Height](http://arxiv.org/abs/2404.09687v1)** | 2024-04-15 |  |
+| **[Implicit EXP-RBF techniques for modeling unsaturated flow through soils with water uptake by plant roots](http://arxiv.org/abs/2404.09382v1)** | 2024-04-14 |  |
+| **[Benchmarking the optimization optical machines with the planted solutions](http://arxiv.org/abs/2311.06859v2)** | 2024-04-02 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 14 figures in the supplementary section</p></details> |
+| **[Counting Stars is Constant-Degree Optimal For Detecting Any Planted Subgraph](http://arxiv.org/abs/2403.17766v1)** | 2024-03-26 |  |
+| **[Hidden Clique Inference in Random Ising Model II: the planted Sherrington-Kirkpatrick model](http://arxiv.org/abs/2309.14192v2)** | 2024-03-21 | 81 pages, 0 figure |
+| **[Hidden Clique Inference in Random Ising Model I: the planted random field Curie-Weiss model](http://arxiv.org/abs/2310.00667v2)** | 2024-03-21 | 87 pages, 0 figure |
+| **[Hybrid Zonotope-Based Backward Reachability Analysis for Neural Feedback Systems With Nonlinear Plant Models](http://arxiv.org/abs/2310.06921v3)** | 2024-03-19 | <details><summary>Accep...</summary><p>Accepted by IEEE American Control Conference 2024, 9 pages, 4 figures</p></details> |
+| **[Image Classification for CSSVD Detection in Cacao Plants](http://arxiv.org/abs/2405.04535v1)** | 2024-03-13 |  |
+| **[Plant-Capture Methods for Estimating Population Size from Uncertain Plant Captures](http://arxiv.org/abs/2403.04058v1)** | 2024-03-06 |  |
+| **[Planted Bipartite Graph Detection](http://arxiv.org/abs/2302.03658v2)** | 2024-03-06 | 37 pages |
+| **[Single-level Robust Bidding of Renewable-only Virtual Power Plant in Energy and Ancillary Service Markets for Worst-case Profit](http://arxiv.org/abs/2403.02953v1)** | 2024-03-05 |  |
+| **[qPMS Sigma -- An Efficient and Exact Parallel Algorithm for the Planted $(l, d)$ Motif Search Problem](http://arxiv.org/abs/2403.00306v1)** | 2024-03-01 |  |
+| **[ViTaL: An Advanced Framework for Automated Plant Disease Identification in Leaf Images Using Vision Transformers and Linear Projection For Feature Reduction](http://arxiv.org/abs/2402.17424v2)** | 2024-02-28 | <details><summary>Accep...</summary><p>Accepted and scheduled for presentation at CML 2024, this work will be published as a book chapter in Lecture Notes in Networks and Systems</p></details> |
+| **[Exact recovery in Gaussian weighted stochastic block model and planted dense subgraphs: Statistical and algorithmic thresholds](http://arxiv.org/abs/2402.12515v1)** | 2024-02-19 |  |
+| **[Flexible Robust Optimal Bidding of Renewable Virtual Power Plants in Sequential Markets](http://arxiv.org/abs/2402.12032v1)** | 2024-02-19 |  |
+| **[Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data](http://arxiv.org/abs/2306.11157v2)** | 2024-02-17 |  |
+| **[Repurposing Coal Power Plants into Thermal Energy Storage for Supporting Zero-carbon Data Centers](http://arxiv.org/abs/2402.09675v1)** | 2024-02-15 |  |
+| **[Evaluation of a Smart Mobile Robotic System for Industrial Plant Inspection and Supervision](http://arxiv.org/abs/2402.07691v1)** | 2024-02-12 | <details><summary>Submi...</summary><p>Submitted for publication in IEEE Sensors Journal</p></details> |
+| **[Low-degree phase transitions for detecting a planted clique in sublinear time](http://arxiv.org/abs/2402.05451v1)** | 2024-02-08 | 23 pages, 2 figures |
+| **[Cost Optimized Scheduling in Modular Electrolysis Plants](http://arxiv.org/abs/2402.05148v1)** | 2024-02-07 |  |
+| **[Diagnostics Using Nuclear Plant Cyber Attack Analysis Toolkit](http://arxiv.org/abs/2311.17936v3)** | 2024-02-05 | <details><summary>Paper...</summary><p>Paper has been submitted to ANS for review</p></details> |
+| **[Gazebo Plants: Simulating Plant-Robot Interaction with Cosserat Rods](http://arxiv.org/abs/2402.02570v1)** | 2024-02-04 | <details><summary>Upon ...</summary><p>Upon request, we are happy to share our GazeboPlants plugin open-source (MPL 2.0)</p></details> |
+| **[Insights from the Field: A Comprehensive Analysis of Industrial Accidents in Plants and Strategies for Enhanced Workplace Safety](http://arxiv.org/abs/2403.05539v1)** | 2024-02-02 | 14 pages, 4 figures |
+| **[Information-Theoretic Thresholds for Planted Dense Cycles](http://arxiv.org/abs/2402.00305v1)** | 2024-02-01 | 31 pages, 1 figure |
+| **[Environmental Justice Implications of Power Plant Emissions Control Policies: Heterogeneous Causal Effect Estimation under Bipartite Network Interference](http://arxiv.org/abs/2304.12500v2)** | 2024-01-25 |  |
+| **[A Safe Reinforcement Learning Algorithm for Supervisory Control of Power Plants](http://arxiv.org/abs/2401.13020v1)** | 2024-01-23 |  |
+| **[A Hybrid Approach of Transfer Learning and Physics-Informed Modeling: Improving Dissolved Oxygen Concentration Prediction in an Industrial Wastewater Treatment Plant](http://arxiv.org/abs/2401.11217v1)** | 2024-01-20 |  |
+| **[PST: Plant segmentation transformer for 3D point clouds of rapeseed plants at the podding stage](http://arxiv.org/abs/2206.13082v3)** | 2024-01-20 | 46 pages, 10 figures |
+| **[A model-based framework for controlling activated sludge plants](http://arxiv.org/abs/2401.10619v1)** | 2024-01-19 | 38 pages, 31 figures |
+| **[Passive Realizations of Series Elastic Actuation: Effects of Plant and Controller Dynamics on Haptic Rendering Performance](http://arxiv.org/abs/2209.02505v3)** | 2024-01-16 |  |
+| **[A Framework on Fully Distributed State Estimation and Cooperative Stabilization of LTI Plants](http://arxiv.org/abs/2309.12081v2)** | 2024-01-14 |  |
+| **[The planted XY model: thermodynamics and inference](http://arxiv.org/abs/2208.06488v2)** | 2024-01-11 | 29 pages, 8 figures |
+| **[Scaling up machine learning-based chemical plant simulation: A method for fine-tuning a model to induce stable fixed points](http://arxiv.org/abs/2307.13621v2)** | 2024-01-11 |  |
+| **[An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant](http://arxiv.org/abs/2401.06807v1)** | 2024-01-10 |  |
+| **[Large Language Models in Plant Biology](http://arxiv.org/abs/2401.02789v1)** | 2024-01-05 |  |
+| **[Intelligent Condition Monitoring of Industrial Plants: An Overview of Methodologies and Uncertainty Management Strategies](http://arxiv.org/abs/2401.10266v1)** | 2024-01-03 |  |
+| **[PLLaMa: An Open-source Large Language Model for Plant Science](http://arxiv.org/abs/2401.01600v1)** | 2024-01-03 | Work in progress |
+| **[Grid-Forming and Spatially Distributed Control Design of Dynamic Virtual Power Plants](http://arxiv.org/abs/2202.02057v5)** | 2023-12-29 | 17 pages, 19 figures |
+| **[Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants](http://arxiv.org/abs/2312.17110v1)** | 2023-12-28 | 7 pages, 8 figures |
+| **[BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions](http://arxiv.org/abs/2312.14706v1)** | 2023-12-22 |  |
+| **[Ensuring reliability: what is the optimal time for power plant maintenance in Texas as the climate changes?](http://arxiv.org/abs/2302.00185v4)** | 2023-12-18 |  |
+| **[Leaf-Based Plant Disease Detection and Explainable AI](http://arxiv.org/abs/2404.16833v1)** | 2023-12-17 | <details><summary>To ap...</summary><p>To appear in a Journal/Conference</p></details> |
+| **[Stable compensators in parallel to stabilize arbitrary proper rational SISO plants](http://arxiv.org/abs/2312.09819v1)** | 2023-12-15 |  |
+| **[Zoom in on the Plant: Fine-grained Analysis of Leaf, Stem and Vein Instances](http://arxiv.org/abs/2312.08805v1)** | 2023-12-14 | <details><summary>Accep...</summary><p>Accepted at Robotics and Automation Letters (RA-L)</p></details> |
+| **[Offshore Wind Plant Instance Segmentation Using Sentinel-1 Time Series, GIS, and Semantic Segmentation Models](http://arxiv.org/abs/2312.08773v1)** | 2023-12-14 | 21 pages, 5 figures |
+| **[Plant Disease Recognition Datasets in the Age of Deep Learning: Challenges and Opportunities](http://arxiv.org/abs/2312.07905v1)** | 2023-12-13 | <details><summary>Submi...</summary><p>Submission v1 to a journal</p></details> |
+| **[Detection of Unknown-Unknowns in Human-in-Plant Human-in-Loop Systems Using Physics Guided Process Models](http://arxiv.org/abs/2309.02603v2)** | 2023-12-12 |  |
+| **[Generating high-quality 3DMPCs by adaptive data acquisition and NeREF-based radiometric calibration with UGV plant phenotyping system](http://arxiv.org/abs/2305.06777v2)** | 2023-12-01 |  |
+| **[Development and evaluation of automated localisation and reconstruction of all fruits on tomato plants in a greenhouse based on multi-view perception and 3D multi-object tracking](http://arxiv.org/abs/2211.02760v3)** | 2023-11-28 |  |
+| **[The Influence of Neural Networks on Hydropower Plant Management in Agriculture: Addressing Challenges and Exploring Untapped Opportunities](http://arxiv.org/abs/2311.13293v1)** | 2023-11-22 |  |
+| **[Automatic measurement of coverage area of water-based pesticides-surfactant formulation on plant leaves using deep learning tools](http://arxiv.org/abs/2401.08593v1)** | 2023-11-17 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, research paper</p></details> |
+| **[Nonlinear Stability Boundary Assessment Of Wind Power Plants Based on Reverse-Time Trajectory](http://arxiv.org/abs/2311.07991v1)** | 2023-11-14 |  |
+| **[Finding planted cliques using Markov chain Monte Carlo](http://arxiv.org/abs/2311.07540v1)** | 2023-11-13 | 24 pages, 2 figures |
+| **[Logspace Reducibility From Secret Leakage Planted Clique](http://arxiv.org/abs/2107.11886v2)** | 2023-11-08 |  |
+| **[High-fidelity 3D Reconstruction of Plants using Neural Radiance Field](http://arxiv.org/abs/2311.04154v1)** | 2023-11-07 |  |
+| **[Field Robot for High-throughput and High-resolution 3D Plant Phenotyping](http://arxiv.org/abs/2310.11516v2)** | 2023-11-05 | <details><summary>Accep...</summary><p>Accepted for IEEE Robotics and Automation Magazine</p></details> |
+| **[Automatic counting of planting microsites via local visual detection and global count estimation](http://arxiv.org/abs/2311.00796v1)** | 2023-11-01 |  |
 
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments](http://arxiv.org/abs/2504.16734v1)** | 2025-04-23 | <details><summary>20 pa...</summary><p>20 pages, 30 figures, Under review at IEEE Transactions on Robotics</p></details> |
+| **[A Statistical Evaluation of Indoor LoRaWAN Environment-Aware Propagation for 6G: MLR, ANOVA, and Residual Distribution Analysis](http://arxiv.org/abs/2504.16688v1)** | 2025-04-23 | <details><summary>\c{op...</summary><p>\c{opyright} 2025 IEEE. Personal use of this material is permitted. This is the accepted version of the article: To appear in the 2025 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)</p></details> |
+| **[A Vision for AI-Driven Adaptation of Dynamic AR Content to Users and Environments](http://arxiv.org/abs/2504.16562v1)** | 2025-04-23 |  |
 | **[The Value Problem for Multiple-Environment MDPs with Parity Objective](http://arxiv.org/abs/2504.15960v1)** | 2025-04-22 | <details><summary>Exten...</summary><p>Extended version of ICALP 2025 paper</p></details> |
 | **[Time-Varying Soft-Maximum Barrier Functions for Safety in Unmapped and Dynamic Environments](http://arxiv.org/abs/2409.01458v2)** | 2025-04-22 | <details><summary>Prepr...</summary><p>Preprint submitted to IEEE Transactions on Control Systems Technology (TCST)</p></details> |
 | **[FailLite: Failure-Resilient Model Serving for Resource-Constrained Edge Environments](http://arxiv.org/abs/2504.15856v1)** | 2025-04-22 |  |
@@ -1491,16 +1610,14 @@ labels: documentation
 | **[Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey](http://arxiv.org/abs/2503.07278v1)** | 2025-03-10 |  |
 | **[Design Optimal Backstepping Controller for Quadrotor Based on Lyapunov Theory for Disturbances Environments](http://arxiv.org/abs/2503.06824v1)** | 2025-03-10 | 5 pages, 4 figures |
 | **[Retrieval Augmented Generation with Multi-Modal LLM Framework for Wireless Environments](http://arxiv.org/abs/2503.07670v1)** | 2025-03-09 | Accepted @ ICC 2025 |
-| **[The Implicit Bias of Heterogeneity towards Invariance: A Study of Multi-Environment Matrix Sensing](http://arxiv.org/abs/2403.01420v4)** | 2025-03-09 |  |
-| **[AnimeGaze: Real-Time Mutual Gaze Synthesis for Anime-Style Avatars in Physical Environments via Behind-Display Camera](http://arxiv.org/abs/2503.06324v1)** | 2025-03-08 |  |
-| **[Human-AI Experience in Integrated Development Environments: A Systematic Literature Review](http://arxiv.org/abs/2503.06195v1)** | 2025-03-08 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) special issue Human-Centered AI for Software Engineering (HumanAISE), 28 pages, 1 figure</p></details> |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sustainability via LLM Right-sizing](http://arxiv.org/abs/2504.13217v2)** | 2025-04-23 | <details><summary>17 pa...</summary><p>17 pages, 2 Figures, 6 Tables</p></details> |
+| **[Leveraging Social Media Analytics for Sustainability Trend Detection in Saudi Arabias Evolving Market](http://arxiv.org/abs/2504.16153v1)** | 2025-04-22 | 9 |
 | **[Meltdown: Bridging the Perception Gap in Sustainable Food Behaviors Through Immersive VR](http://arxiv.org/abs/2504.14324v1)** | 2025-04-19 |  |
 | **[Large Language Model-Based Knowledge Graph System Construction for Sustainable Development Goals: An AI-Based Speculative Design Perspective](http://arxiv.org/abs/2504.12309v2)** | 2025-04-18 | <details><summary>This ...</summary><p>This is a minor revision: fixed a typo in the abstract (time range) and corrected minor textual errors</p></details> |
-| **[Sustainability via LLM Right-sizing](http://arxiv.org/abs/2504.13217v1)** | 2025-04-17 | <details><summary>17 pa...</summary><p>17 pages, 2 Figures, 6 Tables</p></details> |
 | **[Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics](http://arxiv.org/abs/2504.11341v1)** | 2025-04-15 |  |
 | **[COUNTER: Cluster GCN based Energy Efficient Resource Management for Sustainable Cloud Computing Environments](http://arxiv.org/abs/2504.09995v1)** | 2025-04-14 | <details><summary>Prepr...</summary><p>Preprint version accepted at IEEE ICDCS 2025</p></details> |
 | **[EthosGPT: Mapping Human Value Diversity to Advance Sustainable Development Goals (SDGs)](http://arxiv.org/abs/2504.09861v1)** | 2025-04-14 |  |
@@ -1697,5 +1814,4 @@ labels: documentation
 | **[Report on the NSF Workshop on Sustainable Computing for Sustainability (NSF WSCS 2024)](http://arxiv.org/abs/2407.06119v2)** | 2024-07-10 |  |
 | **[Barely-Visible Surface Crack Detection for Wind Turbine Sustainability](http://arxiv.org/abs/2407.07186v1)** | 2024-07-09 |  |
 | **[GreenFPGA: Evaluating FPGAs as Environmentally Sustainable Computing Solutions](http://arxiv.org/abs/2311.12396v2)** | 2024-07-09 | <details><summary>Prese...</summary><p>Presented at DAC 2024</p></details> |
-| **[Exploring the Experiences of Experts: Sustainability in Agile Software Development -- Insights from the Finnish Software Industry](http://arxiv.org/abs/2407.06978v1)** | 2024-07-09 |  |
 
