@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - May 12, 2025
+title: Latest 200 Papers - May 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -469,7 +469,6 @@ labels: documentation
 | **[Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm](http://arxiv.org/abs/2410.09680v1)** | 2024-10-13 | 13 pages |
 | **[Cost-Effective Cyber-Physical System Prototype for Precision Agriculture with a Focus on Crop Growth](http://arxiv.org/abs/2410.06471v1)** | 2024-10-09 | <details><summary>To ap...</summary><p>To appear in Proceedings of the 35th IEEE International Workshop on Rapid System Prototyping (RSP 2024)</p></details> |
 | **[RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection](http://arxiv.org/abs/2410.04983v2)** | 2024-10-08 | <details><summary>Compu...</summary><p>Computer Vision for Plant Phenotyping and Agriculture (CVPPA) workshop at ECCV 2024</p></details> |
-| **[GreenLight-Gym: A Reinforcement Learning Benchmark Environment for Greenhouse Crop Production Control](http://arxiv.org/abs/2410.05336v1)** | 2024-10-06 |  |
 | **[On the Convergence of CROP-Anderson Acceleration Method](http://arxiv.org/abs/2410.03970v1)** | 2024-10-04 | <details><summary>26 pa...</summary><p>26 pages, 5 pages of Supplementary Materials</p></details> |
 | **[SITSMamba for Crop Classification based on Satellite Image Time Series](http://arxiv.org/abs/2409.09673v2)** | 2024-09-29 |  |
 | **[Design, Integration, and Field Evaluation of a Robotic Blossom Thinning System for Tree Fruit Crops](http://arxiv.org/abs/2304.04919v2)** | 2024-09-25 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Field Robotics</p></details> |
@@ -615,6 +614,7 @@ labels: documentation
 | **[A Bayesian hierarchical framework for emulating a complex crop yield simulator](http://arxiv.org/abs/2207.12999v1)** | 2022-07-26 | <details><summary>Submi...</summary><p>Submitted to the Statistical Modelling Journal</p></details> |
 | **[Classifying Crop Types using Gaussian Bayesian Models and Neural Networks on GHISACONUS USGS data from NASA Hyperspectral Satellite Imagery](http://arxiv.org/abs/2207.11228v1)** | 2022-07-21 |  |
 | **[Human-centric Image Cropping with Partition-aware and Content-preserving Features](http://arxiv.org/abs/2207.10269v1)** | 2022-07-21 |  |
+| **[Waypoint Generation in Row-based Crops with Deep Learning and Contrastive Clustering](http://arxiv.org/abs/2206.11623v1)** | 2022-06-23 | <details><summary>Accep...</summary><p>Accepted at ECML PKDD 2022</p></details> |
 
 ## weather
 | **Title** | **Date** | **Comment** |
@@ -1411,11 +1411,16 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments](http://arxiv.org/abs/2502.01778v2)** | 2025-05-09 |  |
+| **[GreenLight-Gym: Reinforcement learning benchmark environment for control of greenhouse production systems](http://arxiv.org/abs/2410.05336v2)** | 2025-05-09 | <details><summary>This ...</summary><p>This submission replaces our previous pre-print with the version accepted to the 2025 IFAC conference. A new Git repository (https://github.com/BartvLaatum/GreenLight-Gym) accompanies this paper; the repository for the prior version remains live at https://github.com/YourOrg/GreenLightGym. The earlier pre-print is still available on ArXiv under the previous submission number</p></details> |
+| **[Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization](http://arxiv.org/abs/2505.05851v1)** | 2025-05-09 | <details><summary>accep...</summary><p>accepted for presentation at the 7th Workshop on Long-term Human Motion Prediction (LHMP) at International Conference on Robotics and Automation (ICRA) 2025</p></details> |
+| **[Active Contact Engagement for Aerial Navigation in Unknown Environments with Glass](http://arxiv.org/abs/2505.00332v2)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted in the IEEE RA-L. See video at https://youtu.be/AKw-umiDkPU?si=zaNqecdD5sp9m3pZ</p></details> |
+| **[Garden city: A synthetic dataset and sandbox environment for analysis of pre-processing algorithms for GPS human mobility data](http://arxiv.org/abs/2412.00913v3)** | 2025-05-08 | 19 pages, 12 figures |
+| **[Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments](http://arxiv.org/abs/2505.05540v1)** | 2025-05-08 | 16 pages, 26 figures |
 | **[CV-MP: Max-Pressure Control in Heterogeneously Distributed and Partially Connected Vehicle Environments](http://arxiv.org/abs/2505.05258v1)** | 2025-05-08 |  |
 | **[FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment](http://arxiv.org/abs/2504.08603v2)** | 2025-05-08 | 11 pages, 5 figures |
 | **[AI and Vision based Autonomous Navigation of Nano-Drones in Partially-Known Environments](http://arxiv.org/abs/2505.04972v1)** | 2025-05-08 | <details><summary>in DC...</summary><p>in DCOSS-IoT 2025, Wi-DroIT 2025</p></details> |
 | **[Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques](http://arxiv.org/abs/2505.02309v2)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted to IEEE COMPSAC 2025</p></details> |
-| **[Garden city: A synthetic dataset and sandbox environment for analysis of pre-processing algorithms for GPS human mobility data](http://arxiv.org/abs/2412.00913v2)** | 2025-05-07 | 19 pages, 12 figures |
 | **[Applied Post Quantum Cryptography: A Practical Approach for Generating Certificates in Industrial Environments](http://arxiv.org/abs/2505.04333v1)** | 2025-05-07 |  |
 | **[AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames](http://arxiv.org/abs/2505.03448v1)** | 2025-05-06 |  |
 | **[Enabling Robots to Autonomously Search Dynamic Cluttered Post-Disaster Environments](http://arxiv.org/abs/2505.03283v1)** | 2025-05-06 |  |
@@ -1445,7 +1450,6 @@ labels: documentation
 | **[HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments](http://arxiv.org/abs/2411.12150v2)** | 2025-05-01 |  |
 | **[Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments](http://arxiv.org/abs/2505.00668v1)** | 2025-05-01 |  |
 | **[HoneyWin: High-Interaction Windows Honeypot in Enterprise Environment](http://arxiv.org/abs/2505.00465v1)** | 2025-05-01 |  |
-| **[Active Contact Engagement for Aerial Navigation in Unknown Environments with Glass](http://arxiv.org/abs/2505.00332v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted in the IEEE RA-L</p></details> |
 | **[Bridging Deep Reinforcement Learning and Motion Planning for Model-Free Navigation in Cluttered Environments](http://arxiv.org/abs/2504.07283v2)** | 2025-05-01 | 16 pages |
 | **[Safe Navigation in Dynamic Environments Using Data-Driven Koopman Operators and Conformal Prediction](http://arxiv.org/abs/2504.00352v2)** | 2025-05-01 |  |
 | **[Towards proactive self-adaptive AI for non-stationary environments with dataset shifts](http://arxiv.org/abs/2504.21565v1)** | 2025-04-30 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, conference paper</p></details> |
@@ -1607,10 +1611,6 @@ labels: documentation
 | **[EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling](http://arxiv.org/abs/2412.10235v2)** | 2025-03-23 | Accepted by CVPR2025 |
 | **[Intent Prediction-Driven Model Predictive Control for UAV Planning and Navigation in Dynamic Environments](http://arxiv.org/abs/2409.15633v2)** | 2025-03-23 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables, experiment video: https://youtu.be/4xsEeMB9WPY, GitHub: https://github.com/Zhefan-Xu/Intent-MPC</p></details> |
 | **[Bandwidth Reservation for Time-Critical Vehicular Applications: A Multi-Operator Environment](http://arxiv.org/abs/2503.17756v1)** | 2025-03-22 | 14 pages, 11 figures |
-| **[Behavioral Conflict Avoidance Between Humans and Quadruped Robots in Shared Environments](http://arxiv.org/abs/2503.17014v1)** | 2025-03-21 | <details><summary>7 pag...</summary><p>7 pages, 9 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[SPINE: Online Semantic Planning for Missions with Incomplete Natural Language Specifications in Unstructured Environments](http://arxiv.org/abs/2410.03035v3)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Robotics and Automation (ICRA) 2025</p></details> |
-| **[OpenCity3D: What do Vision-Language Models know about Urban Environments?](http://arxiv.org/abs/2503.16776v1)** | 2025-03-21 | <details><summary>Publi...</summary><p>Published at WACV 2025</p></details> |
-| **[Self-Learning-Based Optimization for Free-form Pipe Routing in Aeroengine with Dynamic Design Environment](http://arxiv.org/abs/2504.03669v1)** | 2025-03-20 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
