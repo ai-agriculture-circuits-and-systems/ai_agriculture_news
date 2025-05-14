@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - May 14, 2025
+title: Latest 200 Papers - May 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -7,9 +7,10 @@ labels: documentation
 ## agriculture
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge Guided Encoder-Decoder Framework: Integrating Multiple Physical Models for Agricultural Ecosystem Modeling](http://arxiv.org/abs/2505.06266v2)** | 2025-05-13 |  |
 | **[Lightweight Multispectral Crop-Weed Segmentation for Precision Agriculture](http://arxiv.org/abs/2505.07444v1)** | 2025-05-12 | <details><summary>4 pag...</summary><p>4 pages, 5 figures, 1 table</p></details> |
 | **[EcoWeedNet: A Lightweight and Automated Weed Detection Method for Sustainable Next-Generation Agricultural Consumer Electronics](http://arxiv.org/abs/2502.00205v2)** | 2025-05-07 |  |
-| **[Knowledge Guided Encoder-Decoder Framework Integrating Multiple Physical Models for Agricultural Ecosystem Modeling](http://arxiv.org/abs/2505.06266v1)** | 2025-05-05 |  |
+| **[Evaluation of UAV-Based RGB and Multispectral Vegetation Indices for Precision Agriculture in Palm Tree Cultivation](http://arxiv.org/abs/2505.07840v1)** | 2025-05-06 |  |
 | **[AGRO: An Autonomous AI Rover for Precision Agriculture](http://arxiv.org/abs/2505.01200v1)** | 2025-05-02 |  |
 | **[A Secured Triad of IoT, Machine Learning, and Blockchain for Crop Forecasting in Agriculture](http://arxiv.org/abs/2505.01196v1)** | 2025-05-02 | 12 pages |
 | **[Vision Transformers in Precision Agriculture: A Comprehensive Survey](http://arxiv.org/abs/2504.21706v1)** | 2025-04-30 |  |
@@ -206,7 +207,6 @@ labels: documentation
 | **[Deep Semantic Model Fusion for Ancient Agricultural Terrace Detection](http://arxiv.org/abs/2308.02225v1)** | 2023-08-04 | <details><summary>IEEE ...</summary><p>IEEE Big Data 2022 workshop on Digital Twins for Accelerated Discovery of Climate & Sustainability Solutions (ADoCS)</p></details> |
 | **[Multispectral Image Segmentation in Agriculture: A Comprehensive Study on Fusion Approaches](http://arxiv.org/abs/2308.00159v1)** | 2023-07-31 | <details><summary>This ...</summary><p>This preprint has been submitted to ROBOT23: Sixth Iberian Robotics Conference</p></details> |
 | **[Chatbot Application to Support Smart Agriculture in Thailand](http://arxiv.org/abs/2308.02524v1)** | 2023-07-31 |  |
-| **[CATASTROAGRI -- Interactive data analysis and visualization application with a future projection for catastrophic agricultural insurance](http://arxiv.org/abs/2307.12844v1)** | 2023-07-24 | <details><summary>In th...</summary><p>In the process of sending magazines</p></details> |
 
 ## farming
 | **Title** | **Date** | **Comment** |
@@ -619,6 +619,7 @@ labels: documentation
 ## weather
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix](http://arxiv.org/abs/2505.08228v1)** | 2025-05-13 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted at the International Joint Conference on Neural Networks (IJCNN) 2025 (to appear)</p></details> |
 | **[Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction](http://arxiv.org/abs/2505.04918v1)** | 2025-05-08 | <details><summary>Inter...</summary><p>International Joint Conferences on Artificial Intelligence (IJCAI 2025)</p></details> |
 | **[Boosting Adverse Weather Crowd Counting via Multi-queue Contrastive Learning](http://arxiv.org/abs/2408.05956v3)** | 2025-05-08 | 8 pages, 5 figures |
 | **[Impact of Weather on Satellite Communication: Evaluating Starlink Resilience](http://arxiv.org/abs/2505.04772v1)** | 2025-05-07 | <details><summary>This ...</summary><p>This work has been accepted in the 2025 IEEE 101st Vehicular Technology Conference: VTC2025-Spring. Copyright has been transferred to IEEE</p></details> |
@@ -818,7 +819,6 @@ labels: documentation
 | **[Detection of Animal Movement from Weather Radar using Self-Supervised Learning](http://arxiv.org/abs/2408.04424v1)** | 2024-08-08 |  |
 | **[SCOPE: A Synthetic Multi-Modal Dataset for Collective Perception Including Physical-Correct Weather Conditions](http://arxiv.org/abs/2408.03065v1)** | 2024-08-06 |  |
 | **[Effect of Fog Particle Size Distribution on 3D Object Detection Under Adverse Weather Conditions](http://arxiv.org/abs/2408.01085v1)** | 2024-08-02 |  |
-| **[Efficiently improving key weather variables forecasting by performing the guided iterative prediction in latent space](http://arxiv.org/abs/2407.19187v1)** | 2024-07-27 |  |
 
 ## climate
 | **Title** | **Date** | **Comment** |
@@ -1411,6 +1411,12 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MESSI: A Multi-Elevation Semantic Segmentation Image Dataset of an Urban Environment](http://arxiv.org/abs/2505.08589v1)** | 2025-05-13 |  |
+| **[Non-contact Vital Signs Detection in Dynamic Environments](http://arxiv.org/abs/2505.08366v1)** | 2025-05-13 |  |
+| **[Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning](http://arxiv.org/abs/2505.08361v1)** | 2025-05-13 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
+| **[Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments](http://arxiv.org/abs/2505.08299v1)** | 2025-05-13 |  |
+| **[SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments](http://arxiv.org/abs/2505.08230v1)** | 2025-05-13 | 8 pages, 10 figures |
+| **[Decoding Neighborhood Environments with Large Language Models](http://arxiv.org/abs/2505.08163v1)** | 2025-05-13 | 8 pages |
 | **[MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering](http://arxiv.org/abs/2505.07782v1)** | 2025-05-12 |  |
 | **[ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments](http://arxiv.org/abs/2505.07692v1)** | 2025-05-12 | SIGMOD 2025 accepted |
 | **[Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](http://arxiv.org/abs/2504.11901v3)** | 2025-05-12 | <details><summary>Causa...</summary><p>Causal Discovery and Inference - Robot Autonomy - Human-Robot Spatial Interaction - Decision-Making</p></details> |
@@ -1431,6 +1437,7 @@ labels: documentation
 | **[Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques](http://arxiv.org/abs/2505.02309v2)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted to IEEE COMPSAC 2025</p></details> |
 | **[ARDNS-FN-Quantum: A Quantum-Enhanced Reinforcement Learning Framework with Cognitive-Inspired Adaptive Exploration for Dynamic Environments](http://arxiv.org/abs/2505.06300v1)** | 2025-05-07 | 19 pages, 7 figures |
 | **[Applied Post Quantum Cryptography: A Practical Approach for Generating Certificates in Industrial Environments](http://arxiv.org/abs/2505.04333v1)** | 2025-05-07 |  |
+| **[Winning at All Cost: A Small Environment for Eliciting Specification Gaming Behaviors in Large Language Models](http://arxiv.org/abs/2505.07846v1)** | 2025-05-07 | <details><summary>To be...</summary><p>To be presented at SIMLA@ACNS 2025</p></details> |
 | **[Soft causal learning for generalized molecule property prediction: An environment perspective](http://arxiv.org/abs/2505.06283v1)** | 2025-05-07 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, 3 tables</p></details> |
 | **[AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames](http://arxiv.org/abs/2505.03448v1)** | 2025-05-06 |  |
 | **[Enabling Robots to Autonomously Search Dynamic Cluttered Post-Disaster Environments](http://arxiv.org/abs/2505.03283v1)** | 2025-05-06 |  |
@@ -1461,6 +1468,7 @@ labels: documentation
 | **[HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments](http://arxiv.org/abs/2411.12150v2)** | 2025-05-01 |  |
 | **[Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments](http://arxiv.org/abs/2505.00668v1)** | 2025-05-01 |  |
 | **[HoneyWin: High-Interaction Windows Honeypot in Enterprise Environment](http://arxiv.org/abs/2505.00465v1)** | 2025-05-01 |  |
+| **[A General Approach of Automated Environment Design for Learning the Optimal Power Flow](http://arxiv.org/abs/2505.07832v1)** | 2025-05-01 | <details><summary>14 pa...</summary><p>14 pages, accepted at ACM e-energy 2025</p></details> |
 | **[Bridging Deep Reinforcement Learning and Motion Planning for Model-Free Navigation in Cluttered Environments](http://arxiv.org/abs/2504.07283v2)** | 2025-05-01 | 16 pages |
 | **[Safe Navigation in Dynamic Environments Using Data-Driven Koopman Operators and Conformal Prediction](http://arxiv.org/abs/2504.00352v2)** | 2025-05-01 |  |
 | **[Towards proactive self-adaptive AI for non-stationary environments with dataset shifts](http://arxiv.org/abs/2504.21565v1)** | 2025-04-30 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, conference paper</p></details> |
@@ -1603,21 +1611,14 @@ labels: documentation
 | **[ReCap: Better Gaussian Relighting with Cross-Environment Captures](http://arxiv.org/abs/2412.07534v3)** | 2025-03-27 |  |
 | **[StableToolBench-MirrorAPI: Modeling Tool Environments as Mirrors of 7,000+ Real-World APIs](http://arxiv.org/abs/2503.20527v1)** | 2025-03-26 |  |
 | **[SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments](http://arxiv.org/abs/2409.08681v2)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Robotics. Video: https://youtu.be/8HQnYMf_BWI Code: https://github.com/HKUST-Aerial-Robotics/SLIM</p></details> |
-| **[BEAR: A Video Dataset For Fine-grained Behaviors Recognition Oriented with Action and Environment Factors](http://arxiv.org/abs/2503.20209v1)** | 2025-03-26 | Accept by ICME2025 |
-| **[DRPA-MPPI: Dynamic Repulsive Potential Augmented MPPI for Reactive Navigation in Unstructured Environments](http://arxiv.org/abs/2503.20134v1)** | 2025-03-26 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, Submitted to the 2025 IEEE International Conference on Automation Science and Engineering (CASE)</p></details> |
-| **[FedMM-X: A Trustworthy and Interpretable Framework for Federated Multi-Modal Learning in Dynamic Environments](http://arxiv.org/abs/2503.19564v1)** | 2025-03-25 |  |
-| **[MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments](http://arxiv.org/abs/2503.19506v1)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Intelligent Vehicles</p></details> |
-| **[Design of Seamless Multi-modal Interaction Framework for Intelligent Virtual Agents in Wearable Mixed Reality Environment](http://arxiv.org/abs/2503.19334v1)** | 2025-03-25 | <details><summary>6 pag...</summary><p>6 pages, 14 Figures, Computer Animation and Social Agents (CASA 2019)</p></details> |
-| **[Mining-Gym: A Configurable RL Benchmarking Environment for Truck Dispatch Scheduling](http://arxiv.org/abs/2503.19195v1)** | 2025-03-24 | 11 pages, 8 figures |
-| **[Information-Seeking Decision Strategies Mitigate Risk in Dynamic, Uncertain Environments](http://arxiv.org/abs/2503.19107v1)** | 2025-03-24 |  |
-| **[EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments](http://arxiv.org/abs/2503.18825v1)** | 2025-03-24 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring Anthropomorphism in Conversational Agents for Environmental Sustainability](http://arxiv.org/abs/2505.07142v2)** | 2025-05-13 |  |
 | **[How Do Companies Manage the Environmental Sustainability of AI? An Interview Study About Green AI Efforts and Regulations](http://arxiv.org/abs/2505.07317v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted for publication at the 11th International Conference on ICT for Sustainability (ICT4S'25), see https://conf.researchr.org/home/ict4s-2025</p></details> |
-| **[Exploring Anthropomorphism in Conversational Agents for Environmental Sustainability](http://arxiv.org/abs/2505.07142v1)** | 2025-05-11 |  |
 | **[Exploring Multimodal Foundation AI and Expert-in-the-Loop for Sustainable Management of Wild Salmon Fisheries in Indigenous Rivers](http://arxiv.org/abs/2505.06637v1)** | 2025-05-10 | <details><summary>10 pa...</summary><p>10 pages, accepted by IJCAI 2025, AI and Social Good Track</p></details> |
+| **[Getting Ready for the EU AI Act in Healthcare. A call for Sustainable AI Development and Deployment](http://arxiv.org/abs/2505.07875v1)** | 2025-05-10 | 8 pages, 1 table |
 | **[Deep Learning Innovations for Energy Efficiency: Advances in Non-Intrusive Load Monitoring and EV Charging Optimization for a Sustainable Grid](http://arxiv.org/abs/2505.04367v1)** | 2025-05-07 | PhD thesis |
 | **[EcoWeedNet: A Lightweight and Automated Weed Detection Method for Sustainable Next-Generation Agricultural Consumer Electronics](http://arxiv.org/abs/2502.00205v2)** | 2025-05-07 |  |
 | **[CLEAR: Cue Learning using Evolution for Accurate Recognition Applied to Sustainability Data Extraction](http://arxiv.org/abs/2501.18504v3)** | 2025-05-07 | <details><summary>9 pag...</summary><p>9 pages plus 2 pages of supplemental material</p></details> |
@@ -1814,5 +1815,4 @@ labels: documentation
 | **[An AI-Enabled Framework Within Reach for Enhancing Healthcare Sustainability and Fairness](http://arxiv.org/abs/2406.07558v2)** | 2024-08-01 | 16 pages, 5 figures |
 | **[Reinforcement Learning for Sustainable Energy: A Survey](http://arxiv.org/abs/2407.18597v1)** | 2024-07-26 | <details><summary>22 pa...</summary><p>22 pages excluding references, 40 pages including references, 7 images</p></details> |
 | **[Quantum Computing for Climate Resilience and Sustainability Challenges](http://arxiv.org/abs/2407.16296v1)** | 2024-07-23 |  |
-| **[Self-Sustainable Metasurface-Assisted mmWave Indoor Communication System](http://arxiv.org/abs/2407.15729v1)** | 2024-07-22 | <details><summary>13 Pa...</summary><p>13 Pages, 16 Figures, submitted to IEEE Transaction on Wireless Communication, under review</p></details> |
 
