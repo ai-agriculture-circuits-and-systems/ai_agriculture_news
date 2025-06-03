@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - June 03, 2025
+title: Latest 200 Papers - June 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -823,6 +823,7 @@ labels: documentation
 ## climate
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Samudra: An AI Global Ocean Emulator for Climate](http://arxiv.org/abs/2412.03795v4)** | 2025-05-31 |  |
 | **[Grower-in-the-Loop Interactive Reinforcement Learning for Greenhouse Climate Control](http://arxiv.org/abs/2505.23355v1)** | 2025-05-29 |  |
 | **[Climate Finance Bench](http://arxiv.org/abs/2505.22752v1)** | 2025-05-28 | <details><summary>Datas...</summary><p>Dataset is available at https://github.com/Pladifes/climate_finance_bench</p></details> |
 | **[AI for Climate Finance: Agentic Retrieval and Multi-Step Reasoning for Early Warning System Investments](http://arxiv.org/abs/2504.05104v2)** | 2025-05-28 |  |
@@ -879,7 +880,6 @@ labels: documentation
 | **[Data-driven Seasonal Climate Predictions via Variational Inference and Transformers](http://arxiv.org/abs/2503.20466v2)** | 2025-03-28 |  |
 | **[Quantifying Climate Change Impacts on Renewable Energy Generation: A Super-Resolution Recurrent Diffusion Model](http://arxiv.org/abs/2412.11399v2)** | 2025-03-24 |  |
 | **[Mathematical Modeling, Analysis and Simulation Utilizing Machine Learning Tools for Assessing the Impact of Climate Lobbying](http://arxiv.org/abs/2505.09617v1)** | 2025-03-22 |  |
-| **[Samudra: An AI Global Ocean Emulator for Climate](http://arxiv.org/abs/2412.03795v3)** | 2025-03-22 |  |
 | **[Modelling the Climate Change Debate in Italy through Information Supply and Demand](http://arxiv.org/abs/2503.17026v1)** | 2025-03-21 |  |
 | **[ClimateGS: Real-Time Climate Simulation with 3D Gaussian Style Transfer](http://arxiv.org/abs/2503.14845v1)** | 2025-03-19 |  |
 | **[Climate land use and other drivers impacts on island ecosystem services: a global review](http://arxiv.org/abs/2503.10278v1)** | 2025-03-13 | <details><summary>Artic...</summary><p>Article published in the journal: Science of the Total Environment. Free author's version</p></details> |
@@ -1035,6 +1035,176 @@ labels: documentation
 | **[Field-scale soil moisture estimated from Sentinel-1 SAR data using a knowledge-guided deep learning approach](http://arxiv.org/abs/2505.00265v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)</p></details> |
 | **[A Collaborative Platform for Soil Organic Carbon Inference Based on Spatiotemporal Remote Sensing Data](http://arxiv.org/abs/2504.13962v2)** | 2025-04-29 | <details><summary>28 pa...</summary><p>28 pages, 11 figures. Submitted for review to "Environmental Modelling & Software"</p></details> |
 | **[Design and Evaluation of a UGV-Based Robotic Platform for Precision Soil Moisture Remote Sensing](http://arxiv.org/abs/2504.18284v1)** | 2025-04-25 | <details><summary>Accep...</summary><p>Accepted and presented at the workshop on Agricultural Robotics for a Sustainable Future at 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, October 14, 2024. 2024</p></details> |
+| **[Predicting Soil Macronutrient Levels: A Machine Learning Approach Models Trained on pH, Conductivity, and Average Power of Acid-Base Solutions](http://arxiv.org/abs/2504.04138v1)** | 2025-04-05 |  |
+| **[Machine Learning Models for Soil Parameter Prediction Based on Satellite, Weather, Clay and Yield Data](http://arxiv.org/abs/2503.22276v1)** | 2025-03-28 | <details><summary>This ...</summary><p>This technical report is the documentation of a student project collaboration between Technische Hochschule Ingolstadt and MI4People</p></details> |
+| **[Explainable Dual-Attention Tabular Transformer for Soil Electrical Resistivity Prediction: A Decision Support Framework for High-Voltage Substation Construction](http://arxiv.org/abs/2504.02834v1)** | 2025-03-17 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.15827 by other authors</p></details> |
+| **[BS-Mamba for Black-Soil Area Detection On the Qinghai-Tibetan Plateau](http://arxiv.org/abs/2503.12495v1)** | 2025-03-16 | <details><summary>Journ...</summary><p>Journal of Applied Remote Sensing, 2025</p></details> |
+| **[A Stabilised Semi-Implicit Double-Point Material Point Method for Soil-Water Coupled Problems](http://arxiv.org/abs/2401.11951v2)** | 2025-02-28 |  |
+| **[Multiclass Post-Earthquake Building Assessment Integrating Optical and SAR Satellite Imagery, Ground Motion, and Soil Data with Transformers](http://arxiv.org/abs/2412.04664v2)** | 2025-02-26 | 28 Pages, 12 Figures |
+| **[Biogeochemistry-Informed Neural Network (BINN) for Improving Accuracy of Model Prediction and Scientific Understanding of Soil Organic Carbon](http://arxiv.org/abs/2502.00672v2)** | 2025-02-06 | 60 pages, 11 figures |
+| **[Intelligent Gradient Boosting Algorithms for Estimating Strength of Modified Subgrade Soil](http://arxiv.org/abs/2501.04826v1)** | 2025-01-08 | 17 pages |
+| **[Microwave Remote Sensing of Soil Moisture, Above Ground Biomass and Freeze-Thaw Dynamic: Modeling and Empirical Approaches](http://arxiv.org/abs/2412.03523v1)** | 2024-12-04 |  |
+| **[Biomolecular Analysis of Soil Samples and Rock Imagery for Tracing Evidence of Life Using a Mobile Robot](http://arxiv.org/abs/2411.18594v1)** | 2024-11-27 | <details><summary>Key W...</summary><p>Key Words : Mars, Rover, Phoenix, Biosignatures, Biomolecular Analysis, Microscopy, Spectroscopy, Sampling, Astrobiology</p></details> |
+| **[Enabling Adoption of Regenerative Agriculture through Soil Carbon Copilots](http://arxiv.org/abs/2411.16872v2)** | 2024-11-27 |  |
+| **[The Muon Space GNSS-R Surface Soil Moisture Product](http://arxiv.org/abs/2412.00072v1)** | 2024-11-26 | 23 pages, 10 figures |
+| **[Soil Characterization of Watermelon Field through Internet of Things: A New Approach to Soil Salinity Measurement](http://arxiv.org/abs/2411.17731v1)** | 2024-11-22 |  |
+| **[Machine Learning Algorithms to Assess Site Closure Time Frames for Soil and Groundwater Contamination](http://arxiv.org/abs/2411.10214v2)** | 2024-11-19 | <details><summary>The p...</summary><p>The paper will be withdrawn to fix some work issues with the sections on Bi-LSTM models</p></details> |
+| **[CQUESST: A dynamical stochastic framework for predicting soil-carbon sequestration](http://arxiv.org/abs/2411.06073v1)** | 2024-11-09 |  |
+| **[Precision Soil Quality Analysis Using Transformer-based Data Fusion Strategies: A Systematic Review](http://arxiv.org/abs/2410.18353v1)** | 2024-10-24 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, 4 tables, Journal</p></details> |
+| **[Soil organic carbon sequestration potential and policy optimization](http://arxiv.org/abs/2409.18198v1)** | 2024-09-26 | <details><summary>34 pa...</summary><p>34 pages, 4 figures, 2 tables</p></details> |
+| **[Sparse Attention Regression Network Based Soil Fertility Prediction With Ummaso](http://arxiv.org/abs/2404.10274v2)** | 2024-09-10 | <details><summary>There...</summary><p>There is an error in the result section</p></details> |
+| **[Prediction of soil fertility parameters using USB-microscope imagery and portable X-ray fluorescence spectrometry](http://arxiv.org/abs/2404.12415v2)** | 2024-09-05 | <details><summary>Publi...</summary><p>Published in 'Soil Advances'</p></details> |
+| **[Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure](http://arxiv.org/abs/2310.02060v3)** | 2024-08-26 | <details><summary>Prepr...</summary><p>Preprint submitted to Mathematical Modeling in Natural Phenomena</p></details> |
+| **[MIS-ME: A Multi-modal Framework for Soil Moisture Estimation](http://arxiv.org/abs/2408.00963v3)** | 2024-08-21 | Accepted by DSAA2024 |
+| **[High-Sensitivity and Compact Time-domain Soil Moisture Sensor Using Dispersive Phase Shifter for Complex Permittivity Measurement](http://arxiv.org/abs/2408.10462v1)** | 2024-08-20 |  |
+| **[SSL-SoilNet: A Hybrid Transformer-based Framework with Self-Supervised Learning for Large-scale Soil Organic Carbon Prediction](http://arxiv.org/abs/2308.03586v3)** | 2024-08-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Geoscience and Remote Sensing (TGRS)</p></details> |
+| **[Time-Series Foundation Models for Forecasting Soil Moisture Levels in Smart Agriculture](http://arxiv.org/abs/2405.18913v3)** | 2024-08-09 | <details><summary>7 pag...</summary><p>7 pages, accepted at KDD '24 - Fragile Earth Workshop https://openreview.net/forum?id=GZBGhi4JfE</p></details> |
+| **[Soil Sample Search in Partially Observable Environments](http://arxiv.org/abs/2408.01589v1)** | 2024-08-02 |  |
+| **[A changepoint approach to modelling non-stationary soil moisture dynamics](http://arxiv.org/abs/2310.17546v2)** | 2024-07-30 | <details><summary>21 pa...</summary><p>21 pages for the main manuscript, 8 pages for the supplemental document</p></details> |
+| **[Patterns in soil organic carbon dynamics: integrating microbial activity, chemotaxis and data-driven approaches](http://arxiv.org/abs/2407.20625v1)** | 2024-07-30 |  |
+| **[gFlora: a topology-aware method to discover functional co-response groups in soil microbial communities](http://arxiv.org/abs/2407.03897v2)** | 2024-07-17 | <details><summary>BIOKD...</summary><p>BIOKDD accepted. Note: the first version of this paper is not approved by all authors. the second version is the official version for BIOKDD camera-ready</p></details> |
+| **[Autonomous Soil Collection in Environments With Heterogeneous Terrain](http://arxiv.org/abs/2407.11251v1)** | 2024-07-15 |  |
+| **[Bayesian inversion of GPR waveforms for sub-surface material characterization: an uncertainty-aware retrieval of soil moisture and overlaying biomass properties](http://arxiv.org/abs/2312.07928v2)** | 2024-06-28 | <details><summary>Total...</summary><p>Total 34 pages, 17 Figures. This paper under review in a journal but has not been published yet</p></details> |
+| **[Soil respiration signals in response to sustainable soil management practices enhance soil organic carbon stocks](http://arxiv.org/abs/2404.05737v2)** | 2024-06-19 | <details><summary>The a...</summary><p>The author was unaware that there was no legal rights to use a portion of the data used in this study</p></details> |
+| **[Soil nitrogen forecasting from environmental variables provided by multisensor remote sensing images](http://arxiv.org/abs/2406.09812v1)** | 2024-06-14 |  |
+| **[A Voxel-based Approach for Simulating Microbial Decomposition in Soil: Comparison with LBM and Improvement of Morphological Models](http://arxiv.org/abs/2406.04177v1)** | 2024-06-06 | <details><summary>Prepr...</summary><p>Preprint submitted to IEEE Access</p></details> |
+| **[A text-based, generative deep learning model for soil reflectance spectrum simulation in the VIS-NIR (400-2499 nm) bands](http://arxiv.org/abs/2405.01060v1)** | 2024-05-02 | <details><summary>The p...</summary><p>The paper has been submitted to Remote sensing of Environment and revised</p></details> |
+| **[LRBF meshless methods for predicting soil moisture distribution in root zone](http://arxiv.org/abs/2404.12453v1)** | 2024-04-18 |  |
+| **[Feedback control of plant-soil autotoxicity via pulse-width modulation](http://arxiv.org/abs/2311.13295v2)** | 2024-04-15 | Accepted to ECC 2024 |
+| **[Implicit EXP-RBF techniques for modeling unsaturated flow through soils with water uptake by plant roots](http://arxiv.org/abs/2404.09382v1)** | 2024-04-14 |  |
+| **[Empirical Upscaling of Point-scale Soil Moisture Measurements for Spatial Evaluation of Model Simulations and Satellite Retrievals](http://arxiv.org/abs/2404.05229v1)** | 2024-04-08 | <details><summary>Accep...</summary><p>Accepted and selected as the Student Paper Competition finalists at the 2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2024)</p></details> |
+| **[Performance triggered adaptive model reduction for soil moisture estimation in precision irrigation](http://arxiv.org/abs/2404.01468v1)** | 2024-04-01 |  |
+| **[A Machine Learning Approach for Crop Yield and Disease Prediction Integrating Soil Nutrition and Weather Factors](http://arxiv.org/abs/2403.19273v1)** | 2024-03-28 | <details><summary>This ...</summary><p>This paper was presented to the IEEE conference, "2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS), 8-9 March, Dhaka, Bangladesh"</p></details> |
+| **[GloSIS: The Global Soil Information System Web Ontology](http://arxiv.org/abs/2403.16778v1)** | 2024-03-25 |  |
+| **[The Effect of Different Optimization Strategies to Physics-Constrained Deep Learning for Soil Moisture Estimation](http://arxiv.org/abs/2403.08154v1)** | 2024-03-13 |  |
+| **[Performance of Expansive Soil Stabilized with Bamboo Charcoal, Quarry Dust, and Lime for Use as Road Subgrade Material](http://arxiv.org/abs/2403.06669v1)** | 2024-03-11 | 13 pages, 15 images |
+| **[A bivariate spatial extreme mixture model for unreplicated heavy metal soil contamination](http://arxiv.org/abs/2402.14624v1)** | 2024-02-22 |  |
+| **[Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data](http://arxiv.org/abs/2306.11157v2)** | 2024-02-17 |  |
+| **[Innovative Approaches in Soil Carbon Sequestration Modelling for Better Prediction with Limited Data](http://arxiv.org/abs/2105.04789v3)** | 2024-02-10 | 28 pages, 7 figures |
+| **[Radon mitigation by soil depressurisation case study: radon concentration and pressure field extension monitoring in a pilot house in Spain](http://arxiv.org/abs/2403.15392v1)** | 2024-02-08 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 2 tables</p></details> |
+| **[Domain Adaptation for Sustainable Soil Management using Causal and Contrastive Constraint Minimization](http://arxiv.org/abs/2401.07175v1)** | 2024-01-13 | <details><summary>Neuri...</summary><p>Neurips workshop on Tackling Climate Change 2023</p></details> |
+| **[Binary Endogenous Treatment in Stochastic Frontier Models with an Application to Soil Conservation in El Salvador](http://arxiv.org/abs/2312.13939v1)** | 2023-12-21 |  |
+| **[Inferring the relationship between soil temperature and the normalized difference vegetation index with machine learning](http://arxiv.org/abs/2312.12258v1)** | 2023-12-19 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 5 tables</p></details> |
+| **[Nonlinear Time-History Analysis of Soil-Structure Systems Incorporating Frequency-Dependent Impedance Functions](http://arxiv.org/abs/2312.06060v2)** | 2023-12-13 |  |
+| **[Soil Organic Carbon Estimation from Climate-related Features with Graph Neural Network](http://arxiv.org/abs/2311.15979v1)** | 2023-11-27 |  |
+| **[Image-Based Soil Organic Carbon Remote Sensing from Satellite Images with Fourier Neural Operator and Structural Similarity](http://arxiv.org/abs/2311.13016v1)** | 2023-11-21 | <details><summary>This ...</summary><p>This paper was accepted by the 2023 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2023)</p></details> |
+| **[A Heterogeneous Spatial Model for Soil Carbon Mapping of the Contiguous United States Using VNIR Spectra](http://arxiv.org/abs/2311.12020v1)** | 2023-11-20 |  |
+| **[A novel transformer-based approach for soil temperature prediction](http://arxiv.org/abs/2311.11626v1)** | 2023-11-20 |  |
+| **[DeepQC: A Deep Learning System for Automatic Quality Control of In-situ Soil Moisture Sensor Time Series Data](http://arxiv.org/abs/2311.06735v1)** | 2023-11-12 | 9 pages, 8 figures |
+| **[Computer Vision for Particle Size Analysis of Coarse-Grained Soils](http://arxiv.org/abs/2311.06613v1)** | 2023-11-11 |  |
+| **[Exploratory functional data analysis of multivariate densities for the identification of agricultural soil contamination by risk elements](http://arxiv.org/abs/2310.13761v3)** | 2023-11-06 |  |
+| **[A Machine Learning Data Fusion Model for Soil Moisture Retrieval](http://arxiv.org/abs/2206.09649v3)** | 2023-10-16 | <details><summary>58 pa...</summary><p>58 pages, 21 tables, 26 figures</p></details> |
+| **[Assessing of Soil Erosion Risk Through Geoinformation Sciences and Remote Sensing -- A Review](http://arxiv.org/abs/2310.08430v1)** | 2023-10-12 | <details><summary>Chapt...</summary><p>Chapter 21 (pages 54)</p></details> |
+| **[Robot-assisted Soil Apparent Electrical Conductivity Measurements in Orchards](http://arxiv.org/abs/2309.05128v1)** | 2023-09-10 | 15 pages, 16 figures |
+| **[In Situ Soil Property Estimation for Autonomous Earthmoving Using Physics-Infused Neural Networks](http://arxiv.org/abs/2309.02575v1)** | 2023-09-05 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, to be published in proceedings of 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)</p></details> |
+| **[Deep-Learning Framework for Optimal Selection of Soil Sampling Sites](http://arxiv.org/abs/2309.00974v1)** | 2023-09-02 | <details><summary>This ...</summary><p>This paper is the full version of a poster presented at the AI in Agriculture Conference 2023 in Orlando, FL, USA</p></details> |
+| **[Soil Image Segmentation Based on Mask R-CNN](http://arxiv.org/abs/2309.00817v1)** | 2023-09-02 | <details><summary>4 pag...</summary><p>4 pages, 5 figures, Published in 2023 3rd International Conference on Consumer Electronics and Computer Engineering</p></details> |
+| **[Stochastic Soiling Loss Models for Heliostats in Concentrating Solar Power Plants](http://arxiv.org/abs/2304.11814v2)** | 2023-08-21 | 55 pages, 13 figures |
+| **[Rapid detection of soil carbonates by means of NIR spectroscopy, deep learning methods and phase quantification by powder Xray diffraction](http://arxiv.org/abs/2307.12341v1)** | 2023-07-23 | 39 pages, 5 figures |
+| **[Thermal Vision for Soil Assessment in a Multipurpose Environmental Chamber under Martian Conditions towards Robot Navigation](http://arxiv.org/abs/2304.13525v2)** | 2023-07-14 | 10 pages, 13 figures |
+| **[Knowledge Guided Representation Learning and Causal Structure Learning in Soil Science](http://arxiv.org/abs/2306.09302v1)** | 2023-06-15 |  |
+| **[Soft Soil Gait Planning and Control for Biped Robot using Deep Deterministic Policy Gradient Approach](http://arxiv.org/abs/2306.08063v1)** | 2023-06-13 | <details><summary>Advan...</summary><p>Advances in Robotics (AIR) 2023 IIT Ropar</p></details> |
+| **[Maximizing soil moisture estimation accuracy through simultaneous hydraulic parameter estimation using microwave remote sensing: Methodology and application](http://arxiv.org/abs/2305.15549v1)** | 2023-05-24 |  |
+| **[Self-Supervised Anomaly Detection of Rogue Soil Moisture Sensors](http://arxiv.org/abs/2305.05495v1)** | 2023-05-09 |  |
+| **[Feasibility study and thermoeconomic analysis of cooling and heating systems using soil for a residential and greenhouse building](http://arxiv.org/abs/2304.05507v1)** | 2023-04-11 | <details><summary>13 pa...</summary><p>13 pages, 24 figures, 5 tables</p></details> |
+| **[Machine Learning Techniques for Estimating Soil Moisture from Mobile Captured Images](http://arxiv.org/abs/2303.11527v1)** | 2023-03-21 | 21 pages, 10 figures |
+| **[A VMS-FEM for the stress-history-dependent materials (fluid or solid) interacting with the rigid body structure: formulation, numerical verification and application in the pipe-soil-water interaction analysis](http://arxiv.org/abs/2303.10308v1)** | 2023-03-18 |  |
+| **[A relation between undrained CPTu results and the state parameter for liquefiable soils](http://arxiv.org/abs/2303.03841v1)** | 2023-03-07 | <details><summary>39 pa...</summary><p>39 pages, 15 figures, 4 tables</p></details> |
+| **[Development of a stable two-phase contact MPM algorithm for saturated soil-structure interaction problems](http://arxiv.org/abs/2303.00860v1)** | 2023-03-01 | 36 pages, 21 Figures |
+| **[An Open Dataset of Sensor Data from Soil Sensors and Weather Stations at Production Farms](http://arxiv.org/abs/2302.09072v1)** | 2023-02-16 |  |
+| **[Data-driven soiling detection in PV modules](http://arxiv.org/abs/2301.12939v1)** | 2023-01-30 | 12 pages, 4 figures |
+| **[Deformation measurement of a soil mixing retaining wall using terrestrial laser scanning](http://arxiv.org/abs/2301.04811v1)** | 2023-01-12 | 22 pages |
+| **[Application of Physics-Informed Neural Networks for Forward and Inverse Analysis of Pile-Soil Interaction](http://arxiv.org/abs/2212.08306v1)** | 2022-12-16 | 17 Pages, 12 Figures |
+| **[Forecasting Soil Moisture Using Domain Inspired Temporal Graph Convolution Neural Networks To Guide Sustainable Crop Management](http://arxiv.org/abs/2212.06565v1)** | 2022-12-12 |  |
+| **[Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals](http://arxiv.org/abs/2211.15938v1)** | 2022-11-29 |  |
+| **[The GA-cal software for the automatic calibration of soil constitutive laws: a tutorial and a user manual](http://arxiv.org/abs/2211.13652v1)** | 2022-11-24 |  |
+| **[Causal Modeling of Soil Processes for Improved Generalization](http://arxiv.org/abs/2211.05675v1)** | 2022-11-10 | <details><summary>NeurI...</summary><p>NeurIPS 2022 Workshop Tackling Climate Change with Machine Learning</p></details> |
+| **[Similarities and differences in the sensitivity of Soil Organic Matter (SOM) dynamics to biogeochemical parameters for different vegetation inputs and climates](http://arxiv.org/abs/2210.16417v1)** | 2022-10-28 |  |
+| **[A deep scalable neural architecture for soil properties estimation from spectral information](http://arxiv.org/abs/2210.17314v1)** | 2022-10-26 | <details><summary>14 pa...</summary><p>14 pages + 13 of appendix. Journal paper</p></details> |
+| **[Soil moisture estimation from Sentinel-1 interferometric observations over arid regions](http://arxiv.org/abs/2210.10665v1)** | 2022-10-18 |  |
+| **[Understanding the Effect of Smartphone Cameras on Estimating Munsell Soil Colors from Imagery](http://arxiv.org/abs/2210.06667v1)** | 2022-10-13 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted to publish in DICTA 2022 conference proceedings</p></details> |
+| **[Comparative Analysis and Calibration of Low Cost Resistive and Capacitive Soil Moisture Sensor](http://arxiv.org/abs/2210.03019v1)** | 2022-10-06 |  |
+| **[Visual Transformer for Soil Classification](http://arxiv.org/abs/2209.02950v1)** | 2022-09-07 | <details><summary>Prese...</summary><p>Presented in 2022 IEEE Students Conference on Engineering and Systems (SCES), July 01-03, 2022, Prayagraj, India</p></details> |
+| **[A workflow for segmenting soil and plant X-ray CT images with deep learning in Googles Colaboratory](http://arxiv.org/abs/2203.09674v2)** | 2022-07-21 | <details><summary>58 pa...</summary><p>58 pages, 9 figures, 2 Tables</p></details> |
+| **[Soil Erosion in the United States. Present and Future (2020-2050)](http://arxiv.org/abs/2207.06579v1)** | 2022-07-14 |  |
+| **[Robotic agricultural instrument for automated extraction of nematode cysts and eggs from soil to improve integrated pest management](http://arxiv.org/abs/2205.11757v1)** | 2022-05-24 |  |
+| **[IoT- Based Low-Cost Soil Moisture and Soil Temperature Monitoring System](http://arxiv.org/abs/2206.07488v1)** | 2022-05-23 | <details><summary>07 pa...</summary><p>07 pages, 08 figures, 03 tables. Submitted to 6th International Conference on Computing Communication Control and Automation (ICCUBEA) - 2022</p></details> |
+| **[Ensemble Kalman Inversion method for an inverse problem in soil-structure interaction](http://arxiv.org/abs/2205.07560v1)** | 2022-05-16 |  |
+| **[Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture](http://arxiv.org/abs/2012.03506v2)** | 2022-05-16 | <details><summary>Accep...</summary><p>Accepted for publication in IJCAI 2022</p></details> |
+| **[Joint Study of Above Ground Biomass and Soil Organic Carbon for Total Carbon Estimation using Satellite Imagery in Scotland](http://arxiv.org/abs/2205.04870v1)** | 2022-05-08 |  |
+| **[A Deep Learning Approach for Predicting Two-dimensional Soil Consolidation Using Physics-Informed Neural Networks (PINN)](http://arxiv.org/abs/2205.05710v1)** | 2022-04-09 | 23 pages |
+| **[Impact of sensor placement in soil water estimation: A real-case study](http://arxiv.org/abs/2203.06548v1)** | 2022-03-13 |  |
+| **[Nonlinear Reduced Order Modelling of Soil Structure Interaction Effects via LSTM and Autoencoder Neural Networks](http://arxiv.org/abs/2203.01842v1)** | 2022-03-03 |  |
+| **[Robotic Irrigation Water Management: Estimating Soil Moisture Content by Feel and Appearance](http://arxiv.org/abs/2201.07653v1)** | 2022-01-19 |  |
+| **[The effect of biologically mediated decay rates on modelling soil carbon sequestration in agricultural settings](http://arxiv.org/abs/2201.01564v1)** | 2022-01-05 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2105.04789</p></details> |
+| **[Estimating Parameters of the Tree Root in Heterogeneous Soil Environments via Mask-Guided Multi-Polarimetric Integration Neural Network](http://arxiv.org/abs/2112.13494v1)** | 2021-12-27 | 14 pages, 12 figures |
+| **[smol: Sensing Soil Moisture using LoRa](http://arxiv.org/abs/2110.01501v1)** | 2021-10-04 |  |
+| **[Optimal sampling and assay for soil organic carbon estimation](http://arxiv.org/abs/2101.07398v4)** | 2021-08-30 | 30 pages, 3 figures |
+| **[Evaluating the impact of increasing temperatures on changes in Soil Organic Carbon stocks: sensitivity analysis and non-standard discrete approximation](http://arxiv.org/abs/2108.00077v1)** | 2021-07-30 | 34 pages, 13 figures |
+| **[A Portable Agricultural Robot for Continuous Apparent Soil ElectricalConductivity Measurements to Improve Irrigation Practices](http://arxiv.org/abs/2107.09219v1)** | 2021-07-20 |  |
+| **[Quantification of parametric uncertainties induced by irregular soil loading in orchard tower sprayer nonlinear dynamics](http://arxiv.org/abs/2107.12142v1)** | 2021-07-14 |  |
+| **[Ensemble-based Semi-supervised Learning to Improve Noisy Soiling Annotations in Autonomous Driving](http://arxiv.org/abs/2105.07930v2)** | 2021-07-11 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at IEEE Intelligent Transportation Systems Conference (ITSC) 2021</p></details> |
+| **[Dynamic Modeling of Bucket-Soil Interactions Using Koopman-DFL Lifting Linearization for Model Predictive Contouring Control of Autonomous Excavators](http://arxiv.org/abs/2107.04314v1)** | 2021-07-09 |  |
+| **[Total Nitrogen Estimation in Agricultural Soils via Aerial Multispectral Imaging and LIBS](http://arxiv.org/abs/2107.02355v1)** | 2021-07-06 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, published in scientific reports</p></details> |
+| **[A hybrid discrete-continuum approach to model hydro-mechanical behaviour of soil during desiccation](http://arxiv.org/abs/2106.04676v1)** | 2021-05-25 |  |
+| **[Using vis-NIRS and Machine Learning methods to diagnose sugarcane soil chemical properties](http://arxiv.org/abs/2012.12995v3)** | 2021-05-11 |  |
+| **[Optimal soil sampling design based on the maxvol algorithm](http://arxiv.org/abs/2103.10337v1)** | 2021-03-18 |  |
+| **[Biogeography-Based Optimization of RC structures including static soil-structure interaction](http://arxiv.org/abs/2103.05129v1)** | 2021-03-08 | <details><summary>15 pa...</summary><p>15 pages, 16 figures, submitted</p></details> |
+| **[Spectral nature of soiling and its impact on multi-junction based concentrator systems](http://arxiv.org/abs/2103.01873v1)** | 2021-03-02 | 22 pages, 12 Figures |
+| **[Wireless sensor network for in situ soil moisture monitoring](http://arxiv.org/abs/2102.10260v1)** | 2021-02-20 | <details><summary>12 pa...</summary><p>12 pages, 16 figures, Sensornets 2021 Conference</p></details> |
+| **[Deep Learning Approaches for Forecasting Strawberry Yields and Prices Using Satellite Images and Station-Based Soil Parameters](http://arxiv.org/abs/2102.09024v1)** | 2021-02-17 | <details><summary>Paper...</summary><p>Paper Accepted in Association for the Advancement of Artificial Intelligence (AAAI) Spring Symposium on 21st Jan, 2021</p></details> |
+| **[Development of Crop Yield Estimation Model using Soil and Environmental Parameters](http://arxiv.org/abs/2102.05755v1)** | 2021-02-10 | <details><summary>crop ...</summary><p>crop yield forecasting, regression, data mining, artificial neural network, ensemble learning</p></details> |
+| **[Optical Flow Method for Measuring Deformation of Soil Specimen Subjected to Torsional Shearing](http://arxiv.org/abs/2101.07005v2)** | 2021-01-19 | <details><summary>To ap...</summary><p>To appear in Measurement</p></details> |
+| **[Machine Learning and Soil Humidity Sensing: Signal Strength Approach](http://arxiv.org/abs/2011.08273v1)** | 2020-11-16 |  |
+| **[Let's Get Dirty: GAN Based Data Augmentation for Camera Lens Soiling Detection in Autonomous Driving](http://arxiv.org/abs/1912.02249v3)** | 2020-11-14 | <details><summary>Camer...</summary><p>Camera ready version + supplementary material. Accepted for presentation at Winter Conference on Applications of Computer Vision 2021</p></details> |
+| **[Optimizing Waste Management Collection Routes in Urban Haiti: A Collaboration between DataKind and SOIL](http://arxiv.org/abs/2011.00303v1)** | 2020-10-31 | <details><summary>6 pag...</summary><p>6 pages, 5 figures 2 tables</p></details> |
+| **[Global soil moisture from in-situ measurements using machine learning -- SoMo.ml](http://arxiv.org/abs/2010.02374v1)** | 2020-10-05 |  |
+| **[Soil moisture map construction using microwave remote sensors and sequential data assimilation](http://arxiv.org/abs/2010.07037v1)** | 2020-09-28 |  |
+| **[An Initial Exploration of Bayesian Model Calibration for Estimating the Composition of Rocks and Soils on Mars](http://arxiv.org/abs/2008.04982v1)** | 2020-08-11 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, special issue</p></details> |
+| **[Development and Analysis of Digging and Soil Removing Mechanisms for Mole-Bot: Bio-Inspired Mole-Like Drilling Robot](http://arxiv.org/abs/2008.12229v1)** | 2020-08-04 | <details><summary>8 pag...</summary><p>8 pages, Accepted by 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[A novel dowscaling procedure for compositional data in the Aitchison geometry with application to soil texture data](http://arxiv.org/abs/2007.06856v1)** | 2020-07-14 |  |
+| **[Predicting and Mapping of Soil Organic Carbon Using Machine Learning Algorithms in Northern Iran](http://arxiv.org/abs/2007.12475v1)** | 2020-07-12 | 30pages, 9 figures |
+| **[TiledSoilingNet: Tile-level Soiling Detection on Automotive Surround-view Cameras Using Coverage Metric](http://arxiv.org/abs/2007.00801v1)** | 2020-07-01 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at IEEE Intelligent Transportation Systems Conference (ITSC) 2020</p></details> |
+| **[Application of Fuzzy Rule based System for Highway Research Board Classification of Soils](http://arxiv.org/abs/2006.08347v1)** | 2020-05-10 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, https://wireilla.com/ijfls/abstract/10220ijfls01.html</p></details> |
+| **[SMArtCast: Predicting soil moisture interpolations into the future using Earth observation data in a deep learning framework](http://arxiv.org/abs/2003.10823v2)** | 2020-04-24 | <details><summary>Clima...</summary><p>Climate change AI workshop</p></details> |
+| **[Improved prediction of soil properties with Multi-target Stacked Generalisation on EDXRF spectra](http://arxiv.org/abs/2002.04312v1)** | 2020-02-11 | 20 pages, 5 figures |
+| **[Predicting Soil pH by Using Nearest Fields](http://arxiv.org/abs/1912.01303v1)** | 2019-12-03 |  |
+| **[SoildNet: Soiling Degradation Detection in Autonomous Driving](http://arxiv.org/abs/1911.01054v2)** | 2019-11-21 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2019 Workshop on Machine Learning for Autonomous Driving</p></details> |
+| **[Modeling of Electrical Resistivity of Soil Based on Geotechnical Properties](http://arxiv.org/abs/1910.01325v1)** | 2019-10-03 | 22 pages, 13 figures |
+| **[SoilingNet: Soiling Detection on Automotive Surround-View Cameras](http://arxiv.org/abs/1905.01492v2)** | 2019-07-17 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at IEEE Intelligent Transportation Systems Conference (ITSC) 2019</p></details> |
+| **[Evaluating aleatoric and epistemic uncertainties of time series deep learning models for soil moisture predictions](http://arxiv.org/abs/1906.04595v1)** | 2019-06-10 |  |
+| **[Prediction of Soil Moisture Content Based On Satellite Data and Sequence-to-Sequence Networks](http://arxiv.org/abs/1907.03697v1)** | 2019-06-05 | <details><summary>Prese...</summary><p>Presented on NeurIPS 2018 WiML workshop</p></details> |
+| **[Prediction of Compression Index of Fine-Grained Soils Using a Gene Expression Programming Model](http://arxiv.org/abs/1907.04913v1)** | 2019-05-26 | <details><summary>8 fig...</summary><p>8 figures, 5 tables, 12 pages</p></details> |
+| **[Hierarchical Multimodel Ensemble Estimates of Soil Water Retention with Global Coverage](http://arxiv.org/abs/1906.03182v1)** | 2019-05-23 |  |
+| **[SOMOSPIE: A modular SOil MOisture SPatial Inference Engine based on data driven decisions](http://arxiv.org/abs/1904.07754v2)** | 2019-05-20 | <details><summary>10 pa...</summary><p>10 pages, 11 figures, 1 table</p></details> |
+| **[Soil Texture Classification with 1D Convolutional Neural Networks based on Hyperspectral Data](http://arxiv.org/abs/1901.04846v3)** | 2019-03-30 | <details><summary>Accep...</summary><p>Accepted to the ISPRS Geospatial Week 2019 in Enschede (NL)</p></details> |
+| **[Segmentation of Roots in Soil with U-Net](http://arxiv.org/abs/1902.11050v2)** | 2019-03-18 |  |
+| **[Machine Learning Allows Calibration Models to Predict Trace Element Concentration in Soil with Generalized LIBS Spectra](http://arxiv.org/abs/1906.08597v1)** | 2019-02-13 | 34 pages |
+| **[Kriging-Based Robotic Exploration for Soil Moisture Mapping Using a Cosmic-Ray Sensor](http://arxiv.org/abs/1811.05384v1)** | 2018-11-13 | 23 pages 13 figures |
+| **[Fusion of hyperspectral and ground penetrating radar to estimate soil moisture](http://arxiv.org/abs/1804.05273v3)** | 2018-08-07 | <details><summary>This ...</summary><p>This work has been accepted to the IEEE WHISPERS 2018 conference. (C) 2018 IEEE</p></details> |
+| **[Developing a machine learning framework for estimating soil moisture with VNIR hyperspectral data](http://arxiv.org/abs/1804.09046v4)** | 2018-07-12 | <details><summary>Accep...</summary><p>Accepted at ISPRS TC I Midterm Symposium Karlsruhe (October 2018)</p></details> |
+| **[Nonstationary Spatial Prediction of Soil Organic Carbon: Implications for Stock Assessment Decision Making](http://arxiv.org/abs/1608.05655v5)** | 2018-06-11 |  |
+| **[3D Soil Compaction Mapping through Kriging-based Exploration with a Mobile Robot](http://arxiv.org/abs/1803.08069v1)** | 2018-03-21 | <details><summary>Submi...</summary><p>Submitted paper, to IEEE Robotics and Automation Letters (RA-L) special issue on Precision Agricultural Robotics and Autonomous Farming Technologies. Not reviewed</p></details> |
+| **[DeepSolarEye: Power Loss Prediction and Weakly Supervised Soiling Localization via Fully Convolutional Networks for Solar Panels](http://arxiv.org/abs/1710.03811v2)** | 2018-03-18 | <details><summary>Accep...</summary><p>Accepted for publication at WACV 2018</p></details> |
+| **[Soil Property and Class Maps of the Conterminous US at 100 meter Spatial Resolution based on a Compilation of National Soil Point Observations and Machine Learning](http://arxiv.org/abs/1705.08323v4)** | 2018-01-16 | <details><summary>Submi...</summary><p>Submitted to Soil Science Society of America Journal, 40 pages, 12 figures, 3 tables</p></details> |
+| **[Bayesian Measurement Error Correction in Structured Additive Distributional Regression with an Application to the Analysis of Sensor Data on Soil-Plant Variability](http://arxiv.org/abs/1711.10786v1)** | 2017-11-29 |  |
+| **[Modeling soil organic carbon with Quantile Regression: Dissecting predictors' effects on carbon stocks](http://arxiv.org/abs/1708.03859v1)** | 2017-08-13 |  |
+| **[Ultrahigh Dimensional Variable Selection for Mapping Soil Carbon](http://arxiv.org/abs/1608.04253v1)** | 2016-08-15 | 69 pages, 4 Figures |
+| **[Assessing Site Effects and Geographic Transferability when Interpolating Point Referenced Spatial Data: A Digital Soil Mapping Case Study](http://arxiv.org/abs/1608.00086v1)** | 2016-07-30 | <details><summary>40 pa...</summary><p>40 pages, 10 Figures, 4 Supplementary Figures, 2 Appendices</p></details> |
+| **[Spatial Scaling of Satellite Soil Moisture using Temporal Correlations and Ensemble Learning](http://arxiv.org/abs/1601.05767v1)** | 2016-01-21 |  |
+| **[Disaggregation of Remotely Sensed Soil Moisture in Heterogeneous Landscapes using Holistic Structure based Models](http://arxiv.org/abs/1501.07680v2)** | 2016-01-20 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, submitted to IEEE Transactions on Geoscience and Remote Sensing</p></details> |
+| **[Bayesian Spectral Modeling of Microscale Spatial Distributions in a Multivariate Soil Matrix](http://arxiv.org/abs/1505.07798v1)** | 2015-05-28 |  |
+| **[Evaluation of modelling approaches for predicting the spatial distribution of soil organic carbon stocks at the national scale](http://arxiv.org/abs/1502.02513v1)** | 2015-02-09 |  |
+| **[Measurement Scale Effect on Prediction of Soil Water Retention Curve and Saturated Hydraulic Conductivity](http://arxiv.org/abs/1502.02511v1)** | 2015-02-09 |  |
+| **[A Study of the Matter of SPH Application to Saturated Soil Problems](http://arxiv.org/abs/1502.00495v1)** | 2015-01-30 |  |
+| **[Estimating the effects of water-induced shallow landslides on soil erosion](http://arxiv.org/abs/1501.05739v1)** | 2015-01-23 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 1 table, published in IEEE Earthzine 2014 Vol. 7 Issue 2, 910137+ 2nd quarter theme. Geospatial Semantic Array Programming. Available: http://www.earthzine.org/?p=910137</p></details> |
+| **[Towards the reproducibility in soil erosion modeling: a new Pan-European soil erosion map](http://arxiv.org/abs/1402.3847v1)** | 2014-02-16 | <details><summary>9 pag...</summary><p>9 pages, from a poster presented at the Wageningen Conference on Applied Soil Science "Soil Science in a Changing World", 18 - 22 September 2011, Wageningen, The Netherlands</p></details> |
+| **[Estimation of soil moisture in paddy field using Artificial Neural Networks](http://arxiv.org/abs/1303.1868v1)** | 2013-03-08 | 5 Pages |
+| **[Performance Tuning Of J48 Algorithm For Prediction Of Soil Fertility](http://arxiv.org/abs/1208.3943v1)** | 2012-08-20 | 5 Pages |
+| **[Soil Data Analysis Using Classification Techniques and Soil Attribute Prediction](http://arxiv.org/abs/1206.1557v1)** | 2012-06-07 | <details><summary>4 pag...</summary><p>4 pages, published in International Journal of Computer Science Issues, Volume 9, Issue 3</p></details> |
+| **[Soil Classification Using GATree](http://arxiv.org/abs/1011.0800v1)** | 2010-11-03 |  |
+| **[Elevated soil lead: Statistical modeling and apportionment of contributions from lead-based paint and leaded gasoline](http://arxiv.org/abs/0708.4358v1)** | 2007-08-31 | <details><summary>Publi...</summary><p>Published at http://dx.doi.org/10.1214/07-AOAS112 in the Annals of Applied Statistics (http://www.imstat.org/aoas/) by the Institute of Mathematical Statistics (http://www.imstat.org)</p></details> |
+| **[Life Under Your Feet: An End-to-End Soil Ecology Sensor Network, Database, Web Server, and Analysis Service](http://arxiv.org/abs/cs/0701170v1)** | 2007-01-26 |  |
 
 ## plant
 | **Title** | **Date** | **Comment** |
@@ -1243,6 +1413,12 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Client Selection for Federated Policy Optimization with Environment Heterogeneity](http://arxiv.org/abs/2305.10978v7)** | 2025-06-02 |  |
+| **[Data-Efficient Machine Learning Potentials via Difference Vectors Based on Local Atomic Environments](http://arxiv.org/abs/2501.16398v2)** | 2025-06-01 |  |
+| **[RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](http://arxiv.org/abs/2505.21936v2)** | 2025-06-01 |  |
+| **[The Many Challenges of Human-Like Agents in Virtual Game Environments](http://arxiv.org/abs/2505.20011v2)** | 2025-05-31 | <details><summary>In pr...</summary><p>In proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2025), pages 1996--2005, May 19-23, Detroit, Michigan, USA</p></details> |
+| **[TabFSBench: Tabular Benchmark for Feature Shifts in Open Environments](http://arxiv.org/abs/2501.18935v3)** | 2025-05-31 |  |
+| **[LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments](http://arxiv.org/abs/2501.02580v3)** | 2025-05-31 | 18 Pages, 9 Figures |
 | **[REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](http://arxiv.org/abs/2505.24760v1)** | 2025-05-30 | <details><summary>For c...</summary><p>For code, see https://github.com/open-thought/reasoning-gym</p></details> |
 | **[Quick-Draw Bandits: Quickly Optimizing in Nonstationary Environments with Extremely Many Arms](http://arxiv.org/abs/2505.24692v1)** | 2025-05-30 | <details><summary>KDD 2...</summary><p>KDD 2025, Research Track</p></details> |
 | **[Attribute-Based Authentication in Secure Group Messaging for Distributed Environments](http://arxiv.org/abs/2405.12042v2)** | 2025-05-30 | <details><summary>30 pa...</summary><p>30 pages, 6 figures. Submitted to Cybersecurity</p></details> |
@@ -1262,7 +1438,6 @@ labels: documentation
 | **[Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement](http://arxiv.org/abs/2505.20973v2)** | 2025-05-28 |  |
 | **[Event-based Egocentric Human Pose Estimation in Dynamic Environment](http://arxiv.org/abs/2505.22007v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted at ICIP 2025, Project Page: https://wataru823.github.io/D-EventEgo/</p></details> |
 | **[Exploring Remote Collaborative Tasks: The Impact of Avatar Representation on Dyadic Haptic Interactions in Shared Virtual Environments](http://arxiv.org/abs/2409.08577v2)** | 2025-05-28 |  |
-| **[RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](http://arxiv.org/abs/2505.21936v1)** | 2025-05-28 |  |
 | **[LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments](http://arxiv.org/abs/2505.21914v1)** | 2025-05-28 |  |
 | **[Backdoors in DRL: Four Environments Focusing on In-distribution Triggers](http://arxiv.org/abs/2505.17248v2)** | 2025-05-27 |  |
 | **[Chance-Constrained Sampling-Based MPC for Collision Avoidance in Uncertain Dynamic Environments](http://arxiv.org/abs/2501.08520v2)** | 2025-05-27 | <details><summary>This ...</summary><p>This paper has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), May 2025. It comprises 9 pages, 3 figures, and 7 tables</p></details> |
@@ -1274,7 +1449,6 @@ labels: documentation
 | **[TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments](http://arxiv.org/abs/2505.17629v2)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Findings</p></details> |
 | **[An Optimisation Framework for Unsupervised Environment Design](http://arxiv.org/abs/2505.20659v1)** | 2025-05-27 | <details><summary>Reinf...</summary><p>Reinforcement Learning Conference 2025</p></details> |
 | **[Vision-Based Risk Aware Emergency Landing for UAVs in Complex Urban Environments](http://arxiv.org/abs/2505.20423v1)** | 2025-05-26 |  |
-| **[The Many Challenges of Human-Like Agents in Virtual Game Environments](http://arxiv.org/abs/2505.20011v1)** | 2025-05-26 | <details><summary>In pr...</summary><p>In proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2025), pages 1996--2005, May 19-23, Detroit, Michigan, USA</p></details> |
 | **[Deep Active Inference Agents for Delayed and Long-Horizon Environments](http://arxiv.org/abs/2505.19867v1)** | 2025-05-26 |  |
 | **[Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments](http://arxiv.org/abs/2505.19699v1)** | 2025-05-26 | <details><summary>43 pa...</summary><p>43 pages, 23 figures, 15 tables; the last dance</p></details> |
 | **[GeoPF: Infusing Geometry into Potential Fields for Reactive Planning in Non-trivial Environments](http://arxiv.org/abs/2505.19688v1)** | 2025-05-26 |  |
@@ -1387,7 +1561,6 @@ labels: documentation
 | **[Neural Orchestration for Multi-Agent Systems: A Deep Learning Framework for Optimal Agent Selection in Multi-Domain Task Environments](http://arxiv.org/abs/2505.02861v1)** | 2025-05-03 |  |
 | **[Transfer Learning-Based Deep Residual Learning for Speech Recognition in Clean and Noisy Environments](http://arxiv.org/abs/2505.01632v1)** | 2025-05-02 |  |
 | **[Embedded System for Recording and Controlling Hand Hygiene in Healthcare Environments](http://arxiv.org/abs/2505.01576v1)** | 2025-05-02 | <details><summary>6 pag...</summary><p>6 pages, CBA 2024 conference</p></details> |
-| **[Client Selection for Federated Policy Optimization with Environment Heterogeneity](http://arxiv.org/abs/2305.10978v6)** | 2025-05-02 |  |
 | **[Performance of Cell-Free Massive MIMO in Realistic Urban Propagation Environments](http://arxiv.org/abs/2505.01222v1)** | 2025-05-02 | <details><summary>This ...</summary><p>This paper is accepted to be published in IEEE WCNC25</p></details> |
 | **[A Causal World Model Underlying Next Token Prediction: Exploring GPT in a Controlled Environment](http://arxiv.org/abs/2412.07446v3)** | 2025-05-02 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML), 2025</p></details> |
 | **[LLM-PySC2: Starcraft II learning environment for Large Language Models](http://arxiv.org/abs/2411.05348v2)** | 2025-05-02 |  |
@@ -1440,9 +1613,6 @@ labels: documentation
 | **[AnywhereXR: On-the-fly 3D Environments as a Basis for Open Source Immersive Digital Twin Applications](http://arxiv.org/abs/2504.14065v1)** | 2025-04-18 | <details><summary>59 pa...</summary><p>59 pages, 23 figures, currently resubmitted to International Journal of Digital Earth</p></details> |
 | **[SCRAG: Social Computing-Based Retrieval Augmented Generation for Community Response Forecasting in Social Media Environments](http://arxiv.org/abs/2504.16947v1)** | 2025-04-18 |  |
 | **[Robot Navigation in Dynamic Environments using Acceleration Obstacles](http://arxiv.org/abs/2504.13637v1)** | 2025-04-18 | 6 pages, 13 figures |
-| **[An Addendum to NeBula: Towards Extending TEAM CoSTAR's Solution to Larger Scale Environments](http://arxiv.org/abs/2504.13461v1)** | 2025-04-18 |  |
-| **[Integration of a Graph-Based Path Planner and Mixed-Integer MPC for Robot Navigation in Cluttered Environments](http://arxiv.org/abs/2504.13372v1)** | 2025-04-17 |  |
-| **[Implementation of Field Programmable Gate Arrays (FPGAs) in Extremely Cold Environments for Space and Cryogenic Computing Applications](http://arxiv.org/abs/2504.13305v1)** | 2025-04-17 | <details><summary>Prese...</summary><p>Presented at GOMACTech 2025</p></details> |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
