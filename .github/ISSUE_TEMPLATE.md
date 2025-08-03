@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - August 03, 2025
+title: Latest 200 Papers - August 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -1576,56 +1576,6 @@ labels: documentation
 | **[Plant in Cupboard, Orange on Rably, Inat Aphone. Benchmarking Incremental Learning of Situation and Language Model using a Text-Simulated Situated Environment](http://arxiv.org/abs/2502.11733v3)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted at The 28th International Conference of Text, Speech and Dialogue (TSD2025)</p></details> |
 | **[Resilient Communication For Avalanche Response in Infrastructure-Limited Environments](http://arxiv.org/abs/2506.22148v1)** | 2025-06-27 |  |
 | **[Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization](http://arxiv.org/abs/2502.14496v2)** | 2025-06-27 | <details><summary>28 pa...</summary><p>28 pages, under review</p></details> |
-| **[TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments](http://arxiv.org/abs/2506.21900v1)** | 2025-06-27 |  |
-| **[Avatars and Environments for Meetings in Social VR: What Styles and Choices Matter to People in Group Creativity Tasks?](http://arxiv.org/abs/2506.21780v1)** | 2025-06-26 |  |
-| **[3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors](http://arxiv.org/abs/2503.13188v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments](http://arxiv.org/abs/2506.21127v1)** | 2025-06-26 |  |
-| **[OBSER: Object-Based Sub-Environment Recognition for Zero-Shot Environmental Inference](http://arxiv.org/abs/2507.02929v1)** | 2025-06-26 | <details><summary>This ...</summary><p>This manuscript was initially submitted to ICCV 2025 and is now made available as a preprint</p></details> |
-| **[Effect of Haptic Feedback on Avoidance Behavior and Visual Exploration in Dynamic VR Pedestrian Environment](http://arxiv.org/abs/2506.20952v1)** | 2025-06-26 |  |
-| **[gpu tracker: Python Package for Tracking and Profiling GPU and Other Hardware Utilization in Both Desktop and High-Performance Computing Environments](http://arxiv.org/abs/2404.01473v3)** | 2025-06-25 |  |
-| **[Enhanced Robotic Navigation in Deformable Environments using Learning from Demonstration and Dynamic Modulation](http://arxiv.org/abs/2506.20376v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[Predictive Modeling, Pattern Recognition, and Spatiotemporal Representations of Plant Growth in Simulated and Controlled Environments: A Comprehensive Review](http://arxiv.org/abs/2412.10538v3)** | 2025-06-25 |  |
-| **[PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models](http://arxiv.org/abs/2506.20097v1)** | 2025-06-25 |  |
-| **[MEL: Multi-level Ensemble Learning for Resource-Constrained Environments](http://arxiv.org/abs/2506.20094v1)** | 2025-06-25 |  |
-| **[Look to Locate: Vision-Based Multisensory Navigation with 3-D Digital Maps for GNSS-Challenged Environments](http://arxiv.org/abs/2506.19827v1)** | 2025-06-24 |  |
-| **[ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping](http://arxiv.org/abs/2404.08844v3)** | 2025-06-24 | 8 pages |
-| **[Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System](http://arxiv.org/abs/2506.19433v1)** | 2025-06-24 |  |
-| **[Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Sequential Auctions under Unknown Environments](http://arxiv.org/abs/2506.19038v1)** | 2025-06-23 | 16 pages |
-| **[An Urban Multi-Operator QoE-Aware Dataset for Cellular Networks in Dense Environments](http://arxiv.org/abs/2506.22484v1)** | 2025-06-23 | 17 pages, 9 Figures |
-| **[GeNIE: A Generalizable Navigation System for In-the-Wild Environments](http://arxiv.org/abs/2506.17960v1)** | 2025-06-22 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Jiaming Wang, Diwen Liu, and Jizhuo Chen contributed equally</p></details> |
-| **[An intelligent tutor for planning in large partially observable environments](http://arxiv.org/abs/2302.02785v3)** | 2025-06-21 |  |
-| **[Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards](http://arxiv.org/abs/2506.11425v2)** | 2025-06-20 |  |
-| **[A workflow for generating synthetic LiDAR datasets in simulation environments](http://arxiv.org/abs/2506.17378v1)** | 2025-06-20 |  |
-| **[Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments](http://arxiv.org/abs/2506.16994v1)** | 2025-06-20 |  |
-| **[SHAKTI: A 2.5 Billion Parameter Small Language Model Optimized for Edge AI and Low-Resource Environments](http://arxiv.org/abs/2410.11331v2)** | 2025-06-20 | <details><summary>Paper...</summary><p>Paper in pdf format is 11 pages and contains 4 tables</p></details> |
-| **[Real-Time Black-Box Optimization for Dynamic Discrete Environments Using Embedded Ising Machines](http://arxiv.org/abs/2506.16924v1)** | 2025-06-20 | 18 pages, 6figures |
-| **[A Statistical Evaluation of Indoor LoRaWAN Environment-Aware Propagation for 6G: MLR, ANOVA, and Residual Distribution Analysis](http://arxiv.org/abs/2504.16688v3)** | 2025-06-20 | <details><summary>\c{op...</summary><p>\c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media. This is the accepted version of the article: To appear in the 2025 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)</p></details> |
-| **[Distribution Parameter Actor-Critic: Shifting the Agent-Environment Boundary for Diverse Action Spaces](http://arxiv.org/abs/2506.16608v1)** | 2025-06-19 |  |
-| **[Single-Microphone-Based Sound Source Localization for Mobile Robots in Reverberant Environments](http://arxiv.org/abs/2506.16173v1)** | 2025-06-19 | <details><summary>This ...</summary><p>This paper was accepted and going to appear in the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[Traversability-aware path planning in dynamic environments](http://arxiv.org/abs/2505.14580v2)** | 2025-06-19 |  |
-| **[Enhanced Trust Region Sequential Convex Optimization for Multi-Drone Thermal Screening Trajectory Planning in Urban Environments](http://arxiv.org/abs/2506.06012v2)** | 2025-06-19 |  |
-| **[AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment](http://arxiv.org/abs/2409.17655v3)** | 2025-06-19 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, 6 tables</p></details> |
-| **[Noise Fusion-based Distillation Learning for Anomaly Detection in Complex Industrial Environments](http://arxiv.org/abs/2506.16050v1)** | 2025-06-19 | IROS 2025 Oral |
-| **[P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments](http://arxiv.org/abs/2506.17332v1)** | 2025-06-19 | <details><summary>Accep...</summary><p>Accepted to appear in the 2025 IEEE International Workshop on AIoT and Smart Systems (AIoTSys'25). Nominated for Best Paper Award and Best IoT System Implementation Award. Code and pretrained models available at: https://github.com/HaitianWang/P2MFDS-A-Privacy-Preserving-Multimodal-Fall-Detection-Network-for-Elderly-Individuals-in-Bathroom</p></details> |
-| **[Hierarchical and Modular Network on Non-prehensile Manipulation in General Environments](http://arxiv.org/abs/2502.20843v2)** | 2025-06-19 | <details><summary>http:...</summary><p>http://unicorn-hamnet.github.io/</p></details> |
-| **[PRISM-Loc: a Lightweight Long-range LiDAR Localization in Urban Environments with Topological Maps](http://arxiv.org/abs/2506.15849v1)** | 2025-06-18 | <details><summary>This ...</summary><p>This version was submitted and rejected from IROS 2025 conference</p></details> |
-| **[Robust control for multi-legged elongate robots in noisy environments](http://arxiv.org/abs/2506.15788v1)** | 2025-06-18 |  |
-| **[RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments](http://arxiv.org/abs/2506.15253v1)** | 2025-06-18 | 12 pages, 8 figures |
-| **[Influential Bandits: Pulling an Arm May Change the Environment](http://arxiv.org/abs/2504.08200v2)** | 2025-06-18 | TMLR |
-| **[VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments](http://arxiv.org/abs/2506.15126v1)** | 2025-06-18 | <details><summary>This ...</summary><p>This work has been accepted for publication at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
-| **[Make Your AUV Adaptive: An Environment-Aware Reinforcement Learning Framework For Underwater Tasks](http://arxiv.org/abs/2506.15082v1)** | 2025-06-18 | <details><summary>This ...</summary><p>This paper has been accepted by IROS 2025</p></details> |
-| **[A Comparative Evaluation of Deep Learning Models for Speech Enhancement in Real-World Noisy Environments](http://arxiv.org/abs/2506.15000v1)** | 2025-06-17 |  |
-| **[Time-Optimized Safe Navigation in Unstructured Environments through Learning Based Depth Completion](http://arxiv.org/abs/2506.14975v1)** | 2025-06-17 |  |
-| **[GAMORA: A Gesture Articulated Meta Operative Robotic Arm for Hazardous Material Handling in Containment-Level Environments](http://arxiv.org/abs/2506.14513v1)** | 2025-06-17 |  |
-| **[Adaptive Composition of Machine Learning as a Service (MLaaS) for IoT Environments](http://arxiv.org/abs/2506.11054v2)** | 2025-06-17 |  |
-| **[Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments](http://arxiv.org/abs/2506.14233v1)** | 2025-06-17 |  |
-| **[Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments](http://arxiv.org/abs/2505.05540v2)** | 2025-06-17 | 16 pages, 26 figures |
-| **[Representing local protein environments with atomistic foundation models](http://arxiv.org/abs/2505.23354v2)** | 2025-06-16 |  |
-| **[On Efficient Solutions of General Structured Markov Processes in Quantum Computational Environments](http://arxiv.org/abs/2404.17959v2)** | 2025-06-16 |  |
-| **[Socially-aware Object Transportation by a Mobile Manipulator in Static Planar Environments with Obstacles](http://arxiv.org/abs/2506.13953v1)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted by the 2025 34th IEEE International Conference on Robot and Human Interactive Communication (ROMAN)</p></details> |
-| **[CONQURE: A Co-Execution Environment for Quantum and Classical Resources](http://arxiv.org/abs/2505.02241v2)** | 2025-06-16 |  |
-| **[Programming and Reasoning in Partially Observable Probabilistic Environments](http://arxiv.org/abs/2506.13491v1)** | 2025-06-16 | <details><summary>54 pa...</summary><p>54 pages, 6 figures, to be published in QEST + FORMATS 2025</p></details> |
-| **[AgentSense: Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments](http://arxiv.org/abs/2506.11773v2)** | 2025-06-16 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
