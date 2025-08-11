@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - August 11, 2025
+title: Latest 200 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -211,6 +211,7 @@ labels: documentation
 ## farming
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging Farm Economics and Landscape Ecology for Global Sustainability through Hierarchical and Bayesian Optimization](http://arxiv.org/abs/2508.06386v1)** | 2025-08-08 |  |
 | **[FARM: Functional Group-Aware Representations for Small Molecules](http://arxiv.org/abs/2410.02082v3)** | 2025-08-01 | <details><summary>Prepr...</summary><p>Preprint. The code is available at: https://github.com/thaonguyen217/farm_molecular_representation</p></details> |
 | **[Behavior-Specific Filtering for Enhanced Pig Behavior Classification in Precision Livestock Farming](http://arxiv.org/abs/2507.21021v1)** | 2025-07-28 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 3 figures</p></details> |
 | **[Toward Sustainable Vertical Farming: Impacts of Environmental Factors and Energy Mix on Performance and Costs](http://arxiv.org/abs/2507.18419v1)** | 2025-07-24 |  |
@@ -410,17 +411,16 @@ labels: documentation
 | **[A Game Theoretic Analysis for Cooperative Smart Farming](http://arxiv.org/abs/2011.11098v1)** | 2020-11-22 |  |
 | **[Social Hierarchy-based Distributed Economic Model Predictive Control of Floating Offshore Wind Farms](http://arxiv.org/abs/2010.09814v1)** | 2020-10-19 | 18 pages, 16 figures |
 | **[Study on Leveraging Wind Farm Reactive Power Potential for Uncertain Power System Reactive Power Optimization](http://arxiv.org/abs/2010.04545v1)** | 2020-10-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 6 tables</p></details> |
-| **[Block Chain and Internet of Nano-Things for Optimizing Chemical Sensing in Smart Farming](http://arxiv.org/abs/2010.01941v1)** | 2020-10-05 | 16 pages, 12 figures |
 
 ## crop
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Crop Pest Classification Using Deep Learning Techniques: A Review](http://arxiv.org/abs/2507.01494v3)** | 2025-08-08 | <details><summary>This ...</summary><p>This version adds co-authors who were unintentionally left out of the prior submission. Additionally, Table 1 has been reformatted for clarity, and several typographical errors have been corrected</p></details> |
 | **[VITA: Variational Pretraining of Transformers for Climate-Robust Crop Yield Forecasting](http://arxiv.org/abs/2508.03589v1)** | 2025-08-05 |  |
 | **[Cropping outperforms dropout as an augmentation strategy for training self-supervised text embeddings](http://arxiv.org/abs/2508.03453v1)** | 2025-08-05 |  |
 | **[Three-dimentional reconstruction of complex, dynamic population canopy architecture for crops with a novel point cloud completion model: A case study in Brassica napus rapeseed](http://arxiv.org/abs/2506.18292v2)** | 2025-08-01 |  |
 | **[AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock](http://arxiv.org/abs/2507.22101v1)** | 2025-07-29 |  |
 | **[A Bayesian Ensemble Projection of Climate Change and Technological Impacts on Future Crop Yields](http://arxiv.org/abs/2507.21559v1)** | 2025-07-29 |  |
-| **[Crop Pest Classification Using Deep Learning Techniques: A Review](http://arxiv.org/abs/2507.01494v2)** | 2025-07-28 |  |
 | **[CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation](http://arxiv.org/abs/2507.17727v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted for publication at the 12th European Conference on Mobile Robots (ECMR 2025)</p></details> |
 | **[Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery](http://arxiv.org/abs/2504.19996v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)</p></details> |
 | **[Model-Agnostic, Temperature-Informed Sampling Enhances Cross-Year Crop Mapping with Deep Learning](http://arxiv.org/abs/2506.12885v3)** | 2025-07-17 | under review |
@@ -619,6 +619,7 @@ labels: documentation
 ## weather
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Representations of Satellite Images with Evaluations on Synoptic Weather Events](http://arxiv.org/abs/2508.06122v1)** | 2025-08-08 | <details><summary>37 pa...</summary><p>37 pages, 6 figures, 3 tables</p></details> |
 | **[WeatherEdit: Controllable Weather Editing with 4D Gaussian Field](http://arxiv.org/abs/2505.20471v3)** | 2025-08-07 |  |
 | **[Preparing for the worst: Long-term and short-term weather extremes in resource adequacy assessment](http://arxiv.org/abs/2508.05163v1)** | 2025-08-07 |  |
 | **[AtmosMJ: Revisiting Gating Mechanism for AI Weather Forecasting Beyond the Year Scale](http://arxiv.org/abs/2506.09733v2)** | 2025-08-06 |  |
@@ -818,7 +819,6 @@ labels: documentation
 | **[Deep Learning for Weather Forecasting: A CNN-LSTM Hybrid Model for Predicting Historical Temperature Data](http://arxiv.org/abs/2410.14963v1)** | 2024-10-19 |  |
 | **[YanTian: An Application Platform for AI Global Weather Forecasting Models](http://arxiv.org/abs/2410.04539v2)** | 2024-10-13 |  |
 | **[How far are today's time-series models from real-world weather forecasting applications?](http://arxiv.org/abs/2406.14399v2)** | 2024-10-11 | 29 pages, 14 figures |
-| **[TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration](http://arxiv.org/abs/2410.08177v1)** | 2024-10-10 | 17 pages (ACCV 2024) |
 
 ## climate
 | **Title** | **Date** | **Comment** |
@@ -1427,6 +1427,8 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unveiling Zero-Space Detection: A Novel Framework for Autonomous Ransomware Identification in High-Velocity Environments](http://arxiv.org/abs/2501.12811v2)** | 2025-08-08 | <details><summary>arXiv...</summary><p>arXiv admin note: This paper has been withdrawn by arXiv due to disputed and unverifiable authorship</p></details> |
+| **[Learning to Initialize Trajectory Optimization for Vision-Based Autonomous Flight in Unknown Environments](http://arxiv.org/abs/2309.10683v2)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted to IROS 2025. Source code available</p></details> |
 | **[Congestion Mitigation Path Planning for Large-Scale Multi-Agent Navigation in Dense Environments](http://arxiv.org/abs/2508.05253v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2025. 9 pages, 6 figures, 3 tables. (C) 2025 IEEE. CC BY 4.0 license. Supplementary videos will be accessible via IEEE Xplore upon publication</p></details> |
 | **[A Desktop-Centric Design Space for Direct Object Examination and Visualization in Mixed-Reality Environments](http://arxiv.org/abs/2508.05088v1)** | 2025-08-07 |  |
 | **[Adaptive Inference through Bayesian and Inverse Bayesian Inference with Symmetry-Bias in Nonstationary Environments](http://arxiv.org/abs/2505.12796v5)** | 2025-08-07 |  |
@@ -1625,12 +1627,13 @@ labels: documentation
 | **[GeNIE: A Generalizable Navigation System for In-the-Wild Environments](http://arxiv.org/abs/2506.17960v1)** | 2025-06-22 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Jiaming Wang, Diwen Liu, and Jizhuo Chen contributed equally</p></details> |
 | **[An intelligent tutor for planning in large partially observable environments](http://arxiv.org/abs/2302.02785v3)** | 2025-06-21 |  |
 | **[Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards](http://arxiv.org/abs/2506.11425v2)** | 2025-06-20 |  |
-| **[A workflow for generating synthetic LiDAR datasets in simulation environments](http://arxiv.org/abs/2506.17378v1)** | 2025-06-20 |  |
-| **[Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments](http://arxiv.org/abs/2506.16994v1)** | 2025-06-20 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging Farm Economics and Landscape Ecology for Global Sustainability through Hierarchical and Bayesian Optimization](http://arxiv.org/abs/2508.06386v1)** | 2025-08-08 |  |
+| **[Surviving the Narrative Collapse: Sustainability and Justice in Computing Within Limits](http://arxiv.org/abs/2508.05992v1)** | 2025-08-08 | <details><summary>Post-...</summary><p>Post-proceedings paper presented at LIMITS 2025: 11th Workshop on Computing within Limits, 2025-06-26/27, Online</p></details> |
+| **[Sprouting technology otherwise, hospicing negative commons -- Rethinking technology in the transition to sustainability-oriented futures](http://arxiv.org/abs/2508.05860v1)** | 2025-08-07 | <details><summary>Post-...</summary><p>Post-proceedings paper presented at LIMITS 2025: 11th Workshop on Computing within Limits, 2025-06-26/27, Online</p></details> |
 | **[A Conceptual Model and Methodology for Sustainability-aware, IoT-enhanced Business Processes](http://arxiv.org/abs/2508.05301v1)** | 2025-08-07 | <details><summary>Submi...</summary><p>Submitted to Information Systems Frontiers (1572-9419)</p></details> |
 | **[Optimizing Microgrid Composition for Sustainable Data Centers](http://arxiv.org/abs/2508.04284v1)** | 2025-08-06 |  |
 | **[Self-sustained oscillations in discrete-time relay feedback systems](http://arxiv.org/abs/2504.05941v2)** | 2025-08-05 | <details><summary>Updat...</summary><p>Update some figures by the comments from reviewers</p></details> |
@@ -1828,7 +1831,4 @@ labels: documentation
 | **[Social Media Informatics for Sustainable Cities and Societies: An Overview of the Applications, associated Challenges, and Potential Solutions](http://arxiv.org/abs/2412.03600v2)** | 2024-12-09 | <details><summary>35 pa...</summary><p>35 pages, 3 tables, and 4 figures</p></details> |
 | **[AI-Enhanced Decision-Making for Sustainable Supply Chains: Reducing Carbon Footprints in the USA](http://arxiv.org/abs/2501.10364v1)** | 2024-12-08 |  |
 | **[Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents](http://arxiv.org/abs/2404.16698v4)** | 2024-12-08 | NeurIPS 2024 |
-| **[Enabling Sustainable Urban Mobility: The Role of 5G Communication in the Mobilities for EU Project](http://arxiv.org/abs/2412.04006v1)** | 2024-12-05 | 6 pages |
-| **[Recommender Systems for Sustainability: Overview and Research Issues](http://arxiv.org/abs/2412.03620v1)** | 2024-12-04 |  |
-| **[Sustainable Self-evolution Adversarial Training](http://arxiv.org/abs/2412.02270v1)** | 2024-12-03 | <details><summary>Accep...</summary><p>Accepted to ACMMM 2024</p></details> |
 
