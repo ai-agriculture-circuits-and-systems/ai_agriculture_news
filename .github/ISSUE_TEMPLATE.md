@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - August 14, 2025
+title: Latest 200 Papers - August 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## agriculture
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind](http://arxiv.org/abs/2505.12207v3)** | 2025-08-13 |  |
 | **[AgriGPT: a Large Language Model Ecosystem for Agriculture](http://arxiv.org/abs/2508.08632v1)** | 2025-08-12 |  |
 | **[AgriVLN: Vision-and-Language Navigation for Agricultural Robots](http://arxiv.org/abs/2508.07406v1)** | 2025-08-10 |  |
 | **[Weather-Driven Agricultural Decision-Making Using Digital Twins Under Imperfect Conditions](http://arxiv.org/abs/2508.08326v1)** | 2025-08-10 | ACM SIGSPATIAL 2025 |
@@ -15,7 +16,6 @@ labels: documentation
 | **[A Comprohensive Review of Domain Adaptation Techniques for Agricultural Image Analysis in Precision Agriculture](http://arxiv.org/abs/2506.05972v4)** | 2025-08-06 |  |
 | **[Improving Q-Learning for Real-World Control: A Case Study in Series Hybrid Agricultural Tractors](http://arxiv.org/abs/2508.03647v1)** | 2025-08-05 |  |
 | **[Decoding and Engineering the Phytobiome Communication for Smart Agriculture](http://arxiv.org/abs/2508.03584v1)** | 2025-08-05 | <details><summary>Under...</summary><p>Under revision for IEEE Communications Magazine</p></details> |
-| **[Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind](http://arxiv.org/abs/2505.12207v2)** | 2025-08-04 |  |
 | **[Estimating Causal Effects with Observational Data: Guidelines for Agricultural and Applied Economists](http://arxiv.org/abs/2508.02310v1)** | 2025-08-04 | <details><summary>This ...</summary><p>This is a revised and extended version of: Henningsen, A., G. Low, D. Wuepper, T. Dalhaus, H. Storm, D. Belay, and S. Hirsch (2024): Estimating Causal Effects with Observational Data: Guidelines for Agricultural and Applied Economists. IFRO Working Paper 2024/03, Department of Food and Resource Economics, University of Copenhagen, https://econpapers.repec.org/RePEc:foi:wpaper:2024_03</p></details> |
 | **[Leveraging Synthetic Data for Question Answering with Multilingual LLMs in the Agricultural Domain](http://arxiv.org/abs/2507.16974v2)** | 2025-08-01 | <details><summary>16 pa...</summary><p>16 pages, 9 tables, Appendix A-L</p></details> |
 | **[EmissionNet: Air Quality Pollution Forecasting for Agriculture](http://arxiv.org/abs/2507.05416v3)** | 2025-08-01 | <details><summary>The a...</summary><p>The appendix figures are mixed up - several emission plots (e.g. CO2, CH4, GWP) are mislabeled and appear in the wrong order, leading to confusion in interpreting the results</p></details> |
@@ -619,6 +619,8 @@ labels: documentation
 ## weather
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WeatherPrompt: Multi-modality Representation Learning for All-Weather Drone Visual Geo-Localization](http://arxiv.org/abs/2508.09560v1)** | 2025-08-13 | 13 pages, 4figures |
+| **[Decentralized Weather Forecasting via Distributed Machine Learning and Blockchain-Based Model Validation](http://arxiv.org/abs/2508.09299v1)** | 2025-08-12 |  |
 | **[Democracy of AI Numerical Weather Models: An Example of Global Forecasting with FourCastNetv2 Made by a University Research Lab Using GPU](http://arxiv.org/abs/2504.17028v3)** | 2025-08-12 | 12 pages, 8 figures |
 | **[TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation](http://arxiv.org/abs/2508.08038v1)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by TMLR (2025.08)</p></details> |
 | **[Adopting Road-Weather Open Data in Route Recommendation Engine](http://arxiv.org/abs/2508.07881v1)** | 2025-08-11 |  |
@@ -817,8 +819,6 @@ labels: documentation
 | **[A Practical Probabilistic Benchmark for AI Weather Models](http://arxiv.org/abs/2401.15305v2)** | 2024-11-12 | 15 pages, 5 figures |
 | **[All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model](http://arxiv.org/abs/2411.07445v1)** | 2024-11-12 |  |
 | **[All-weather Multi-Modality Image Fusion: Unified Framework and 100k Benchmark](http://arxiv.org/abs/2402.02090v2)** | 2024-11-11 |  |
-| **[Advancing Meteorological Forecasting: AI-based Approach to Synoptic Weather Map Analysis](http://arxiv.org/abs/2411.05384v1)** | 2024-11-08 |  |
-| **[STC-ViT: Spatio Temporal Continuous Vision Transformer for Weather Forecasting](http://arxiv.org/abs/2402.17966v3)** | 2024-10-31 |  |
 
 ## climate
 | **Title** | **Date** | **Comment** |
@@ -829,10 +829,205 @@ labels: documentation
 | **[ClimateSOM: A Visual Analysis Workflow for Climate Ensemble Datasets](http://arxiv.org/abs/2508.06732v1)** | 2025-08-08 |  |
 | **[VITA: Variational Pretraining of Transformers for Climate-Robust Crop Yield Forecasting](http://arxiv.org/abs/2508.03589v1)** | 2025-08-05 |  |
 | **[The Complexity of Extreme Climate Events on the New Zealand's Kiwifruit Industry](http://arxiv.org/abs/2508.02130v1)** | 2025-08-04 | <details><summary>Pre-p...</summary><p>Pre-print v0.8 2025-08-04</p></details> |
+| **[Reconstructing Historical Climate Fields With Deep Learning](http://arxiv.org/abs/2311.18348v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted version + SI</p></details> |
+| **[Green building blocks reveal the complex anatomy of climate change mitigation technologies](http://arxiv.org/abs/2504.06834v2)** | 2025-07-29 |  |
+| **[Data-Driven Greenhouse Climate Regulation in Lettuce Cultivation Using BiLSTM and GRU Predictive Control](http://arxiv.org/abs/2507.21669v1)** | 2025-07-29 |  |
+| **[A Bayesian Ensemble Projection of Climate Change and Technological Impacts on Future Crop Yields](http://arxiv.org/abs/2507.21559v1)** | 2025-07-29 |  |
+| **[Quantifying uncertainty in climate projections with conformal ensembles](http://arxiv.org/abs/2408.06642v3)** | 2025-07-26 | <details><summary>25 pa...</summary><p>25 pages, 8 figures, 2 tables</p></details> |
+| **[Modelling the Climate Change Debate in Italy through Information Supply and Demand](http://arxiv.org/abs/2503.17026v2)** | 2025-07-25 |  |
+| **[EarthLink: A Self-Evolving AI Agent for Climate Science](http://arxiv.org/abs/2507.17311v2)** | 2025-07-24 |  |
+| **[Conditional pathways-based climate attribution](http://arxiv.org/abs/2409.01396v2)** | 2025-07-23 | 42 pages, 10 figures |
+| **[On the importance of tail assumptions in climate extreme event attribution](http://arxiv.org/abs/2507.14019v1)** | 2025-07-18 |  |
+| **[Advancing Seasonal Prediction of Tropical Cyclone Activity with a Hybrid AI-Physics Climate Model](http://arxiv.org/abs/2505.01455v2)** | 2025-07-17 |  |
+| **[A Roadmap for Climate-Relevant Robotics Research](http://arxiv.org/abs/2507.11623v2)** | 2025-07-17 |  |
+| **[Towards an ABM on Proactive Community Adaptation for Climate Change](http://arxiv.org/abs/2507.14233v1)** | 2025-07-17 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Social Simulation Conference 2025 (SSC'2025)</p></details> |
+| **[A Bayesian Spatio-Temporal Model of Temperature- and Humidity-Related Mortality Using High-Resolution Climate Data](http://arxiv.org/abs/2507.12643v1)** | 2025-07-16 |  |
+| **[Forecasting Climate Policy Uncertainty: Evidence from the United States](http://arxiv.org/abs/2507.12276v1)** | 2025-07-16 |  |
+| **[CLAImate: AI-Enabled Climate Change Communication through Personalized and Localized Narrative Visualizations](http://arxiv.org/abs/2507.11677v1)** | 2025-07-15 | <details><summary>To ap...</summary><p>To appear in the IEEE Visualization and Visual Analytics (VIS) Conference, Short Paper, 2025</p></details> |
+| **[On the Virtues of Information Security in the UK Climate Movement](http://arxiv.org/abs/2506.09719v2)** | 2025-07-15 | <details><summary>To ap...</summary><p>To appear at the USENIX Security Symposium 2025</p></details> |
+| **[Atmos-Bench: 3D Atmospheric Structures for Climate Insight](http://arxiv.org/abs/2507.11085v1)** | 2025-07-15 |  |
+| **[Constructing Extreme Heatwave Storylines with Differentiable Climate Models](http://arxiv.org/abs/2506.10660v2)** | 2025-07-14 |  |
+| **[A Feed-Forward Artificial Intelligence Pipeline for Sustainable Desalination under Climate Uncertainties: UAE Insights](http://arxiv.org/abs/2507.10609v1)** | 2025-07-13 |  |
+| **[MetaClimage: A novel database of visual metaphors related to Climate Change, with costs and benefits analysis](http://arxiv.org/abs/2507.09225v1)** | 2025-07-12 | 27 pages, 5 figures |
+| **[Investigating the Robustness of Extreme Precipitation Super-Resolution Across Climates](http://arxiv.org/abs/2507.09166v1)** | 2025-07-12 | <details><summary>31 pa...</summary><p>31 pages, 9 figures, 1 table, submitted to AGU JAMES</p></details> |
+| **[Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation](http://arxiv.org/abs/2410.05401v3)** | 2025-07-10 |  |
+| **[Incivility and Contentiousness Spillover in Public Engagement with Public Health and Climate Science](http://arxiv.org/abs/2502.05255v2)** | 2025-07-10 | 33 pages, 6 figures |
+| **[A Novel Hybrid Approach for Time Series Forecasting: Period Estimation and Climate Data Analysis Using Unsupervised Learning and Spline Interpolation](http://arxiv.org/abs/2507.07652v1)** | 2025-07-10 | 17 Pages, 13 figures |
+| **[Temporal Analysis of Climate Policy Discourse: Insights from Dynamic Embedded Topic Modeling](http://arxiv.org/abs/2507.06435v1)** | 2025-07-08 | <details><summary>10 pa...</summary><p>10 pages, 7 figures. Code and data available at https://github.com/AdeTheBade/TACPD.git</p></details> |
+| **[Apology of Green Digitalization in the Context of Information and Climate Feedback Theory](http://arxiv.org/abs/2507.14162v1)** | 2025-07-08 | <details><summary>26 pa...</summary><p>26 pages, 7 tables, 4 figures</p></details> |
+| **[Neural models of multiscale systems: conceptual limitations, stochastic parametrizations, and a climate application](http://arxiv.org/abs/2506.22552v2)** | 2025-07-05 |  |
+| **[Grower-in-the-Loop Interactive Reinforcement Learning for Greenhouse Climate Control](http://arxiv.org/abs/2505.23355v2)** | 2025-07-02 |  |
+| **[Disturbance-Adaptive Data-Driven Predictive Control: Trading Comfort Violations for Savings in Building Climate Control](http://arxiv.org/abs/2412.09238v2)** | 2025-07-01 |  |
+| **[Linking climate and dengue in the Philippines using a two-stage Bayesian spatio-temporal model](http://arxiv.org/abs/2506.22334v1)** | 2025-06-27 |  |
+| **[We must re-evaluate assumptions about carbon trading for effective climate change mitigation](http://arxiv.org/abs/2411.08053v2)** | 2025-06-26 | 18 pages, 2 figures |
+| **[Generate the Forest before the Trees -- A Hierarchical Diffusion model for Climate Downscaling](http://arxiv.org/abs/2506.19391v2)** | 2025-06-26 | 8 pages |
+| **[Scalable Climate Data Analysis: Balancing Petascale Fidelity and Computational Cost](http://arxiv.org/abs/2507.08006v1)** | 2025-06-25 | <details><summary>Prese...</summary><p>Presented at The CCGRID International Scalable Computing Challenge (SCALE), 2025</p></details> |
+| **[Investigating Resiliency of Transportation Network Under Targeted and Potential Climate Change Disruptions](http://arxiv.org/abs/2506.19102v1)** | 2025-06-23 |  |
+| **[A Machine Learning Framework for Climate-Resilient Insurance and Real Estate Decisions](http://arxiv.org/abs/2506.14638v1)** | 2025-06-17 | 26 pages, 12 figures |
+| **[Low-code to fight climate change: the Climaborough project](http://arxiv.org/abs/2506.14623v1)** | 2025-06-17 | <details><summary>This ...</summary><p>This paper was presented in the Research Projects Track of the 19th International Conference on Research Challenges in Information Science (RCIS 2025)</p></details> |
+| **[Regional climate risk assessment from climate models using probabilistic machine learning](http://arxiv.org/abs/2412.08079v2)** | 2025-06-16 |  |
+| **[Building Interpretable Climate Emulators for Economics](http://arxiv.org/abs/2411.10768v2)** | 2025-06-13 |  |
+| **[Computational Analysis of Climate Policy](http://arxiv.org/abs/2506.22449v1)** | 2025-06-13 | Master's thesis |
+| **[Vision Transformers for Multi-Variable Climate Downscaling: Emulating Regional Climate Models with a Shared Encoder and Multi-Decoder Architecture](http://arxiv.org/abs/2506.22447v1)** | 2025-06-12 |  |
+| **[ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries](http://arxiv.org/abs/2506.13796v1)** | 2025-06-12 | <details><summary>ICLR ...</summary><p>ICLR 2025 camera ready, 13 pages, 4 figures, 4 tables</p></details> |
+| **[California Crop Yield Benchmark: Combining Satellite Image, Climate, Evapotranspiration, and Soil Data Layers for County-Level Yield Forecasting of Over 70 Crops](http://arxiv.org/abs/2506.10228v1)** | 2025-06-11 |  |
+| **[Causal Climate Emulation with Bayesian Filtering](http://arxiv.org/abs/2506.09891v1)** | 2025-06-11 | 32 pages, 21 figures |
+| **[Artificial Intelligence and Civil Discourse: How LLMs Moderate Climate Change Conversations](http://arxiv.org/abs/2506.12077v1)** | 2025-06-07 | 10 pages |
+| **[Deconfounding Multi-Cause Latent Confounders: A Factor-Model Approach to Climate Model Bias Correction](http://arxiv.org/abs/2408.12063v2)** | 2025-06-06 | IJCAI 2025 Accepted |
+| **[Samudra: An AI Global Ocean Emulator for Climate](http://arxiv.org/abs/2412.03795v4)** | 2025-05-31 |  |
+| **[Assessing Climate-Driven Mortality Risk: A Stochastic Approach with Distributed Lag Non-Linear Models](http://arxiv.org/abs/2506.00561v1)** | 2025-05-31 |  |
+| **[Climate Finance Bench](http://arxiv.org/abs/2505.22752v1)** | 2025-05-28 | <details><summary>Datas...</summary><p>Dataset is available at https://github.com/Pladifes/climate_finance_bench</p></details> |
+| **[AI for Climate Finance: Agentic Retrieval and Multi-Step Reasoning for Early Warning System Investments](http://arxiv.org/abs/2504.05104v2)** | 2025-05-28 |  |
+| **[Enhancing Selection of Climate Tech Startups with AI -- A Case Study on Integrating Human and AI Evaluations in the ClimaTech Great Global Innovation Challenge](http://arxiv.org/abs/2505.21562v1)** | 2025-05-27 |  |
+| **[Bayesian Optimisation Against Climate Change: Applications and Benchmarks](http://arxiv.org/abs/2306.04343v2)** | 2025-05-26 | <details><summary>To be...</summary><p>To be presented at LION 19: The 19th Learning and Intelligent Optimization Conference (2025)</p></details> |
+| **[AI, Climate, and Regulation: From Data Centers to the AI Act](http://arxiv.org/abs/2410.06681v2)** | 2025-05-25 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, preprint</p></details> |
+| **[Climate Implications of Diffusion-based Generative Visual AI Systems and their Mass Adoption](http://arxiv.org/abs/2505.18892v1)** | 2025-05-24 | <details><summary>Inter...</summary><p>International Conference on Computational Creativity</p></details> |
+| **[AI-Driven Climate Policy Scenario Generation for Sub-Saharan Africa](http://arxiv.org/abs/2505.18694v1)** | 2025-05-24 | <details><summary>13 pa...</summary><p>13 pages long. Extended version of the paper titled "Climate Policy Simulation and Scenario Generation for Sub-Saharan Africa" accepted at the 13th Data Science Africa Workshop (DSA 2025). Code available at https://github.com/AdeTheBade/CPSG.git</p></details> |
+| **[Climate-Eval: A Comprehensive Benchmark for NLP Tasks Related to Climate Change](http://arxiv.org/abs/2505.18653v1)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted to ClimateNLP 2025@ACL</p></details> |
+| **[Judging It, Washing It: Scoring and Greenwashing Corporate Climate Disclosures using Large Language Models](http://arxiv.org/abs/2502.15094v2)** | 2025-05-23 | <details><summary>17 pa...</summary><p>17 pages, 12 figures. To appear, ClimateNLP 2025</p></details> |
+| **[Rethinking Climate Econometrics: Data Cleaning, Flexible Trend Controls, and Predictive Validation](http://arxiv.org/abs/2505.18033v1)** | 2025-05-23 |  |
+| **[Predicting hazards of climate extremes: a statistical perspective](http://arxiv.org/abs/2505.17622v1)** | 2025-05-23 |  |
+| **[What Media Frames Reveal About Stance: A Dataset and Study about Memes in Climate Change Discourse](http://arxiv.org/abs/2505.16592v2)** | 2025-05-23 | 20 pages, 9 figures |
+| **[Listen to the Context: Towards Faithful Large Language Models for Retrieval Augmented Generation on Climate Questions](http://arxiv.org/abs/2505.15633v1)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted at the ClimateNLP 2025 Workshop at ACL</p></details> |
+| **[Assessing wildfire susceptibility in Iran: Leveraging machine learning for geospatial analysis of climatic and anthropogenic factors](http://arxiv.org/abs/2505.14122v1)** | 2025-05-20 |  |
+| **[Regularized Fingerprinting with Linearly Optimal Weight Matrix in Detection and Attribution of Climate Change](http://arxiv.org/abs/2505.04070v2)** | 2025-05-20 |  |
+| **[Net-Zero: A Comparative Study on Neural Network Design for Climate-Economic PDEs Under Uncertainty](http://arxiv.org/abs/2505.13264v1)** | 2025-05-19 | Under review |
+| **[The Impact of Climatic Factors on Respiratory Pharmaceutical Demand: A Comparison of Forecasting Models for Greece](http://arxiv.org/abs/2505.10642v1)** | 2025-05-15 | <details><summary>Submi...</summary><p>Submitted to Environmetrics, Special Issue "Exploring statistical strategies for addressing complex environmental challenges involving spatial-temporal data"</p></details> |
+| **[Towards more realistic climate model outputs: A multivariate bias correction based on zero-inflated vine copulas](http://arxiv.org/abs/2410.15931v2)** | 2025-05-15 |  |
+| **[A novel fusion of Sentinel-1 and Sentinel-2 with climate data for crop phenology estimation using Machine Learning](http://arxiv.org/abs/2409.00020v2)** | 2025-05-12 |  |
+| **[Reinforcement Learning (RL) Meets Urban Climate Modeling: Investigating the Efficacy and Impacts of RL-Based HVAC Control](http://arxiv.org/abs/2505.07045v1)** | 2025-05-11 |  |
+| **[ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling](http://arxiv.org/abs/2505.04802v1)** | 2025-05-07 |  |
+| **[Sentiment and Social Signals in the Climate Crisis: A Survey on Analyzing Social Media Responses to Extreme Weather Events](http://arxiv.org/abs/2504.18837v3)** | 2025-05-07 | <details><summary>13 Pa...</summary><p>13 Pages, 1 figure, Under review for a computer science conference</p></details> |
+| **[A machine learning model for skillful climate system prediction](http://arxiv.org/abs/2505.06269v1)** | 2025-05-06 |  |
+| **[Modeling the Impact of Group Interactions on Climate-related Opinion Change in Reddit](http://arxiv.org/abs/2505.02989v1)** | 2025-05-05 |  |
+| **[Mapping the Climate Change Landscape on TikTok](http://arxiv.org/abs/2505.03813v1)** | 2025-05-02 |  |
+| **[AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data](http://arxiv.org/abs/2505.03808v1)** | 2025-05-02 |  |
+| **[Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning](http://arxiv.org/abs/2505.01115v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2025, AI and Social Good Track</p></details> |
+| **[AI-ready Snow Radar Echogram Dataset (SRED) for climate change monitoring](http://arxiv.org/abs/2505.00786v1)** | 2025-05-01 |  |
+| **[Validation of a 24-hour-ahead Prediction model for a Residential Electrical Load under diverse climate](http://arxiv.org/abs/2505.00348v1)** | 2025-05-01 |  |
+| **[Climate Science and Control Engineering: Insights, Parallels, and Connections](http://arxiv.org/abs/2504.21153v2)** | 2025-05-01 |  |
+| **[Comparative Analysis of Weather-Based Indexes and the Actuaries Climate Index$^{TM}$ for Crop Yield Prediction](http://arxiv.org/abs/2504.21143v1)** | 2025-04-29 |  |
+| **[Data Driven Deep Learning for Correcting Global Climate Model Projections of SST and DSL in the Bay of Bengal](http://arxiv.org/abs/2504.20620v1)** | 2025-04-29 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 3 tables of main paper; 24 pages, 17 figures of Supporting Information</p></details> |
+| **[Global Climate Model Bias Correction Using Deep Learning](http://arxiv.org/abs/2504.19145v1)** | 2025-04-27 | 40 pages, 15 figures |
+| **[Predicting Coastal Water Levels in the Context of Climate Change Using Kolmogorov-Zurbenko Time Series Analysis Methods](http://arxiv.org/abs/2412.09419v2)** | 2025-04-25 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, this article draws from arXiv:2007.03031v3 and arXiv:2412.07735v1; updated references</p></details> |
+| **[A Physics-guided Multimodal Transformer Path to Weather and Climate Sciences](http://arxiv.org/abs/2504.14174v1)** | 2025-04-19 | Perspective article |
+| **[RAIN: Reinforcement Algorithms for Improving Numerical Weather and Climate Models](http://arxiv.org/abs/2408.16118v3)** | 2025-04-16 | <details><summary>Accep...</summary><p>Accepted for poster presentation at the NeurIPS 2024 workshop on Tackling Climate Change with Machine Learning. 24 pages, 9 figures</p></details> |
+| **[Climplicit: Climatic Implicit Embeddings for Global Ecological Tasks](http://arxiv.org/abs/2504.05089v2)** | 2025-04-14 | <details><summary>Publi...</summary><p>Published as a workshop paper at "Tackling Climate Change with Machine Learning", ICLR 2025</p></details> |
+| **[Using Reinforcement Learning to Integrate Subjective Wellbeing into Climate Adaptation Decision Making](http://arxiv.org/abs/2504.10031v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted for presentation at Tackling Climate Change with Machine Learning workshop at ICLR 2025</p></details> |
+| **[TigerGPT: A New AI Chatbot for Adaptive Campus Climate Surveys](http://arxiv.org/abs/2504.13925v1)** | 2025-04-11 |  |
+| **[LUCIE: A Lightweight Uncoupled ClImate Emulator with long-term stability and physical consistency for O(1000)-member ensembles](http://arxiv.org/abs/2405.16297v3)** | 2025-04-10 |  |
+| **[ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method](http://arxiv.org/abs/2504.07394v1)** | 2025-04-10 | Preprint, 29 pages |
+| **[Machine learning emulation of precipitation from km-scale regional climate simulations using a diffusion model](http://arxiv.org/abs/2407.14158v2)** | 2025-04-07 | <details><summary>47 pa...</summary><p>47 pages, 11 figures, 5 tables; re-ordered sections; further evaluation of future change in heavy precipitation</p></details> |
+| **[Model Predictive Building Climate Control for Mitigating Heat Pump Noise Pollution (Extended Version)](http://arxiv.org/abs/2504.04182v1)** | 2025-04-05 | <details><summary>7 pag...</summary><p>7 pages, accepted to ECC2025</p></details> |
+| **[CliME: Evaluating Multimodal Climate Discourse on Social Media and the Climate Alignment Quotient (CAQ)](http://arxiv.org/abs/2504.03906v1)** | 2025-04-04 | 16 pages, 9 figures |
+| **[Koopman-Based Methods for EV Climate Dynamics: Comparing eDMD Approaches](http://arxiv.org/abs/2504.03872v1)** | 2025-04-04 | 6 pages, conference |
+| **[Granger causal inference for climate change attribution](http://arxiv.org/abs/2408.16004v3)** | 2025-04-02 |  |
+| **[Information Retrieval for Climate Impact](http://arxiv.org/abs/2504.01162v1)** | 2025-04-01 | <details><summary>Repor...</summary><p>Report on the MANILA24 Workshop</p></details> |
+| **[Predicting and Mitigating Agricultural Price Volatility Using Climate Scenarios and Risk Models](http://arxiv.org/abs/2503.24324v1)** | 2025-03-31 | 10 pages, 5 figures |
+| **[The impact of internal variability on benchmarking deep learning climate emulators](http://arxiv.org/abs/2408.05288v2)** | 2025-03-31 |  |
+| **[Graph Transformer-Based Flood Susceptibility Mapping: Application to the French Riviera and Railway Infrastructure Under Climate Change](http://arxiv.org/abs/2504.03727v1)** | 2025-03-31 | <details><summary>Submi...</summary><p>Submitted to Science of Total Environment journal</p></details> |
+| **[Data-driven Seasonal Climate Predictions via Variational Inference and Transformers](http://arxiv.org/abs/2503.20466v2)** | 2025-03-28 |  |
+| **[Quantifying Climate Change Impacts on Renewable Energy Generation: A Super-Resolution Recurrent Diffusion Model](http://arxiv.org/abs/2412.11399v2)** | 2025-03-24 |  |
+| **[Mathematical Modeling, Analysis and Simulation Utilizing Machine Learning Tools for Assessing the Impact of Climate Lobbying](http://arxiv.org/abs/2505.09617v1)** | 2025-03-22 |  |
+| **[ClimateGS: Real-Time Climate Simulation with 3D Gaussian Style Transfer](http://arxiv.org/abs/2503.14845v1)** | 2025-03-19 |  |
+| **[Climate land use and other drivers impacts on island ecosystem services: a global review](http://arxiv.org/abs/2503.10278v1)** | 2025-03-13 | <details><summary>Artic...</summary><p>Article published in the journal: Science of the Total Environment. Free author's version</p></details> |
+| **[Deep Learning for Climate Action: Computer Vision Analysis of Visual Narratives on X](http://arxiv.org/abs/2503.09361v1)** | 2025-03-12 |  |
+| **[Risk Assessment of Distribution Networks Considering Climate Change and Vegetation Management Impacts](http://arxiv.org/abs/2503.09239v1)** | 2025-03-12 |  |
+| **[XAI4Extremes: An interpretable machine learning framework for understanding extreme-weather precursors under climate change](http://arxiv.org/abs/2503.08163v1)** | 2025-03-11 |  |
+| **[ClimDetect: A Benchmark Dataset for Climate Change Detection and Attribution](http://arxiv.org/abs/2408.15993v2)** | 2025-03-10 |  |
+| **[Agile Climate-Sensor Design and Calibration Algorithms Using Machine Learning: Experiments From Cape Point](http://arxiv.org/abs/2503.06777v1)** | 2025-03-09 |  |
+| **[ClimaQA: An Automated Evaluation Framework for Climate Question Answering Models](http://arxiv.org/abs/2410.16701v2)** | 2025-03-09 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
+| **[Enhancing LLMs for Governance with Human Oversight: Evaluating and Aligning LLMs on Expert Classification of Climate Misinformation for Detecting False or Misleading Claims about Climate Change](http://arxiv.org/abs/2501.13802v2)** | 2025-03-09 | <details><summary>Inter...</summary><p>International Workshop on AI Governance: Alignment, Morality and Law (AIGOV) 2025. AAAI Conference on Artificial Intelligence</p></details> |
+| **[Climate Change in Austria: Precipitation and Dry Spells over the last 50 years](http://arxiv.org/abs/2408.11497v2)** | 2025-03-09 | <details><summary>18 pa...</summary><p>18 pages, 10 tables and 5 figures</p></details> |
+| **[Generative assimilation and prediction for weather and climate](http://arxiv.org/abs/2503.03038v1)** | 2025-03-04 |  |
+| **[Regional climate projections using a deep-learning-based model-ranking and downscaling framework: Application to European climate zones](http://arxiv.org/abs/2502.20132v2)** | 2025-02-28 | <details><summary>This ...</summary><p>This manuscript has been submitted to Environmental Science and Pollution Research (ESPR) for review</p></details> |
+| **[Climate And Resource Awareness is Imperative to Achieving Sustainable AI (and Preventing a Global AI Arms Race)](http://arxiv.org/abs/2502.20016v1)** | 2025-02-27 | 19 pages, 6 figures |
+| **[Arctic teleconnection on climate and ozone pollution in the polar jet stream path of eastern US](http://arxiv.org/abs/2502.19234v1)** | 2025-02-26 | 19 pages, 6 figures |
+| **[A Sustainable Circular Framework for Financing Infrastructure Climate Adaptation: Integrated Carbon Markets](http://arxiv.org/abs/2501.08004v2)** | 2025-02-24 | <details><summary>18 pa...</summary><p>18 pages,2 figures,99 references</p></details> |
+| **[Spatiotemporal Forecasting in Climate Data Using EOFs and Machine Learning Models: A Case Study in Chile](http://arxiv.org/abs/2502.17495v1)** | 2025-02-21 | 25 pages, 6 figures |
+| **[CondensNet: Enabling stable long-term climate simulations via hybrid deep learning models with adaptive physical constraints](http://arxiv.org/abs/2502.13185v1)** | 2025-02-18 |  |
+| **[CLLMate: A Multimodal Benchmark for Weather and Climate Events Forecasting](http://arxiv.org/abs/2409.19058v2)** | 2025-02-16 |  |
+| **[On Large Language Models as Data Sources for Policy Deliberation on Climate Change and Sustainability](http://arxiv.org/abs/2503.05708v1)** | 2025-02-13 | 32 pages. 4 figures |
+| **[Advancing climate model interpretability: Feature attribution for Arctic melt anomalies](http://arxiv.org/abs/2502.07741v1)** | 2025-02-11 | 9 pages |
+| **[InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma](http://arxiv.org/abs/2411.09856v3)** | 2025-02-10 |  |
+| **[The Role of Science in the Climate Change Discussions on Reddit](http://arxiv.org/abs/2502.05026v1)** | 2025-02-07 |  |
+| **[Changes over time in the 100-year return value of climate model variables](http://arxiv.org/abs/2501.11650v2)** | 2025-02-05 |  |
+| **[Learning to generate physical ocean states: Towards hybrid climate modeling](http://arxiv.org/abs/2502.02499v1)** | 2025-02-04 |  |
+| **[Large language models in climate and sustainability policy: limits and opportunities](http://arxiv.org/abs/2502.02191v1)** | 2025-02-04 | 15 pages; 4 figures |
+| **[Impacts of Climate Change on Mortality: An extrapolation of temperature effects based on time series data in France](http://arxiv.org/abs/2406.02054v3)** | 2025-02-03 |  |
+| **[Mixed extreme wave climate model for reanalysis databases](http://arxiv.org/abs/2502.00486v1)** | 2025-02-01 |  |
+| **[A Generative Framework for Probabilistic, Spatiotemporally Coherent Downscaling of Climate Simulation](http://arxiv.org/abs/2412.15361v3)** | 2025-01-28 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, additional supplementary text and figures</p></details> |
+| **[Identification of Nonparametric Dynamic Causal Structure and Latent Process in Climate System](http://arxiv.org/abs/2501.12500v1)** | 2025-01-21 |  |
+| **[A Smart IoT Framework for Climate-Resilient and Sustainable Maize Farming In Uganda](http://arxiv.org/abs/2501.12483v1)** | 2025-01-21 | 27pages, 13 figures |
+| **[Reconstructing East Asian Temperatures from 1368 to 1911 Using Historical Documents, Climate Models, and Data Assimilation](http://arxiv.org/abs/2410.21790v2)** | 2025-01-18 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, 1 table</p></details> |
+| **[Analysis of Climatic Trends and Variability in Indian Topography](http://arxiv.org/abs/2501.04578v1)** | 2025-01-08 |  |
+| **[LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes](http://arxiv.org/abs/2501.00149v2)** | 2025-01-06 | <details><summary>minor...</summary><p>minor corrections and editing</p></details> |
+| **[CarbonChat: Large Language Model-Based Corporate Carbon Emission Analysis and Climate Knowledge Q&A System](http://arxiv.org/abs/2501.02031v1)** | 2025-01-03 | 26 pages |
+| **[Reinforcement Learning-based Model Predictive Control for Greenhouse Climate Control](http://arxiv.org/abs/2409.12789v3)** | 2025-01-02 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, code available at https://github.com/SamuelMallick/mpcrl-greenhouse, accepted for publication in Smart Agricultural Technology</p></details> |
+| **[Bangladesh's Amplified Coastal Storm Tide Hazard from Tropical Cyclones and Rising Sea Levels in a Warming Climate](http://arxiv.org/abs/2312.06051v2)** | 2025-01-02 | <details><summary>Revis...</summary><p>Revised version includes new climate scenarios and model verification</p></details> |
+| **[Temperature-Controlled Smart Charging for Electric Vehicles in Cold Climates](http://arxiv.org/abs/2501.01105v1)** | 2025-01-02 | <details><summary>11 pa...</summary><p>11 pages, accepted by IEEE Transactions on Smart Grid</p></details> |
+| **[Random Forest Regression Feature Importance for Climate Impact Pathway Detection](http://arxiv.org/abs/2409.16609v2)** | 2024-12-25 |  |
+| **[Band Prompting Aided SAR and Multi-Spectral Data Fusion Framework for Local Climate Zone Classification](http://arxiv.org/abs/2412.18235v1)** | 2024-12-24 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2025</p></details> |
+| **[MERCURY: A fast and versatile multi-resolution based global emulator of compound climate hazards](http://arxiv.org/abs/2501.04018v1)** | 2024-12-24 |  |
+| **[Uncertainties of Satellite-based Essential Climate Variables from Deep Learning](http://arxiv.org/abs/2412.17506v1)** | 2024-12-23 |  |
+| **[Resilience Dynamics in Coupled Natural-Industrial Systems: A Surrogate Modeling Approach for Assessing Climate Change Impacts on Industrial Ecosystems](http://arxiv.org/abs/2412.17006v1)** | 2024-12-22 | 25 pages, 8 Figures |
+| **[From Correlation to Causation: Understanding Climate Change through Causal Analysis and LLM Interpretations](http://arxiv.org/abs/2412.16691v1)** | 2024-12-21 |  |
+| **[A Comprehensive Review: Impacts of Extreme Temperatures due to Climate Change on Power Grid Infrastructure and Operation](http://arxiv.org/abs/2410.08425v2)** | 2024-12-21 |  |
+| **[Climate Impact Assessment Requires Weighting: Introducing the Weighted Climate Dataset](http://arxiv.org/abs/2412.15699v1)** | 2024-12-20 | 10 pages, 5 figures |
+| **[Climate Policy Elites' Twitter Interactions across Nine Countries](http://arxiv.org/abs/2412.15545v1)** | 2024-12-20 | <details><summary>worki...</summary><p>working paper, 16 pages, 6 figures</p></details> |
+| **[Intelligent Environmental Empathy (IEE): A new power and platform to fostering green obligation for climate peace and justice](http://arxiv.org/abs/2410.21536v3)** | 2024-12-18 |  |
+| **[Climate-Driven Doubling of U.S. Maize Loss Probability: Interactive Simulation with Neural Network Monte Carlo](http://arxiv.org/abs/2408.02217v2)** | 2024-12-18 | <details><summary>20 pa...</summary><p>20 page main document followed by supplemental</p></details> |
+| **[Transferring climate change physical knowledge](http://arxiv.org/abs/2309.14780v5)** | 2024-12-17 |  |
+| **[Heterogeneous Vulnerability of Zero-Carbon Power Grids under Climate-Technological Changes](http://arxiv.org/abs/2307.15079v3)** | 2024-12-16 |  |
+| **[Adopting Explainable-AI to investigate the impact of urban morphology design on energy and environmental performance in dry-arid climates](http://arxiv.org/abs/2412.12183v1)** | 2024-12-13 |  |
+| **[Quantum Kernel-Based Long Short-term Memory for Climate Time-Series Forecasting](http://arxiv.org/abs/2412.08851v1)** | 2024-12-12 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2411.13225</p></details> |
+| **[Understanding North Atlantic Climate Instabilities and Complex Interactions using Data Science](http://arxiv.org/abs/2001.10171v4)** | 2024-12-11 | 18 pages, 7 figures |
+| **[Climate Aware Deep Neural Networks (CADNN) for Wind Power Simulation](http://arxiv.org/abs/2412.12160v1)** | 2024-12-11 |  |
+| **[Spatiotemporal Density Correction of Multivariate Global Climate Model Projections using Deep Learning](http://arxiv.org/abs/2411.18799v2)** | 2024-12-07 |  |
+| **[Modeling climate extremes using the four-parameter kappa distribution for $r$-largest order statistics](http://arxiv.org/abs/2007.12031v3)** | 2024-12-05 | <details><summary>In th...</summary><p>In this revision, some modification and correction from the published one are made on sentences and formula with blue color</p></details> |
+| **[WxC-Bench: A Novel Dataset for Weather and Climate Downstream Tasks](http://arxiv.org/abs/2412.02780v1)** | 2024-12-03 |  |
+| **[Exploring Climate Change Discourse: Measurements and Analysis of Reddit Data](http://arxiv.org/abs/2412.01111v1)** | 2024-12-02 |  |
+| **[Climate Adaptation with Reinforcement Learning: Experiments with Flooding and Transportation in Copenhagen](http://arxiv.org/abs/2409.18574v2)** | 2024-11-29 | <details><summary>Accep...</summary><p>Accepted for presentation at Tackling Climate Change with Machine Learning workshop at NeurIPS 2024</p></details> |
+| **[The belief in Moore's Law is undermining ICT climate action](http://arxiv.org/abs/2411.17391v2)** | 2024-11-27 | <details><summary>This ...</summary><p>This position paper and extended abstract is accepted for presentation at LOCO '24: 1st International Workshop on Low Carbon Computing, 2024-12-03, in Glasgow, UK</p></details> |
+| **[Resolution-Agnostic Transformer-based Climate Downscaling](http://arxiv.org/abs/2411.14774v2)** | 2024-11-27 |  |
+| **[CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers](http://arxiv.org/abs/2411.16989v1)** | 2024-11-25 |  |
+| **[Maximizing the Impact of Deep Learning on Subseasonal-to-Seasonal Climate Forecasting: The Essential Role of Optimization](http://arxiv.org/abs/2411.16728v1)** | 2024-11-23 |  |
+| **[A probabilistic framework for learning non-intrusive corrections to long-time climate simulations from short-time training data](http://arxiv.org/abs/2408.02688v2)** | 2024-11-22 |  |
+| **[Efficient Aspect-Based Summarization of Climate Change Reports with Small Language Models](http://arxiv.org/abs/2411.14272v1)** | 2024-11-21 |  |
+| **[Exploring Large Language Models for Climate Forecasting](http://arxiv.org/abs/2411.13724v1)** | 2024-11-20 |  |
+| **[ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction](http://arxiv.org/abs/2402.00712v5)** | 2024-11-20 | <details><summary>NeurI...</summary><p>NeurIPS 2024 D&B Track (Oral)</p></details> |
+| **[Climate data selection for multi-decadal wind power forecasts](http://arxiv.org/abs/2411.11630v1)** | 2024-11-18 | Pre-print |
+| **[A model-free test of the time-reversibility of climate change processes](http://arxiv.org/abs/2411.11248v1)** | 2024-11-18 | 8 pages, 1 figure |
+| **[Feature Importance of Climate Vulnerability Indicators with Gradient Boosting across Five Global Cities](http://arxiv.org/abs/2411.10628v1)** | 2024-11-15 | 15 pages, 2 figures |
+| **[Towards unearthing neglected climate innovations from scientific literature using Large Language Models](http://arxiv.org/abs/2411.10055v1)** | 2024-11-15 | <details><summary>10 pa...</summary><p>10 pages. Accepted in the LatinX in AI workshop at NeurIPS 2024</p></details> |
+| **[Probabilistic Emulation of a Global Climate Model with Spherical DYffusion](http://arxiv.org/abs/2406.14798v2)** | 2024-11-13 | <details><summary>NeurI...</summary><p>NeurIPS 2024; Code is available at https://github.com/Rose-STL-Lab/spherical-dyffusion</p></details> |
+| **[Anticipatory Understanding of Resilient Agriculture to Climate](http://arxiv.org/abs/2411.05219v2)** | 2024-11-11 |  |
+| **[Tackling extreme urban heat: a machine learning approach to assess the impacts of climate change and the efficacy of climate adaptation strategies in urban microclimates](http://arxiv.org/abs/2411.05952v1)** | 2024-11-08 |  |
+| **[Are Deep Learning Methods Suitable for Downscaling Global Climate Projections? Review and Intercomparison of Existing Models](http://arxiv.org/abs/2411.05850v1)** | 2024-11-06 | <details><summary>Under...</summary><p>Under review for Earth's Future</p></details> |
+| **[Estimating breakpoints between climate states in the Cenozoic Era](http://arxiv.org/abs/2404.08336v4)** | 2024-11-06 | <details><summary>Autho...</summary><p>Authors in alphabetical order</p></details> |
+| **[Climate AI for Corporate Decarbonization Metrics Extraction](http://arxiv.org/abs/2411.03402v1)** | 2024-11-05 |  |
+| **[Dhoroni: Exploring Bengali Climate Change and Environmental Views with a Multi-Perspective News Dataset and Natural Language Processing](http://arxiv.org/abs/2410.17225v2)** | 2024-11-02 | In Review |
+| **[Responsible Retrieval Augmented Generation for Climate Decision Making from Documents](http://arxiv.org/abs/2410.23902v1)** | 2024-10-31 |  |
+| **[Promoting Reliable Knowledge about Climate Change: A Systematic Review of Effective Measures to Resist Manipulation on Social Media](http://arxiv.org/abs/2410.23814v1)** | 2024-10-31 |  |
+| **[PACER: Physics Informed Uncertainty Aware Climate Emulator](http://arxiv.org/abs/2410.21657v2)** | 2024-10-30 |  |
+| **[A cross-platform analysis of polarization and echo chambers in climate change discussions](http://arxiv.org/abs/2410.21187v2)** | 2024-10-29 | <details><summary>42 pa...</summary><p>42 pages, 27 Figures, 8 tables</p></details> |
+| **[User Archetypes and Information Dynamics on Telegram: COVID-19 and Climate Change Discourse in Singapore](http://arxiv.org/abs/2406.06717v3)** | 2024-10-28 |  |
+| **[Harnessing Visualization for Climate Action and Sustainable Future](http://arxiv.org/abs/2410.17411v1)** | 2024-10-22 |  |
+| **[Spatio-temporal Multivariate Cluster Evolution Analysis for Detecting and Tracking Climate Impacts](http://arxiv.org/abs/2410.16544v1)** | 2024-10-21 |  |
+| **[Generating Physically-Consistent Satellite Imagery for Climate Visualizations](http://arxiv.org/abs/2104.04785v5)** | 2024-10-21 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2010.08103</p></details> |
+| **[Towards Physically Consistent Deep Learning For Climate Model Parameterizations](http://arxiv.org/abs/2406.03920v4)** | 2024-10-16 | <details><summary>Accep...</summary><p>Accepted at ICMLA 2024</p></details> |
+| **[Double Jeopardy and Climate Impact in the Use of Large Language Models: Socio-economic Disparities and Reduced Utility for Non-English Speakers](http://arxiv.org/abs/2410.10665v1)** | 2024-10-14 | <details><summary>Proje...</summary><p>Project GitHub repository at https://github.com/worldbank/double-jeopardy-in-llms</p></details> |
+| **[Causal Modeling of Climate Activism on Reddit](http://arxiv.org/abs/2410.10562v1)** | 2024-10-14 |  |
+| **[Crafting desirable climate trajectories with RL explored socio-environmental simulations](http://arxiv.org/abs/2410.07287v1)** | 2024-10-09 | 23 pages, 13 Figures |
+| **[A simple emulator that enables interpretation of parameter-output relationships, applied to two climate model PPEs](http://arxiv.org/abs/2410.00931v2)** | 2024-10-08 | <details><summary>Manus...</summary><p>Manuscript to be submitted to Journal of Advances in Modeling Earth Systems (JAMES)</p></details> |
+| **[Urban Computing for Climate and Environmental Justice: Early Perspectives From Two Research Initiatives](http://arxiv.org/abs/2410.04318v1)** | 2024-10-06 | <details><summary>Accep...</summary><p>Accepted at the Viz4Climate + Sustainability: IEEE VIS 2024 Workshop on Visualization for Climate Action and Sustainability (https://svs.gsfc.nasa.gov/events/2024/Viz4ClimateAndSustainability/)</p></details> |
+| **[Dynamical-generative downscaling of climate model ensembles](http://arxiv.org/abs/2410.01776v1)** | 2024-10-02 |  |
+| **[ClimRetrieve: A Benchmarking Dataset for Information Retrieval from Corporate Climate Disclosures](http://arxiv.org/abs/2406.09818v3)** | 2024-10-01 |  |
 
 ## soil
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Modern Neural Networks for Small Tabular Datasets: The New Default for Field-Scale Digital Soil Mapping?](http://arxiv.org/abs/2508.09888v1)** | 2025-08-13 |  |
 | **[Soil Texture Prediction with Bayesian Generalized Additive Models for Spatial Compositional Data](http://arxiv.org/abs/2508.07708v1)** | 2025-08-11 |  |
 | **[SoilNet: A Multimodal Multitask Model for Hierarchical Classification of Soil Horizons](http://arxiv.org/abs/2508.03785v1)** | 2025-08-05 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 6 tables</p></details> |
 | **[In-Situ Soil-Property Estimation and Bayesian Mapping with a Simulated Compact Track Loader](http://arxiv.org/abs/2507.22356v1)** | 2025-07-30 | <details><summary>29 pa...</summary><p>29 pages, 12 figures, 5 algorithms, ISTVS 2025</p></details> |
@@ -1030,6 +1225,8 @@ labels: documentation
 ## plant
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Forecasting steam mass flow in power plants using the parallel hybrid network](http://arxiv.org/abs/2307.09483v3)** | 2025-08-13 | 14 pages, 5 figures |
+| **[A Classical Quadratic Speedup for Planted $k$XOR](http://arxiv.org/abs/2508.09422v1)** | 2025-08-13 | 22 pages |
 | **[Autonomous Mobile Plant Watering Robot : A Kinematic Approach](http://arxiv.org/abs/2508.08607v1)** | 2025-08-12 |  |
 | **[3D Plant Root Skeleton Detection and Extraction](http://arxiv.org/abs/2508.08094v1)** | 2025-08-11 |  |
 | **[BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions](http://arxiv.org/abs/2312.14706v2)** | 2025-08-11 |  |
@@ -1176,7 +1373,6 @@ labels: documentation
 | **[Automated Disease Diagnosis in Pumpkin Plants Using Advanced CNN Models](http://arxiv.org/abs/2410.00062v1)** | 2024-09-29 | 10 pages, 8 figures |
 | **[Plant Robots: Harnessing Growth Actuation of Plants for Locomotion and Object Manipulation](http://arxiv.org/abs/2407.16162v3)** | 2024-09-26 | 16 pages, 4 figures |
 | **[Low-degree Security of the Planted Random Subgraph Problem](http://arxiv.org/abs/2409.16227v1)** | 2024-09-24 |  |
-| **[Forecasting steam mass flow in power plants using the parallel hybrid network](http://arxiv.org/abs/2307.09483v2)** | 2024-09-19 | 11 pages, 5 figures |
 | **[Fixed-Parameter Tractability of the (1+1) Evolutionary Algorithm on Random Planted Vertex Covers](http://arxiv.org/abs/2409.10144v1)** | 2024-09-16 |  |
 | **[A Dataset of the Operating Station Heat Rate for 806 Indian Coal Plant Units using Machine Learning](http://arxiv.org/abs/2410.00016v1)** | 2024-09-14 |  |
 | **[Impacts of EPA Power Plant Emissions Regulations on the US Electricity Sector](http://arxiv.org/abs/2409.08093v1)** | 2024-09-12 |  |
@@ -1229,11 +1425,12 @@ labels: documentation
 | **[Challenges in automatic and selective plant-clearing](http://arxiv.org/abs/2404.13996v1)** | 2024-04-22 |  |
 | **[Feedback control of plant-soil autotoxicity via pulse-width modulation](http://arxiv.org/abs/2311.13295v2)** | 2024-04-15 | Accepted to ECC 2024 |
 | **[Plus Strategies are Exponentially Slower for Planted Optima of Random Height](http://arxiv.org/abs/2404.09687v1)** | 2024-04-15 |  |
-| **[Implicit EXP-RBF techniques for modeling unsaturated flow through soils with water uptake by plant roots](http://arxiv.org/abs/2404.09382v1)** | 2024-04-14 |  |
 
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GridRoute: A Benchmark for LLM-Based Route Planning with Cardinal Movement in Grid Environments](http://arxiv.org/abs/2505.24306v2)** | 2025-08-13 | 8 pages |
+| **[DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments](http://arxiv.org/abs/2506.00739v3)** | 2025-08-12 |  |
 | **[Optimal Coupled Sensor Placement and Path-Planning in Unknown Time-Varying Environments](http://arxiv.org/abs/2502.00185v2)** | 2025-08-12 |  |
 | **[Frequency Point Game Environment for UAVs via Expert Knowledge and Large Language Model](http://arxiv.org/abs/2508.02757v2)** | 2025-08-12 |  |
 | **[Toward Automated Hypervisor Scenario Generation Based on VM Workload Profiling for Resource-Constrained Environments](http://arxiv.org/abs/2508.08952v1)** | 2025-08-12 |  |
@@ -1432,8 +1629,6 @@ labels: documentation
 | **[Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization](http://arxiv.org/abs/2502.14496v2)** | 2025-06-27 | <details><summary>28 pa...</summary><p>28 pages, under review</p></details> |
 | **[TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments](http://arxiv.org/abs/2506.21900v1)** | 2025-06-27 |  |
 | **[Avatars and Environments for Meetings in Social VR: What Styles and Choices Matter to People in Group Creativity Tasks?](http://arxiv.org/abs/2506.21780v1)** | 2025-06-26 |  |
-| **[3D Hierarchical Panoptic Segmentation in Real Orchard Environments Across Different Sensors](http://arxiv.org/abs/2503.13188v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments](http://arxiv.org/abs/2506.21127v1)** | 2025-06-26 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
