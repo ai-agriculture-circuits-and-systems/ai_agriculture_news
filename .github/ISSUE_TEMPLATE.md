@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - August 18, 2025
+title: Latest 200 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## agriculture
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Investigating Sensors and Methods in Grasp State Classification in Agricultural Manipulation](http://arxiv.org/abs/2508.11588v1)** | 2025-08-15 |  |
 | **[Vision Transformers in Precision Agriculture: A Comprehensive Survey](http://arxiv.org/abs/2504.21706v4)** | 2025-08-14 |  |
 | **[Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind](http://arxiv.org/abs/2505.12207v3)** | 2025-08-13 |  |
 | **[AgriGPT: a Large Language Model Ecosystem for Agriculture](http://arxiv.org/abs/2508.08632v1)** | 2025-08-12 |  |
@@ -206,7 +207,6 @@ labels: documentation
 | **[GPT-4 as Evaluator: Evaluating Large Language Models on Pest Management in Agriculture](http://arxiv.org/abs/2403.11858v1)** | 2024-03-18 |  |
 | **[Large Language Models and Foundation Models in Smart Agriculture: Basics, Opportunities, and Challenges](http://arxiv.org/abs/2308.06668v4)** | 2024-03-17 | 18 pages, 3 figures |
 | **[eKichabi v2: Designing and Scaling a Dual-Platform Agricultural Technology in Rural Tanzania](http://arxiv.org/abs/2403.09980v1)** | 2024-03-15 |  |
-| **[Innovations in Agricultural Forecasting: A Multivariate Regression Study on Global Crop Yield Prediction](http://arxiv.org/abs/2312.02254v2)** | 2024-03-14 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 1 table, Guided by Dr. Aditya Undurti</p></details> |
 
 ## farming
 | **Title** | **Date** | **Comment** |
@@ -823,6 +823,7 @@ labels: documentation
 ## climate
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Approximating the universal thermal climate index using sparse regression with orthogonal polynomials](http://arxiv.org/abs/2508.11307v1)** | 2025-08-15 |  |
 | **[Accelerating exoplanet climate modelling: A machine learning approach to complement 3D GCM grid simulations](http://arxiv.org/abs/2508.10827v1)** | 2025-08-14 |  |
 | **[Matters Arising: Spatial correlation in economic analysis of climate change](http://arxiv.org/abs/2508.10575v1)** | 2025-08-14 |  |
 | **[Risk-based framework to determine climate-informed design storms for road drainage infrastructure](http://arxiv.org/abs/2508.10183v1)** | 2025-08-13 |  |
@@ -1022,11 +1023,11 @@ labels: documentation
 | **[Double Jeopardy and Climate Impact in the Use of Large Language Models: Socio-economic Disparities and Reduced Utility for Non-English Speakers](http://arxiv.org/abs/2410.10665v1)** | 2024-10-14 | <details><summary>Proje...</summary><p>Project GitHub repository at https://github.com/worldbank/double-jeopardy-in-llms</p></details> |
 | **[Causal Modeling of Climate Activism on Reddit](http://arxiv.org/abs/2410.10562v1)** | 2024-10-14 |  |
 | **[Crafting desirable climate trajectories with RL explored socio-environmental simulations](http://arxiv.org/abs/2410.07287v1)** | 2024-10-09 | 23 pages, 13 Figures |
-| **[A simple emulator that enables interpretation of parameter-output relationships, applied to two climate model PPEs](http://arxiv.org/abs/2410.00931v2)** | 2024-10-08 | <details><summary>Manus...</summary><p>Manuscript to be submitted to Journal of Advances in Modeling Earth Systems (JAMES)</p></details> |
 
 ## soil
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Knowledge Graph Informing Soil Carbon Modeling](http://arxiv.org/abs/2508.10965v1)** | 2025-08-14 |  |
 | **[Modern Neural Networks for Small Tabular Datasets: The New Default for Field-Scale Digital Soil Mapping?](http://arxiv.org/abs/2508.09888v1)** | 2025-08-13 |  |
 | **[Soil Texture Prediction with Bayesian Generalized Additive Models for Spatial Compositional Data](http://arxiv.org/abs/2508.07708v1)** | 2025-08-11 |  |
 | **[SoilNet: A Multimodal Multitask Model for Hierarchical Classification of Soil Horizons](http://arxiv.org/abs/2508.03785v1)** | 2025-08-05 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 6 tables</p></details> |
@@ -1429,6 +1430,8 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Human-AI Experience in Integrated Development Environments: A Systematic Literature Review](http://arxiv.org/abs/2503.06195v2)** | 2025-08-15 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) special issue Human-Centered AI for Software Engineering (HumanAISE), 37 pages, 7 figure</p></details> |
+| **[Tapas are free! Training-Free Adaptation of Programmatic Agents via LLM-Guided Program Synthesis in Dynamic Environments](http://arxiv.org/abs/2508.11425v1)** | 2025-08-15 | Under Review |
 | **[DEV: A Driver-Environment-Vehicle Closed-Loop Framework for Risk-Aware Adaptive Automation of Driving](http://arxiv.org/abs/2508.10618v1)** | 2025-08-14 |  |
 | **[Okapi: Efficiently Safeguarding Speculative Data Accesses in Sandboxed Environments](http://arxiv.org/abs/2312.08156v3)** | 2025-08-14 | <details><summary>AsiaC...</summary><p>AsiaCCS'25 author version</p></details> |
 | **[Tactile Aware Dynamic Obstacle Avoidance in Crowded Environment with Deep Reinforcement Learning](http://arxiv.org/abs/2406.13434v2)** | 2025-08-14 |  |
@@ -1627,8 +1630,6 @@ labels: documentation
 | **[FedMM-X: A Trustworthy and Interpretable Framework for Federated Multi-Modal Learning in Dynamic Environments](http://arxiv.org/abs/2503.19564v2)** | 2025-06-30 |  |
 | **[MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments](http://arxiv.org/abs/2506.23514v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
 | **[Multi-Environment GLAMP: Approximate Message Passing for Transfer Learning with Applications to Lasso-based Estimators](http://arxiv.org/abs/2505.22594v2)** | 2025-06-29 | <details><summary>Restr...</summary><p>Restructured the previous Section 3 and included reference to Gerbelot and Berthier (Information and Inference, 2023). 85 pages, 3 figures</p></details> |
-| **[Environment-Driven Online LiDAR-Camera Extrinsic Calibration](http://arxiv.org/abs/2502.00801v2)** | 2025-06-28 |  |
-| **[Control Synthesis in Partially Observable Environments for Complex Perception-Related Objectives](http://arxiv.org/abs/2507.02942v1)** | 2025-06-27 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the IEEE Control Systems Letters (L-CSS). Personal use of this material is permitted. Reuse requires permission from IEEE</p></details> |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
