@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - August 29, 2025
+title: Latest 200 Papers - August 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## agriculture
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ATMS-KD: Adaptive Temperature and Mixed Sample Knowledge Distillation for a Lightweight Residual CNN in Agricultural Embedded Systems](http://arxiv.org/abs/2508.20232v1)** | 2025-08-27 |  |
 | **[The unrealized potential of agroforestry for an emissions-intensive agricultural commodity](http://arxiv.org/abs/2410.20882v2)** | 2025-08-22 |  |
 | **[A Comprehensive Review of Agricultural Parcel and Boundary Delineation from Remote Sensing Images: Recent Progress and Future Perspectives](http://arxiv.org/abs/2508.14558v1)** | 2025-08-20 |  |
 | **[Hierarchical Vision-Language Retrieval of Educational Metaverse Content in Agriculture](http://arxiv.org/abs/2508.13713v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted for publication at the 23rd International Conference on Image Analysis and Processing (ICIAP 2025)</p></details> |
@@ -206,7 +207,6 @@ labels: documentation
 | **[Self-Supervised Backbone Framework for Diverse Agricultural Vision Tasks](http://arxiv.org/abs/2403.15248v1)** | 2024-03-22 |  |
 | **[Bangladesh Agricultural Knowledge Graph: Enabling Semantic Integration and Data-driven Analysis--Full Version](http://arxiv.org/abs/2403.11920v2)** | 2024-03-19 | 40 pages, 15 figures |
 | **[3D Reconstruction in Noisy Agricultural Environments: A Bayesian Optimization Perspective for View Planning](http://arxiv.org/abs/2310.00145v2)** | 2024-03-18 |  |
-| **[GPT-4 as Evaluator: Evaluating Large Language Models on Pest Management in Agriculture](http://arxiv.org/abs/2403.11858v1)** | 2024-03-18 |  |
 
 ## farming
 | **Title** | **Date** | **Comment** |
@@ -1431,6 +1431,11 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on $τ$-bench](http://arxiv.org/abs/2508.20931v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
+| **[Language-Enhanced Mobile Manipulation for Efficient Object Search in Indoor Environments](http://arxiv.org/abs/2508.20899v1)** | 2025-08-28 |  |
+| **[Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](http://arxiv.org/abs/2505.19214v2)** | 2025-08-28 |  |
+| **[UAV-UGV Cooperative Trajectory Optimization and Task Allocation for Medical Rescue Tasks in Post-Disaster Environments](http://arxiv.org/abs/2506.06136v2)** | 2025-08-28 |  |
+| **[Enhanced Trust Region Sequential Convex Optimization for Multi-Drone Thermal Screening Trajectory Planning in Urban Environments](http://arxiv.org/abs/2506.06012v3)** | 2025-08-28 |  |
 | **[Lessons from Biophilic Design: Rethinking Affective Interaction Design in Built Environments](http://arxiv.org/abs/2508.19867v1)** | 2025-08-27 | <details><summary>3 pag...</summary><p>3 pages, 1 footer image, provocation paper for CHI 2025 Workshop on Affective Interactions, Japan</p></details> |
 | **[Hybrid Classical-Quantum Supercomputing: A demonstration of a multi-user, multi-QPU and multi-GPU environment](http://arxiv.org/abs/2508.16297v2)** | 2025-08-27 |  |
 | **[Context-Aware Risk Estimation in Home Environments: A Probabilistic Framework for Service Robots](http://arxiv.org/abs/2508.19788v1)** | 2025-08-27 | <details><summary>8 pag...</summary><p>8 pages, Accepted for IEEE RO-MAN 2025 Conference</p></details> |
@@ -1626,15 +1631,11 @@ labels: documentation
 | **[Bayesian Invariance Modeling of Multi-Environment Data](http://arxiv.org/abs/2506.22675v3)** | 2025-07-09 |  |
 | **[Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments](http://arxiv.org/abs/2507.06750v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted to IROS 2025 Conference</p></details> |
 | **[An Optimisation Framework for Unsupervised Environment Design](http://arxiv.org/abs/2505.20659v2)** | 2025-07-09 | <details><summary>Reinf...</summary><p>Reinforcement Learning Conference 2025</p></details> |
-| **[SkyVLN: Vision-and-Language Navigation and NMPC Control for UAVs in Urban Environments](http://arxiv.org/abs/2507.06564v1)** | 2025-07-09 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, has been accepted by IROS 2025</p></details> |
-| **[Online Planning for Multi-UAV Pursuit-Evasion in Unknown Environments Using Deep Reinforcement Learning](http://arxiv.org/abs/2409.15866v4)** | 2025-07-08 | <details><summary>Publi...</summary><p>Published in IEEE Robotics and Automation Letters 2025</p></details> |
-| **[Eyes on the Environment: AI-Driven Analysis for Fire and Smoke Classification, Segmentation, and Detection](http://arxiv.org/abs/2503.14552v2)** | 2025-07-08 |  |
-| **[Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments](http://arxiv.org/abs/2504.03260v2)** | 2025-07-08 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
-| **[Containerization in Multi-Cloud Environment: Roles, Strategies, Challenges, and Solutions for Effective Implementation](http://arxiv.org/abs/2403.12980v3)** | 2025-07-08 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards an Architectural Perspective for Sustainability: Bundle the Needs from Industry](http://arxiv.org/abs/2508.20774v1)** | 2025-08-28 |  |
 | **[Embodied Intelligence for Sustainable Flight: A Soaring Robot with Active Morphological Control](http://arxiv.org/abs/2508.19684v1)** | 2025-08-27 |  |
 | **[Ab-initio Quantum Transport with the GW Approximation, 42,240 Atoms, and Sustained Exascale Performance](http://arxiv.org/abs/2508.19138v1)** | 2025-08-26 |  |
 | **[Sustainability or Survivability? Eliminating the Need to Choose in LEO Satellite Constellations](http://arxiv.org/abs/2508.17763v1)** | 2025-08-25 |  |
@@ -1834,5 +1835,4 @@ labels: documentation
 | **[SOPA: A Framework for Sustainability-Oriented Process Analysis and Re-design in Business Process Management](http://arxiv.org/abs/2405.01176v3)** | 2025-01-08 |  |
 | **[Sustainability in Telecommunication Networks and Key Value Indicators: a Survey](http://arxiv.org/abs/2501.04356v1)** | 2025-01-08 | <details><summary>This ...</summary><p>This paper has been sent for peer-reviewing at Elsevier's Computer Networks on November 21st, 2024</p></details> |
 | **[Sustainable Digitalization of Business with Multi-Agent RAG and LLM](http://arxiv.org/abs/2502.15700v1)** | 2025-01-06 |  |
-| **[Leveraging Sustainable Systematic Literature Reviews](http://arxiv.org/abs/2501.01819v1)** | 2025-01-03 |  |
 
