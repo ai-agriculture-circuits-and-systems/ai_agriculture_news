@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - October 02, 2025
+title: Latest 200 Papers - October 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -823,8 +823,8 @@ labels: documentation
 ## climate
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Functional Regression with Nonstationarity and Error Contamination: Application to the Economic Impact of Climate Change](http://arxiv.org/abs/2509.08591v3)** | 2025-10-01 |  |
 | **[PACER: Physics Informed Uncertainty Aware Climate Emulator](http://arxiv.org/abs/2410.21657v3)** | 2025-09-29 |  |
-| **[Functional Regression with Nonstationarity and Error Contamination: Application to the Economic Impact of Climate Change](http://arxiv.org/abs/2509.08591v2)** | 2025-09-28 |  |
 | **[Forecasting the Future with Yesterday's Climate: Temperature Bias in AI Weather and Climate Models](http://arxiv.org/abs/2509.22359v1)** | 2025-09-26 | 13 pages, 5 figures |
 | **[AutoClimDS: Climate Data Science Agentic AI -- A Knowledge Graph is All You Need](http://arxiv.org/abs/2509.21553v1)** | 2025-09-25 |  |
 | **[mloz: A Highly Efficient Machine Learning-Based Ozone Parameterization for Climate Sensitivity Simulations](http://arxiv.org/abs/2509.20422v1)** | 2025-09-24 |  |
@@ -1435,9 +1435,15 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning](http://arxiv.org/abs/2505.16928v2)** | 2025-10-01 |  |
+| **[Progressive Weight Loading: Accelerating Initial Inference and Gradually Boosting Performance on Resource-Constrained Environments](http://arxiv.org/abs/2509.22319v2)** | 2025-10-01 |  |
+| **[HetSwarm: Cooperative Navigation of Heterogeneous Swarm in Dynamic and Dense Environments through Impedance-based Guidance](http://arxiv.org/abs/2502.06722v2)** | 2025-10-01 | <details><summary>Manus...</summary><p>Manuscript has been accepted by ICUAS-2025</p></details> |
+| **[ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment](http://arxiv.org/abs/2503.02723v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted in IROS 2025</p></details> |
+| **[Learning Hierarchical Domain Models Through Environment-Grounded Interaction](http://arxiv.org/abs/2505.13497v3)** | 2025-10-01 |  |
+| **[Heterogeneous Predictor-based Risk-Aware Planning with Conformal Prediction in Dense, Uncertain Environments](http://arxiv.org/abs/2507.11920v2)** | 2025-10-01 |  |
+| **[A dataset and model for recognition of audiologically relevant environments for hearing aids: AHEAD-DS and YAMNet+](http://arxiv.org/abs/2508.10360v3)** | 2025-10-01 |  |
 | **[OceanGym: A Benchmark Environment for Underwater Embodied Agents](http://arxiv.org/abs/2509.26536v1)** | 2025-09-30 | Work in progress |
 | **[Learning from Hallucinating Critical Points for Navigation in Dynamic Environments](http://arxiv.org/abs/2509.26513v1)** | 2025-09-30 |  |
-| **[A dataset and model for recognition of audiologically relevant environments for hearing aids: AHEAD-DS and YAMNet+](http://arxiv.org/abs/2508.10360v2)** | 2025-09-30 |  |
 | **[VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments](http://arxiv.org/abs/2506.02387v2)** | 2025-09-30 |  |
 | **[WorldGym: World Model as An Environment for Policy Evaluation](http://arxiv.org/abs/2506.00613v3)** | 2025-09-30 | <details><summary>https...</summary><p>https://world-model-eval.github.io</p></details> |
 | **[Analysis of a Spatialized Brain-Body-Environment System](http://arxiv.org/abs/2509.25640v1)** | 2025-09-30 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, Artificial Life Conference 2025, selected for talk</p></details> |
@@ -1461,10 +1467,8 @@ labels: documentation
 | **[An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment](http://arxiv.org/abs/2509.22550v1)** | 2025-09-26 |  |
 | **[An Ontology for Unified Modeling of Tasks, Actions, Environments, and Capabilities in Personal Service Robotics](http://arxiv.org/abs/2509.22434v1)** | 2025-09-26 |  |
 | **[Multi-CAP: A Multi-Robot Connectivity-Aware Hierarchical Coverage Path Planning Algorithm for Unknown Environments](http://arxiv.org/abs/2509.14941v2)** | 2025-09-26 |  |
-| **[Progressive Weight Loading: Accelerating Initial Inference and Gradually Boosting Performance on Resource-Constrained Environments](http://arxiv.org/abs/2509.22319v1)** | 2025-09-26 |  |
 | **[AgentOrchestra: Orchestrating Hierarchical Multi-Agent Intelligence with the Tool-Environment-Agent(TEA) Protocol](http://arxiv.org/abs/2506.12508v4)** | 2025-09-26 |  |
 | **[Neural Orchestration for Multi-Agent Systems: A Deep Learning Framework for Optimal Agent Selection in Multi-Domain Task Environments](http://arxiv.org/abs/2505.02861v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted for Publication at PReMI 2025 - 11th International Conference on Pattern Recognition and Machine Intelligence</p></details> |
-| **[Learning Hierarchical Domain Models Through Environment-Grounded Interaction](http://arxiv.org/abs/2505.13497v2)** | 2025-09-26 |  |
 | **[GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments](http://arxiv.org/abs/2509.21998v1)** | 2025-09-26 | 35 pages, 8 figures |
 | **[Scalable Option Learning in High-Throughput Environments](http://arxiv.org/abs/2509.00338v2)** | 2025-09-26 |  |
 | **[UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments](http://arxiv.org/abs/2509.21733v1)** | 2025-09-26 |  |
@@ -1631,14 +1635,11 @@ labels: documentation
 | **[An Improved Multi-Agent Algorithm for Cooperative and Competitive Environments by Identifying and Encouraging Cooperation among Agents](http://arxiv.org/abs/2508.14131v1)** | 2025-08-19 |  |
 | **[ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments](http://arxiv.org/abs/2508.13488v1)** | 2025-08-19 | 8 pages, 9 figures |
 | **[DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Densely Cluttered Environments](http://arxiv.org/abs/2504.04516v2)** | 2025-08-18 |  |
-| **[HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments](http://arxiv.org/abs/2505.03128v2)** | 2025-08-18 | 8 pages, 6 figures |
-| **[BOW: Bayesian Optimization over Windows for Motion Planning in Complex Environments](http://arxiv.org/abs/2508.13052v1)** | 2025-08-18 |  |
-| **[The Yokai Learning Environment: Tracking Beliefs Over Space and Time](http://arxiv.org/abs/2508.12480v1)** | 2025-08-17 | <details><summary>Prese...</summary><p>Presented at the the ToM IJCAI 2025 Workshop</p></details> |
-| **[Passive Hack-Back Strategies for Cyber Attribution: Covert Vectors in Denied Environment](http://arxiv.org/abs/2508.16637v1)** | 2025-08-17 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Choosing a Model, Shaping a Future: Comparing LLM Perspectives on Sustainability and its Relationship with AI](http://arxiv.org/abs/2505.14435v2)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted for EMNLP Conference</p></details> |
 | **[CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations](http://arxiv.org/abs/2509.26529v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2026</p></details> |
 | **[FITS: Towards an AI-Driven Fashion Information Tool for Sustainability](http://arxiv.org/abs/2509.26017v1)** | 2025-09-30 | <details><summary>accep...</summary><p>accepted at ECAI 2025</p></details> |
 | **[Spatiotemporal Forecasting of Incidents and Congestion with Implications for Sustainable Traffic Control](http://arxiv.org/abs/2509.25515v1)** | 2025-09-29 |  |
@@ -1755,7 +1756,6 @@ labels: documentation
 | **[Open and Sustainable AI: challenges, opportunities and the road ahead in the life sciences](http://arxiv.org/abs/2505.16619v1)** | 2025-05-22 | <details><summary>1 PDF...</summary><p>1 PDF, 24 Pages, 2 figures within. Co-corresponding authors: Institute of Applied Biosciences, Centre for Research and Technology Hellas, Thessaloniki, Greece and Department of Biomedical Sciences, University of Padova, Padova, Italy. E-mails: fpsom@certh.gr, silvio.tosatto@unipd.it</p></details> |
 | **[A Global Commuting Origin-Destination Flow Dataset for Urban Sustainable Development](http://arxiv.org/abs/2505.17111v1)** | 2025-05-21 | 21 pages, 17 figures |
 | **[OceanChat: The Effect of Virtual Conversational AI Agents on Sustainable Attitude and Behavior Change](http://arxiv.org/abs/2502.02863v2)** | 2025-05-21 | <details><summary>21 pa...</summary><p>21 pages, 18 figures, 2 tables</p></details> |
-| **[Choosing a Model, Shaping a Future: Comparing LLM Perspectives on Sustainability and its Relationship with AI](http://arxiv.org/abs/2505.14435v1)** | 2025-05-20 |  |
 | **[HarmonE: A Self-Adaptive Approach to Architecting Sustainable MLOps](http://arxiv.org/abs/2505.13693v1)** | 2025-05-19 | <details><summary>This ...</summary><p>This paper has been accepted to ECSA 2025</p></details> |
 | **[Carbon Footprint Reduction for Sustainable Data Centers in Real-Time](http://arxiv.org/abs/2403.14092v3)** | 2025-05-18 |  |
 | **[Empowering Sustainable Finance with Artificial Intelligence: A Framework for Responsible Implementation](http://arxiv.org/abs/2505.12012v1)** | 2025-05-17 |  |
