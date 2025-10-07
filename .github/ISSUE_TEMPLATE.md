@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - October 07, 2025
+title: Latest 200 Papers - October 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## agriculture
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Agricultural Order Fulfillment Systems: A Hybrid Tree Search Approach](http://arxiv.org/abs/2407.13968v2)** | 2025-10-05 |  |
+| **[AgriGPT-VL: Agricultural Vision-Language Understanding Suite](http://arxiv.org/abs/2510.04002v1)** | 2025-10-05 |  |
 | **[AgriCruiser: An Open Source Agriculture Robot for Over-the-row Navigation](http://arxiv.org/abs/2509.25056v2)** | 2025-09-30 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/structuresComp/agri-cruiser</p></details> |
 | **[Agribot: agriculture-specific question answer system](http://arxiv.org/abs/2509.21535v2)** | 2025-09-29 |  |
 | **[Crop Spirals: Re-thinking the field layout for future robotic agriculture](http://arxiv.org/abs/2509.25091v1)** | 2025-09-29 | <details><summary>Submi...</summary><p>Submitted to Computers and Electronics in Agriculture</p></details> |
@@ -199,18 +201,18 @@ labels: documentation
 | **[Harnessing Large Vision and Language Models in Agriculture: A Review](http://arxiv.org/abs/2407.19679v1)** | 2024-07-29 |  |
 | **[PhenoBench -- A Large Dataset and Benchmarks for Semantic Image Interpretation in the Agricultural Domain](http://arxiv.org/abs/2306.04557v2)** | 2024-07-24 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</p></details> |
 | **[Spatially-clustered spatial autoregressive models with application to agricultural market concentration in Europe](http://arxiv.org/abs/2407.15874v1)** | 2024-07-19 |  |
-| **[Optimizing Agricultural Order Fulfillment Systems: A Hybrid Tree Search Approach](http://arxiv.org/abs/2407.13968v1)** | 2024-07-19 |  |
 | **[Pixel-wise Agricultural Image Time Series Classification: Comparisons and a Deformable Prototype-based Approach](http://arxiv.org/abs/2303.12533v2)** | 2024-07-12 | <details><summary>Revis...</summary><p>Revised version. Added references and baselines. Corrected typos. Added discussion section and Appendix A, B and C</p></details> |
 | **[Agricultural Recommendation System based on Deep Learning: A Multivariate Weather Forecasting Approach](http://arxiv.org/abs/2401.11410v3)** | 2024-07-12 | <details><summary>18 pa...</summary><p>18 pages, 16 figures and 13 tables. Two figures and one table have been added to this version</p></details> |
 | **[Investigating the Segment Anything Foundation Model for Mapping Smallholder Agriculture Field Boundaries Without Training Labels](http://arxiv.org/abs/2407.01846v1)** | 2024-07-01 | <details><summary>11 pa...</summary><p>11 pages, 6 main figures, 7 supplementary figures</p></details> |
 | **[MARLP: Time-series Forecasting Control for Agricultural Managed Aquifer Recharge](http://arxiv.org/abs/2407.01005v1)** | 2024-07-01 | Accepted by KDD 2024 |
 | **[DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots](http://arxiv.org/abs/2303.05764v3)** | 2024-07-01 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 5 tables. Accepted to CASE2024</p></details> |
 | **[Agriculture-Vision Challenge 2024 -- The Runner-Up Solution for Agricultural Pattern Recognition via Class Balancing and Model Ensemble](http://arxiv.org/abs/2406.12271v1)** | 2024-06-18 |  |
-| **[YOLOv1 to YOLOv10: A comprehensive review of YOLO variants and their application in the agricultural domain](http://arxiv.org/abs/2406.10139v1)** | 2024-06-14 | 31 pages |
 
 ## farming
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Loop Design of Virtual Synchronous Machine Control for DFIG-Based Wind Farms](http://arxiv.org/abs/2510.05043v1)** | 2025-10-06 | <details><summary>Submi...</summary><p>Submitted for evaluation to Journal of Modern Power Systems and Clean Energy</p></details> |
+| **[Optimal Energy Management in Indoor Farming Using Lighting Flexibility and Intelligent Model Predictive Control](http://arxiv.org/abs/2510.03686v1)** | 2025-10-04 |  |
 | **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
 | **[Optimal placement of wind farms via quantile constraint learning](http://arxiv.org/abs/2510.01093v1)** | 2025-10-01 |  |
 | **[Side Scan Sonar-based SLAM for Autonomous Algae Farm Monitoring](http://arxiv.org/abs/2509.26121v1)** | 2025-09-30 |  |
@@ -409,12 +411,13 @@ labels: documentation
 | **[Consideration of resilience for digital farming systems](http://arxiv.org/abs/2104.05287v1)** | 2021-04-12 |  |
 | **[Cybersecurity in Smart Farming: Canada Market Research](http://arxiv.org/abs/2104.05183v1)** | 2021-04-12 |  |
 | **[Active Power Control of Waked Wind Farms: Compensation of Turbine Saturation and Thrust Force Balance](http://arxiv.org/abs/2104.03894v1)** | 2021-04-08 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, This work has been accepted to ECC 2021 for publication under a Creative Commons Licence CC-BY-NC-ND</p></details> |
-| **[Assessment of design and analysis frameworks for on-farm experimentation through a simulation study of wheat yield in Japan](http://arxiv.org/abs/2004.12741v2)** | 2021-03-15 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, Accepted by Precision Agriculture</p></details> |
-| **[Remote Observation of Field Work on the Farm](http://arxiv.org/abs/2103.03163v1)** | 2021-03-04 | <details><summary>Prese...</summary><p>Presented at Microsoft Future of Work Symposium, August 3-5, 2020</p></details> |
 
 ## crop
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RowDetr: End-to-End Crop Row Detection Using Polynomials](http://arxiv.org/abs/2412.10525v3)** | 2025-10-06 | <details><summary>Code ...</summary><p>Code will be open sourced upon publication</p></details> |
+| **[VITA: Variational Pretraining of Transformers for Climate-Robust Crop Yield Forecasting](http://arxiv.org/abs/2508.03589v2)** | 2025-10-06 |  |
+| **[Unsupervised Transformer Pre-Training for Images: Self-Distillation, Mean Teachers, and Random Crops](http://arxiv.org/abs/2510.03606v1)** | 2025-10-04 |  |
 | **[Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](http://arxiv.org/abs/2509.17847v2)** | 2025-10-01 | NeurIPS 2025 |
 | **[Crop Spirals: Re-thinking the field layout for future robotic agriculture](http://arxiv.org/abs/2509.25091v1)** | 2025-09-29 | <details><summary>Submi...</summary><p>Submitted to Computers and Electronics in Agriculture</p></details> |
 | **[Benchmarking for Practice: Few-Shot Time-Series Crop-Type Classification on the EuroCropsML Dataset](http://arxiv.org/abs/2504.11022v2)** | 2025-09-25 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, 20 tables</p></details> |
@@ -434,14 +437,190 @@ labels: documentation
 | **[Intrinsic Explainability of Multimodal Learning for Crop Yield Prediction](http://arxiv.org/abs/2508.06939v1)** | 2025-08-09 |  |
 | **[CROP: Integrating Topological and Spatial Structures via Cross-View Prefixes for Molecular LLMs](http://arxiv.org/abs/2508.06917v1)** | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted to ACMMM 2025</p></details> |
 | **[Crop Pest Classification Using Deep Learning Techniques: A Review](http://arxiv.org/abs/2507.01494v3)** | 2025-08-08 | <details><summary>This ...</summary><p>This version adds co-authors who were unintentionally left out of the prior submission. Additionally, Table 1 has been reformatted for clarity, and several typographical errors have been corrected</p></details> |
-| **[VITA: Variational Pretraining of Transformers for Climate-Robust Crop Yield Forecasting](http://arxiv.org/abs/2508.03589v1)** | 2025-08-05 |  |
 | **[Cropping outperforms dropout as an augmentation strategy for training self-supervised text embeddings](http://arxiv.org/abs/2508.03453v1)** | 2025-08-05 |  |
 | **[Three-dimentional reconstruction of complex, dynamic population canopy architecture for crops with a novel point cloud completion model: A case study in Brassica napus rapeseed](http://arxiv.org/abs/2506.18292v2)** | 2025-08-01 |  |
 | **[AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock](http://arxiv.org/abs/2507.22101v1)** | 2025-07-29 |  |
+| **[A Bayesian Ensemble Projection of Climate Change and Technological Impacts on Future Crop Yields](http://arxiv.org/abs/2507.21559v1)** | 2025-07-29 |  |
+| **[CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation](http://arxiv.org/abs/2507.17727v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted for publication at the 12th European Conference on Mobile Robots (ECMR 2025)</p></details> |
+| **[Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery](http://arxiv.org/abs/2504.19996v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)</p></details> |
+| **[Model-Agnostic, Temperature-Informed Sampling Enhances Cross-Year Crop Mapping with Deep Learning](http://arxiv.org/abs/2506.12885v3)** | 2025-07-17 | under review |
+| **[National level satellite-based crop field inventories in smallholder landscapes](http://arxiv.org/abs/2507.10499v1)** | 2025-07-14 |  |
+| **[Automated Multi-Class Crop Pathology Classification via Convolutional Neural Networks: A Deep Learning Approach for Real-Time Precision Agriculture](http://arxiv.org/abs/2507.09375v1)** | 2025-07-12 | <details><summary>29 pa...</summary><p>29 pages, 10 figures, 1 table. Code available at: https://github.com/Sourish85/CNN-CROP-DIS-DETECTOR</p></details> |
+| **[Self-Consistency in Vision-Language Models for Precision Agriculture: Multi-Response Consensus for Crop Disease Management](http://arxiv.org/abs/2507.08024v1)** | 2025-07-08 |  |
+| **[DFYP: A Dynamic Fusion Framework with Spectral Channel Attention and Adaptive Operator learning for Crop Yield Prediction](http://arxiv.org/abs/2507.05849v1)** | 2025-07-08 | 16 pages |
+| **[A Hybrid Machine Learning Framework for Optimizing Crop Selection via Agronomic and Economic Forecasting](http://arxiv.org/abs/2507.08832v1)** | 2025-07-06 |  |
+| **[Detecting Multiple Diseases in Multiple Crops Using Deep Learning](http://arxiv.org/abs/2507.02517v1)** | 2025-07-03 |  |
+| **[Farm-Level, In-Season Crop Identification for India](http://arxiv.org/abs/2507.02972v1)** | 2025-06-30 |  |
+| **[Efficient Multi-Crop Saliency Partitioning for Automatic Image Cropping](http://arxiv.org/abs/2506.22814v1)** | 2025-06-28 |  |
+| **[Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass](http://arxiv.org/abs/2506.22364v1)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted in the Extended Abstract, The 22nd International Conference on Ubiquitous Robots (UR 2025), Texas, USA</p></details> |
+| **[The Impact of Meteorological Factors on Crop Price Volatility in India: Case studies of Soybean and Brinjal](http://arxiv.org/abs/2503.11690v3)** | 2025-06-25 | 19 pages, 11 figures |
+| **[Comparative Analysis of Deep Learning Models for Crop Disease Detection: A Transfer Learning Approach](http://arxiv.org/abs/2506.20323v1)** | 2025-06-25 |  |
+| **[From Rows to Yields: How Foundation Models for Tabular Data Simplify Crop Yield Prediction](http://arxiv.org/abs/2506.19046v1)** | 2025-06-23 |  |
+| **[Attention-Based Ensemble Learning for Crop Classification Using Landsat 8-9 Fusion](http://arxiv.org/abs/2506.18321v1)** | 2025-06-23 | <details><summary>Under...</summary><p>Under review in Earth Systems and Environment</p></details> |
+| **[Deep Spatial Neural Net Models with Functional Predictors: Application in Large-Scale Crop Yield Prediction](http://arxiv.org/abs/2506.13017v1)** | 2025-06-16 |  |
+| **[California Crop Yield Benchmark: Combining Satellite Image, Climate, Evapotranspiration, and Soil Data Layers for County-Level Yield Forecasting of Over 70 Crops](http://arxiv.org/abs/2506.10228v1)** | 2025-06-11 |  |
+| **[Fine-grained Hierarchical Crop Type Classification from Integrated Hyperspectral EnMAP Data and Multispectral Sentinel-2 Time Series: A Large-scale Dataset and Dual-stream Transformer Method](http://arxiv.org/abs/2506.06155v2)** | 2025-06-09 | 27 pages, 12 figures |
+| **[AugmentGest: Can Random Data Cropping Augmentation Boost Gesture Recognition Performance?](http://arxiv.org/abs/2506.07216v1)** | 2025-06-08 |  |
+| **[FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping](http://arxiv.org/abs/2506.07080v1)** | 2025-06-08 |  |
+| **[YOLO-RS: Remote Sensing Enhanced Crop Detection Methods](http://arxiv.org/abs/2504.11165v2)** | 2025-06-06 |  |
+| **[Temporal Vegetation Index-Based Unsupervised Crop Stress Detection via Eigenvector-Guided Contrastive Learning](http://arxiv.org/abs/2506.03394v1)** | 2025-06-03 |  |
+| **[Evaluating crop rotations around the world using satellite imagery and causal machine learning](http://arxiv.org/abs/2506.02384v1)** | 2025-06-03 |  |
+| **[Loss-Guided Model Sharing and Local Learning Correction in Decentralized Federated Learning for Crop Disease Classification](http://arxiv.org/abs/2505.23063v1)** | 2025-05-29 |  |
+| **[ProCrop: Learning Aesthetic Image Cropping from Professional Compositions](http://arxiv.org/abs/2505.22490v1)** | 2025-05-28 | 16 pages, 15 figures |
+| **[AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping](http://arxiv.org/abs/2505.21357v2)** | 2025-05-28 |  |
+| **[Crop recommendation with machine learning: leveraging environmental and economic factors for optimal crop selection](http://arxiv.org/abs/2505.21201v1)** | 2025-05-27 | <details><summary>22 pa...</summary><p>22 pages and 13 figures</p></details> |
+| **[On the Generalizability of Foundation Models for Crop Type Mapping](http://arxiv.org/abs/2409.09451v4)** | 2025-05-20 | <details><summary>Accep...</summary><p>Accepted to IEEE IGARSS 2025. The final version will appear in the Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2025</p></details> |
+| **[CRoP: Context-wise Robust Static Human-Sensing Personalization](http://arxiv.org/abs/2409.17994v5)** | 2025-05-20 | <details><summary>34 pa...</summary><p>34 pages, 6 figues and 15 tables</p></details> |
+| **[Change of some cropping systems in a long-term trial comparing different systems: rationale and implications for statistical analysis](http://arxiv.org/abs/2503.16571v2)** | 2025-05-19 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 15 Tables</p></details> |
+| **[MT-CYP-Net: Multi-Task Network for Pixel-Level Crop Yield Prediction Under Very Few Samples](http://arxiv.org/abs/2505.12069v1)** | 2025-05-17 |  |
+| **[Lightweight Multispectral Crop-Weed Segmentation for Precision Agriculture](http://arxiv.org/abs/2505.07444v1)** | 2025-05-12 | <details><summary>4 pag...</summary><p>4 pages, 5 figures, 1 table</p></details> |
+| **[A novel fusion of Sentinel-1 and Sentinel-2 with climate data for crop phenology estimation using Machine Learning](http://arxiv.org/abs/2409.00020v2)** | 2025-05-12 |  |
+| **[MSFNet-CPD: Multi-Scale Cross-Modal Fusion Network for Crop Pest Detection](http://arxiv.org/abs/2505.02441v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted to IJCNN 2025</p></details> |
+| **[PhytoSynth: Leveraging Multi-modal Generative Models for Crop Disease Data Generation with Novel Benchmarking and Prompt Engineering Approach](http://arxiv.org/abs/2505.01823v1)** | 2025-05-03 |  |
+| **[A Secured Triad of IoT, Machine Learning, and Blockchain for Crop Forecasting in Agriculture](http://arxiv.org/abs/2505.01196v1)** | 2025-05-02 | 12 pages |
+| **[Advancing Wheat Crop Analysis: A Survey of Deep Learning Approaches Using Hyperspectral Imaging](http://arxiv.org/abs/2505.00805v1)** | 2025-05-01 |  |
+| **[Detection and Classification of Diseases in Multi-Crop Leaves using LSTM and CNN Models](http://arxiv.org/abs/2505.00741v1)** | 2025-04-30 |  |
+| **[Comparative Analysis of Weather-Based Indexes and the Actuaries Climate Index$^{TM}$ for Crop Yield Prediction](http://arxiv.org/abs/2504.21143v1)** | 2025-04-29 |  |
+| **[Taming the Randomness: Towards Label-Preserving Cropping in Contrastive Learning](http://arxiv.org/abs/2504.19824v1)** | 2025-04-28 |  |
+| **[EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification](http://arxiv.org/abs/2407.17458v2)** | 2025-04-28 | 12 pages, 8 figures |
+| **[Exploring Self-Attention for Crop-type Classification Explainability](http://arxiv.org/abs/2210.13167v2)** | 2025-04-20 |  |
+| **[Remote Sensing Based Crop Health Classification Using NDVI and Fully Connected Neural Networks](http://arxiv.org/abs/2504.10522v1)** | 2025-04-11 |  |
+| **[Cropper: Vision-Language Model for Image Cropping through In-Context Learning](http://arxiv.org/abs/2408.07790v2)** | 2025-03-31 |  |
+| **[Probabilistic Crop Yields Forecasts With Spatio-Temporal Conditional Copula Using Extreme Weather Covariates](http://arxiv.org/abs/2503.22807v1)** | 2025-03-28 |  |
+| **[iNatAg: Multi-Class Classification Models Enabled by a Large-Scale Benchmark Dataset with 4.7M Images of 2,959 Crop and Weed Species](http://arxiv.org/abs/2503.20068v1)** | 2025-03-25 |  |
+| **[Mitigating Bad Ground Truth in Supervised Machine Learning based Crop Classification: A Multi-Level Framework with Sentinel-2 Images](http://arxiv.org/abs/2503.11807v1)** | 2025-03-14 | <details><summary>Accep...</summary><p>Accepted In IEEE India Geoscience and Remote Sensing Symposium (InGARSS) 2024</p></details> |
+| **[Design and Implementation of FourCropNet: A CNN-Based System for Efficient Multi-Crop Disease Detection and Management](http://arxiv.org/abs/2503.08348v1)** | 2025-03-11 |  |
+| **[Evaluating Path Planning Strategies for Efficient Nitrate Sampling in Crop Rows](http://arxiv.org/abs/2503.07855v1)** | 2025-03-10 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, submitted to AGRICONTROL 2025 (Under Review)</p></details> |
+| **[A Multimodal Benchmark Dataset and Model for Crop Disease Diagnosis](http://arxiv.org/abs/2503.06973v1)** | 2025-03-10 | <details><summary>Accep...</summary><p>Accepted by ECCV 2024 (14 pages, 8 figures)</p></details> |
+| **[WOFOSTGym: A Crop Simulator for Learning Annual and Perennial Crop Management Strategies](http://arxiv.org/abs/2502.19308v2)** | 2025-02-27 |  |
+| **[Comparative Analysis of Multi-Agent Reinforcement Learning Policies for Crop Planning Decision Support](http://arxiv.org/abs/2412.02057v2)** | 2025-02-24 |  |
+| **[WeedsGalore: A Multispectral and Multitemporal UAV-based Dataset for Crop and Weed Segmentation in Agricultural Maize Fields](http://arxiv.org/abs/2502.13103v1)** | 2025-02-18 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 7 tables</p></details> |
+| **[Multi-modal Data Fusion and Deep Ensemble Learning for Accurate Crop Yield Prediction](http://arxiv.org/abs/2502.06062v1)** | 2025-02-09 | <details><summary>28 pa...</summary><p>28 pages, 7 figures and 5 tables</p></details> |
+| **[Precision Agriculture Revolution: Integrating Digital Twins and Advanced Crop Recommendation for Optimal Yield](http://arxiv.org/abs/2502.04054v1)** | 2025-02-06 |  |
+| **[Crop Yield Time-Series Data Prediction Based on Multiple Hybrid Machine Learning Models](http://arxiv.org/abs/2502.10405v1)** | 2025-01-21 |  |
+| **[TextureCrop: Enhancing Synthetic Image Detection through Texture-based Cropping](http://arxiv.org/abs/2407.15500v4)** | 2025-01-16 | 10 pages, 7 images |
+| **[Accurate Crop Yield Estimation of Blueberries using Deep Learning and Smart Drones](http://arxiv.org/abs/2501.02344v1)** | 2025-01-04 | 30 pages |
+| **[Exploring Physics-Informed Neural Networks for Crop Yield Loss Forecasting](http://arxiv.org/abs/2501.00502v1)** | 2024-12-31 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning</p></details> |
+| **[A region-wide, multi-year set of crop field boundary labels for Africa](http://arxiv.org/abs/2412.18483v1)** | 2024-12-24 | 22 pages, 8 figures |
+| **[AgroXAI: Explainable AI-Driven Crop Recommendation System for Agriculture 4.0](http://arxiv.org/abs/2412.16196v1)** | 2024-12-16 | <details><summary>Accep...</summary><p>Accepted in 2024 IEEE International Conference on Big Data (IEEE BigData), 10 pages, 9 Figures, 5 Tables</p></details> |
+| **[BonnBot-I: A Precise Weed Management and Crop Monitoring Platform](http://arxiv.org/abs/2307.12588v2)** | 2024-12-03 | <details><summary>2022 ...</summary><p>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
+| **[Enhancing Crop Segmentation in Satellite Image Time Series with Transformer Networks](http://arxiv.org/abs/2412.01944v1)** | 2024-12-02 |  |
+| **[CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers](http://arxiv.org/abs/2411.16989v1)** | 2024-11-25 |  |
+| **[Machine Learning Approaches on Crop Pattern Recognition a Comparative Analysis](http://arxiv.org/abs/2411.12667v1)** | 2024-11-19 | <details><summary>Publi...</summary><p>Published in ICNTET2018: International Conference on New Trends in Engineering & Technology Tirupathi Highway, Tiruvallur Dist Chennai, India, September 7-8, 2018</p></details> |
+| **[An Integrated (Crop Model, Cloud and Big Data Analytic) Framework to support Agriculture Activity Monitoring System](http://arxiv.org/abs/2411.12303v1)** | 2024-11-19 |  |
+| **[CropCraft: Inverse Procedural Modeling for 3D Reconstruction of Crop Plants](http://arxiv.org/abs/2411.09693v1)** | 2024-11-14 | Preprint |
+| **[Global Crop-Specific Fertilization Dataset from 1961-2019](http://arxiv.org/abs/2406.10001v2)** | 2024-11-11 | <details><summary>47 pa...</summary><p>47 pages, 7 figures, 8 tables</p></details> |
+| **[CROPS: A Deployable Crop Management System Over All Possible State Availabilities](http://arxiv.org/abs/2411.06034v1)** | 2024-11-09 |  |
+| **[A Comparative Study of Deep Reinforcement Learning for Crop Production Management](http://arxiv.org/abs/2411.04106v1)** | 2024-11-06 | 10 pages |
+| **[EcoCropsAID: Economic Crops Aerial Image Dataset for Land Use Classification](http://arxiv.org/abs/2411.02762v1)** | 2024-11-05 | 12 pages, 7 figures |
+| **[Towards more efficient agricultural practices via transformer-based crop type classification](http://arxiv.org/abs/2411.02627v1)** | 2024-11-04 |  |
+| **[NeFF-BioNet: Crop Biomass Prediction from Point Cloud to Drone Imagery](http://arxiv.org/abs/2410.23901v1)** | 2024-10-30 |  |
+| **[Satellite monitoring uncovers progress but large disparities in doubling crop yields](http://arxiv.org/abs/2411.03322v1)** | 2024-10-21 | <details><summary>5 pag...</summary><p>5 pages, 3 figures/tables in main body; 20 pages, 13 figures/tables total including supplementary material and references; pre-print for submission undergoing review</p></details> |
+| **[Beyond Labels: A Self-Supervised Framework with Masked Autoencoders and Random Cropping for Breast Cancer Subtype Classification](http://arxiv.org/abs/2410.12006v1)** | 2024-10-15 |  |
+| **[CSGDN: Contrastive Signed Graph Diffusion Network for Predicting Crop Gene-phenotype Associations](http://arxiv.org/abs/2410.07511v2)** | 2024-10-14 | Under review |
+| **[Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm](http://arxiv.org/abs/2410.09680v1)** | 2024-10-13 | 13 pages |
+| **[Cost-Effective Cyber-Physical System Prototype for Precision Agriculture with a Focus on Crop Growth](http://arxiv.org/abs/2410.06471v1)** | 2024-10-09 | <details><summary>To ap...</summary><p>To appear in Proceedings of the 35th IEEE International Workshop on Rapid System Prototyping (RSP 2024)</p></details> |
+| **[RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection](http://arxiv.org/abs/2410.04983v2)** | 2024-10-08 | <details><summary>Compu...</summary><p>Computer Vision for Plant Phenotyping and Agriculture (CVPPA) workshop at ECCV 2024</p></details> |
+| **[On the Convergence of CROP-Anderson Acceleration Method](http://arxiv.org/abs/2410.03970v1)** | 2024-10-04 | <details><summary>26 pa...</summary><p>26 pages, 5 pages of Supplementary Materials</p></details> |
+| **[SITSMamba for Crop Classification based on Satellite Image Time Series](http://arxiv.org/abs/2409.09673v2)** | 2024-09-29 |  |
+| **[Design, Integration, and Field Evaluation of a Robotic Blossom Thinning System for Tree Fruit Crops](http://arxiv.org/abs/2304.04919v2)** | 2024-09-25 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Field Robotics</p></details> |
+| **[Mitigating Perspective Distortion-induced Shape Ambiguity in Image Crops](http://arxiv.org/abs/2312.06594v2)** | 2024-09-23 | <details><summary>ECCV ...</summary><p>ECCV 2024, Project Page: https://ap229997.github.io/projects/ambiguity/</p></details> |
+| **[Towards Over-Canopy Autonomous Navigation: Crop-Agnostic LiDAR-Based Crop-Row Detection in Arable Fields](http://arxiv.org/abs/2403.17774v3)** | 2024-09-18 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, submitted to ICRA 2025 (Under Review)</p></details> |
+| **[MMCBE: Multi-modality Dataset for Crop Biomass Prediction and Beyond](http://arxiv.org/abs/2404.11256v3)** | 2024-09-13 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, 3 tables</p></details> |
+| **[In the Search for Optimal Multi-view Learning Models for Crop Classification with Global Remote Sensing Data](http://arxiv.org/abs/2403.16582v2)** | 2024-09-04 | submitted to journal |
+| **[KonvLiNA: Integrating Kolmogorov-Arnold Network with Linear Nyström Attention for feature fusion in Crop Field Detection](http://arxiv.org/abs/2408.13160v1)** | 2024-08-23 |  |
+| **[Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification](http://arxiv.org/abs/2408.12426v1)** | 2024-08-22 |  |
+| **[KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation](http://arxiv.org/abs/2408.07040v1)** | 2024-08-13 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 CVPPA Workshop</p></details> |
+| **[Federated Learning Architectures: A Performance Evaluation with Crop Yield Prediction Application](http://arxiv.org/abs/2408.02998v1)** | 2024-08-06 |  |
+| **[Shape and Style GAN-based Multispectral Data Augmentation for Crop/Weed Segmentation in Precision Farming](http://arxiv.org/abs/2407.14119v1)** | 2024-07-19 |  |
+| **[Efficient Image Pre-Training with Siamese Cropped Masked Autoencoders](http://arxiv.org/abs/2403.17823v2)** | 2024-07-18 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 5 tables, 3 pages of supplementary material. Paper accepted at ECCV 2024</p></details> |
+| **[XAI-Guided Enhancement of Vegetation Indices for Crop Mapping](http://arxiv.org/abs/2407.08298v1)** | 2024-07-11 | <details><summary>Accep...</summary><p>Accepted at IEEE International Geoscience and Remote Sensing Symposium 2024</p></details> |
+| **[Explainability of Sub-Field Level Crop Yield Prediction using Remote Sensing](http://arxiv.org/abs/2407.08274v1)** | 2024-07-11 |  |
+| **[Low-Resource Crop Classification from Multi-Spectral Time Series Using Lossless Compressors](http://arxiv.org/abs/2405.18119v2)** | 2024-07-05 | 8 pages, 10 figures |
+| **[Pseudo-Labeling by Multi-Policy Viewfinder Network for Image Cropping](http://arxiv.org/abs/2407.01971v2)** | 2024-07-04 | 18 pages, 8figures |
+| **[Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series](http://arxiv.org/abs/2406.16513v1)** | 2024-06-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Accepted at IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2024. Our code is available at https://git.tu-berlin.de/rsim/mmtsvit</p></details> |
+| **[An Embarrassingly Simple Approach to Enhance Transformer Performance in Genomic Selection for Crop Breeding](http://arxiv.org/abs/2405.09585v3)** | 2024-06-24 | <details><summary>Accep...</summary><p>Accepted by IJCAI2024. Code is available at https://github.com/RenqiChen/Genomic-Selection</p></details> |
+| **[An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions](http://arxiv.org/abs/2406.06081v2)** | 2024-06-17 | 13 pages |
+| **[Improved Crop and Weed Detection with Diverse Data Ensemble Learning](http://arxiv.org/abs/2310.01055v3)** | 2024-06-14 | <details><summary>Accep...</summary><p>Accepted in CVPR Workshop as an Oral</p></details> |
+| **[The Impact of Stocks on Correlations between Crop Yields and Prices and on Revenue Insurance Premiums using Semiparametric Quantile Regression](http://arxiv.org/abs/2308.11805v2)** | 2024-06-05 |  |
+| **[An Agent-Based Model of Elephant Crop Raid Dynamics in the Periyar-Agasthyamalai Complex, India](http://arxiv.org/abs/2404.09024v2)** | 2024-06-04 |  |
+| **[Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War](http://arxiv.org/abs/2312.10819v2)** | 2024-06-02 |  |
+| **[Dual-band feature selection for maturity classification of specialty crops by hyperspectral imaging](http://arxiv.org/abs/2405.09955v2)** | 2024-05-17 | <details><summary>Prepr...</summary><p>Preprint: Paper submitted to the special issue of "Computers and Electronics in Agriculture"</p></details> |
+| **[SMARD: A Cost Effective Smart Agro Development Technology for Crops Disease Classification](http://arxiv.org/abs/2405.10543v1)** | 2024-05-17 |  |
+| **[SSyncOA: Self-synchronizing Object-aligned Watermarking to Resist Cropping-paste Attacks](http://arxiv.org/abs/2405.03458v1)** | 2024-05-06 | <details><summary>7 pag...</summary><p>7 pages, 5 figures (Have been accepted by ICME 2024)</p></details> |
+| **[Earth Observation based multi-scale analysis of crop diversity in the European Union: first insights for agro-environmental policies](http://arxiv.org/abs/2311.04551v2)** | 2024-04-30 |  |
+| **[CUE-Net: Violence Detection Video Analytics with Spatial Cropping, Enhanced UniformerV2 and Modified Efficient Additive Attention](http://arxiv.org/abs/2404.18952v1)** | 2024-04-27 | <details><summary>To be...</summary><p>To be published in the proceedings of 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</p></details> |
+| **[Naïve Bayes and Random Forest for Crop Yield Prediction](http://arxiv.org/abs/2404.15392v1)** | 2024-04-23 |  |
+| **[Cross Domain Early Crop Mapping using CropSTGAN](http://arxiv.org/abs/2401.07398v2)** | 2024-04-18 |  |
+| **[Domain Generalization for Crop Segmentation with Standardized Ensemble Knowledge Distillation](http://arxiv.org/abs/2304.01029v3)** | 2024-04-14 |  |
+| **[Learning Subject-Aware Cropping by Outpainting Professional Photos](http://arxiv.org/abs/2312.12080v2)** | 2024-04-04 | <details><summary>AAAI ...</summary><p>AAAI 24. Extended version with supplemental materials</p></details> |
+| **[Active learning for efficient annotation in precision agriculture: a use-case on crop-weed semantic segmentation](http://arxiv.org/abs/2404.02580v1)** | 2024-04-03 |  |
+| **[Generative weather for improved crop model simulations](http://arxiv.org/abs/2404.00528v1)** | 2024-03-31 |  |
+| **[Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels](http://arxiv.org/abs/2404.00179v1)** | 2024-03-29 | <details><summary>Accep...</summary><p>Accepted for 2023 AAAI Workshop on AI to Accelerate Science and Engineering</p></details> |
+| **[The New Agronomists: Language Models are Experts in Crop Management](http://arxiv.org/abs/2403.19839v1)** | 2024-03-28 |  |
+| **[A Machine Learning Approach for Crop Yield and Disease Prediction Integrating Soil Nutrition and Weather Factors](http://arxiv.org/abs/2403.19273v1)** | 2024-03-28 | <details><summary>This ...</summary><p>This paper was presented to the IEEE conference, "2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS), 8-9 March, Dhaka, Bangladesh"</p></details> |
+| **[On the exploitation of DCT statistics for cropping detectors](http://arxiv.org/abs/2403.14789v1)** | 2024-03-21 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, conference</p></details> |
+| **[Innovations in Agricultural Forecasting: A Multivariate Regression Study on Global Crop Yield Prediction](http://arxiv.org/abs/2312.02254v2)** | 2024-03-14 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 1 table, Guided by Dr. Aditya Undurti</p></details> |
+| **[Physics-Guided Inverse Regression for Crop Quality Assessment](http://arxiv.org/abs/2403.08653v1)** | 2024-03-13 |  |
+| **[NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging](http://arxiv.org/abs/2403.03485v1)** | 2024-03-06 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024</p></details> |
+| **[An EnKF-LSTM Assimilation Algorithm for Crop Growth Model](http://arxiv.org/abs/2403.03406v1)** | 2024-03-06 |  |
+| **[Crop and Couple: cardiac image segmentation using interlinked specialist networks](http://arxiv.org/abs/2402.09156v1)** | 2024-02-14 |  |
+| **[Context-self contrastive pretraining for crop type semantic segmentation](http://arxiv.org/abs/2104.04310v3)** | 2024-02-05 | 15 pages, 17 figures |
+| **[Enhancing crop classification accuracy by synthetic SAR-Optical data generation using deep learning](http://arxiv.org/abs/2402.02121v1)** | 2024-02-03 |  |
+| **[Combining Deep Learning and Street View Imagery to Map Smallholder Crop Types](http://arxiv.org/abs/2309.05930v2)** | 2024-01-31 | <details><summary>Accep...</summary><p>Accepted to AAAI-24: Special Track on AI for Social Impact</p></details> |
+| **[Combining Satellite and Weather Data for Crop Type Mapping: An Inverse Modelling Approach](http://arxiv.org/abs/2401.15875v1)** | 2024-01-29 | <details><summary>10 pa...</summary><p>10 pages, SIAM International Conference on Data Mining (SDM24)</p></details> |
+| **[Image based Crop Monitoring Technologies in Protected Horticulture: A Review](http://arxiv.org/abs/2401.13928v1)** | 2024-01-25 |  |
+| **[Adaptive Fusion of Multi-view Remote Sensing data for Optimal Sub-field Crop Yield Prediction](http://arxiv.org/abs/2401.11844v1)** | 2024-01-22 |  |
+| **[Spatial-Semantic Collaborative Cropping for User Generated Content](http://arxiv.org/abs/2401.08086v1)** | 2024-01-16 |  |
+| **[AGSPNet: A framework for parcel-scale crop fine-grained semantic change detection from UAV high-resolution imagery with agricultural geographic scene constraints](http://arxiv.org/abs/2401.06252v1)** | 2024-01-11 |  |
+| **[Data-driven Crop Growth Simulation on Time-varying Generated Images using Multi-conditional Generative Adversarial Networks](http://arxiv.org/abs/2312.03443v1)** | 2023-12-06 | <details><summary>26 pa...</summary><p>26 pages, 16 figures, code available at https://github.com/luked12/crop-growth-cgan</p></details> |
+| **[CROP: Towards Distributional-Shift Robust Reinforcement Learning using Compact Reshaped Observation Processing](http://arxiv.org/abs/2304.13616v2)** | 2023-12-05 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, published at IJCAI 2023</p></details> |
+| **[Can SAM recognize crops? Quantifying the zero-shot performance of a semantic segmentation foundation model on generating crop-type maps using satellite imagery for precision agriculture](http://arxiv.org/abs/2311.15138v2)** | 2023-12-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2023 AI for Science Workshop</p></details> |
+| **[SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters](http://arxiv.org/abs/2312.00069v1)** | 2023-11-29 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at WACV 2024</p></details> |
+| **[Precision Agriculture: Crop Mapping using Machine Learning and Sentinel-2 Satellite Imagery](http://arxiv.org/abs/2403.09651v1)** | 2023-11-25 |  |
+| **[AI for Agriculture: the Comparison of Semantic Segmentation Methods for Crop Mapping with Sentinel-2 Imagery](http://arxiv.org/abs/2311.12993v1)** | 2023-11-21 |  |
+| **[Boosting Crop Classification by Hierarchically Fusing Satellite, Rotational, and Contextual Data](http://arxiv.org/abs/2305.12011v3)** | 2023-11-07 | <details><summary>submi...</summary><p>submitted to Remote Sensing of Environment, special issue Deep Learning for Time Series. Version 2</p></details> |
+| **[Towards Autonomous Crop Monitoring: Inserting Sensors in Cluttered Environments](http://arxiv.org/abs/2311.03697v1)** | 2023-11-07 |  |
+| **[Crop Disease Classification using Support Vector Machines with Green Chromatic Coordinate (GCC) and Attention based feature extraction for IoT based Smart Agricultural Applications](http://arxiv.org/abs/2311.00429v2)** | 2023-11-06 |  |
+| **[CROP: Conservative Reward for Model-based Offline Policy Optimization](http://arxiv.org/abs/2310.17245v1)** | 2023-10-26 |  |
+| **[Image Cropping under Design Constraints](http://arxiv.org/abs/2310.08892v1)** | 2023-10-13 | ACMMM Asia accepted |
+| **[Hierarchical Mask2Former: Panoptic Segmentation of Crops, Weeds and Leaves](http://arxiv.org/abs/2310.06582v1)** | 2023-10-10 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables, for code, see https://github.com/madeleinedarbyshire/HierarchicalMask2Former</p></details> |
+| **[XAI for Early Crop Classification](http://arxiv.org/abs/2310.06574v1)** | 2023-10-10 |  |
+| **[Harnessing Administrative Data Inventories to Create a Reliable Transnational Reference Database for Crop Type Monitoring](http://arxiv.org/abs/2310.06393v1)** | 2023-10-10 |  |
+| **[Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms](http://arxiv.org/abs/2309.15332v2)** | 2023-09-29 | <details><summary>Accep...</summary><p>Accepted to the 18th International Symposium on Visual Computing (ISVC 2023)</p></details> |
+| **[A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition](http://arxiv.org/abs/2309.13578v1)** | 2023-09-24 | <details><summary>Techn...</summary><p>Technical report of NYCU-WEED team for the challenge of hierarchical panoptic segmentation of crops and weeds using the PhenoBench dataset at the 8th Workshop on Computer Vision in Plant Phenotyping and Agriculture (CVPPA) - International Conference on Computer Vision (ICCV) 2023</p></details> |
+| **[Using Saliency and Cropping to Improve Video Memorability](http://arxiv.org/abs/2309.11881v1)** | 2023-09-21 | 12 pages |
+| **[MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer](http://arxiv.org/abs/2309.09067v2)** | 2023-09-19 |  |
+| **[A Deep Learning Driven Algorithmic Pipeline for Autonomous Navigation in Row-Based Crops](http://arxiv.org/abs/2112.03816v2)** | 2023-09-14 | <details><summary>Submi...</summary><p>Submitted to Robotics and Autonomous Systems (Elsevier)</p></details> |
+| **[Optimal Control for Indoor Vertical Farms Based on Crop Growth](http://arxiv.org/abs/2309.07540v1)** | 2023-09-14 | <details><summary>This ...</summary><p>This work has been accepted for presentation at IFAC World Congress 2023</p></details> |
+| **[Zero-Shot Visual Classification with Guided Cropping](http://arxiv.org/abs/2309.06581v1)** | 2023-09-12 |  |
+| **[Learning Vehicle Dynamics from Cropped Image Patches for Robot Navigation in Unpaved Outdoor Terrains](http://arxiv.org/abs/2309.02745v1)** | 2023-09-06 | 8 pages, 10 figures |
+| **[Vision-Based Cranberry Crop Ripening Assessment](http://arxiv.org/abs/2309.00028v1)** | 2023-08-31 |  |
+| **[Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification](http://arxiv.org/abs/2308.15094v1)** | 2023-08-29 |  |
+| **[Cumulative Link Mixed-Effects Models in the Service of Remote Sensing Crop Progress Monitoring](http://arxiv.org/abs/2308.14520v1)** | 2023-08-28 |  |
+| **[Predicting Crop Yield With Machine Learning: An Extensive Analysis Of Input Modalities And Models On a Field and sub-field Level](http://arxiv.org/abs/2308.08948v1)** | 2023-08-17 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 3 tables, IEEE IGARSS 2023</p></details> |
+| **[Deep learning-based Crop Row Detection for Infield Navigation of Agri-Robots](http://arxiv.org/abs/2209.04278v2)** | 2023-08-10 | <details><summary>Publi...</summary><p>Published in Journal of Field Robotics: https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.22238</p></details> |
+| **[A Comparative Assessment of Multi-view fusion learning for Crop Classification](http://arxiv.org/abs/2308.05407v1)** | 2023-08-10 | <details><summary>Accep...</summary><p>Accepted at IEEE International Geoscience and Remote Sensing Symposium 2023</p></details> |
+| **[Density Crop-guided Semi-supervised Object Detection in Aerial Images](http://arxiv.org/abs/2308.05032v1)** | 2023-08-09 | 12 pages, 8 figures |
+| **[Productive Crop Field Detection: A New Dataset and Deep Learning Benchmark Results](http://arxiv.org/abs/2305.11990v2)** | 2023-07-25 | <details><summary>Prepr...</summary><p>Preprint of the paper https://doi.org/10.1109/lgrs.2023.3296064 published in IEEE Geoscience and Remote Sensing Letters</p></details> |
+| **[Integrating processed-based models and machine learning for crop yield prediction](http://arxiv.org/abs/2307.13466v1)** | 2023-07-25 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Accepted after peer-review at the 1st workshop on Synergy of Scientific and Machine Learning Modeling, SynS & ML ICML, Honolulu, Hawaii, USA. July, 2023</p></details> |
+| **[StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces](http://arxiv.org/abs/2303.06146v2)** | 2023-07-21 | <details><summary>ICCV ...</summary><p>ICCV 2023. Code: https://github.com/williamyang1991/StyleGANEX Project page: https://www.mmlab-ntu.com/project/styleganex/</p></details> |
+| **[Understanding the impacts of crop diversification in the context of climate change: a machine learning approach](http://arxiv.org/abs/2307.08617v1)** | 2023-07-17 | <details><summary>Accep...</summary><p>Accepted for oral presentation at ISPRS Geospatial Week 2023</p></details> |
+| **[Improving Data Efficiency for Plant Cover Prediction with Label Interpolation and Monte-Carlo Cropping](http://arxiv.org/abs/2307.08559v1)** | 2023-07-17 | <details><summary>Accep...</summary><p>Accepted for publication at DAGM-GCPR 2023</p></details> |
+| **[SepHRNet: Generating High-Resolution Crop Maps from Remote Sensing imagery using HRNet with Separable Convolution](http://arxiv.org/abs/2307.05700v1)** | 2023-07-11 |  |
+| **[Multi-cropping Contrastive Learning and Domain Consistency for Unsupervised Image-to-Image Translation](http://arxiv.org/abs/2304.12235v3)** | 2023-07-05 |  |
+| **[Localized Data Work as a Precondition for Data-Centric ML: A Case Study of Full Lifecycle Crop Disease Identification in Ghana](http://arxiv.org/abs/2307.01767v1)** | 2023-07-04 |  |
+| **[Enhancing Navigation Benchmarking and Perception Data Generation for Row-based Crops in Simulation](http://arxiv.org/abs/2306.15517v1)** | 2023-06-27 | <details><summary>Accep...</summary><p>Accepted at the 14th European Conference on Precision Agriculture (ECPA) 2023</p></details> |
+| **[Winter Wheat Crop Yield Prediction on Multiple Heterogeneous Datasets using Machine Learning](http://arxiv.org/abs/2306.11946v1)** | 2023-06-20 |  |
+| **[A Comprehensive Modeling Approach for Crop Yield Forecasts using AI-based Methods and Crop Simulation Models](http://arxiv.org/abs/2306.10121v1)** | 2023-06-16 |  |
+| **[A comprehensive review of 3D convolutional neural network-based classification techniques of diseased and defective crops using non-UAV-based hyperspectral images](http://arxiv.org/abs/2306.09418v1)** | 2023-06-15 |  |
+| **[Local object crop collision network for efficient simulation of non-convex objects in GPU-based simulators](http://arxiv.org/abs/2304.09439v2)** | 2023-06-10 | <details><summary>RSS 2...</summary><p>RSS 2023 https://sites.google.com/view/locc-rss2023/home</p></details> |
 
 ## weather
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Zephyrus: An Agentic Framework for Weather Science](http://arxiv.org/abs/2510.04017v1)** | 2025-10-05 |  |
+| **[Incorporating Multivariate Consistency in ML-Based Weather Forecasting with Latent-space Constraints](http://arxiv.org/abs/2510.04006v1)** | 2025-10-05 |  |
 | **[FlowCast-ODE: Continuous Hourly Weather Forecasting with Dynamic Flow Matching and ODE Solver](http://arxiv.org/abs/2509.14775v2)** | 2025-09-30 |  |
 | **[Swift: An Autoregressive Consistency Model for Efficient Weather Forecasting](http://arxiv.org/abs/2509.25631v1)** | 2025-09-30 | <details><summary>17 pa...</summary><p>17 pages and 15 figures</p></details> |
 | **[MAUSAM: An Observations-focused assessment of Global AI Weather Prediction Models During the South Asian Monsoon](http://arxiv.org/abs/2509.01879v2)** | 2025-09-28 |  |
@@ -640,14 +819,15 @@ labels: documentation
 | **[Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions](http://arxiv.org/abs/2501.07133v1)** | 2025-01-13 | 14 pages |
 | **[Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling](http://arxiv.org/abs/2405.13796v5)** | 2025-01-13 |  |
 | **[Deep Learning and Foundation Models for Weather Prediction: A Survey](http://arxiv.org/abs/2501.06907v1)** | 2025-01-12 |  |
-| **[Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions](http://arxiv.org/abs/2409.14737v3)** | 2025-01-09 | 16 Pages |
-| **[Convex Optimization of Initial Perturbations toward Quantitative Weather Control](http://arxiv.org/abs/2405.19546v4)** | 2025-01-09 | <details><summary>short...</summary><p>shortend to improve conciseness; some figures added to Supplements for discussion about physical processes; license changed to CC BY 4.0; revised to improve readability; some figures in Appendix omitted to improve conciseness</p></details> |
 
 ## climate
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ecosystem Recovery to Historical Targets Becomes Unattainable Under Modelled Fishing and Climate in the Barents Sea](http://arxiv.org/abs/2510.04806v1)** | 2025-10-06 | 7 Figures |
+| **[VITA: Variational Pretraining of Transformers for Climate-Robust Crop Yield Forecasting](http://arxiv.org/abs/2508.03589v2)** | 2025-10-06 |  |
 | **[The land use-climate change-biodiversity nexus in European islands stakeholders](http://arxiv.org/abs/2510.02829v1)** | 2025-10-03 | <details><summary>In pr...</summary><p>In press at the Environmental Impact Assessment Review journal. Pre-proof author's version</p></details> |
 | **[Functional Regression with Nonstationarity and Error Contamination: Application to the Economic Impact of Climate Change](http://arxiv.org/abs/2509.08591v3)** | 2025-10-01 |  |
+| **[Machine Learning Workflows in Climate Modeling: Design Patterns and Insights from Case Studies](http://arxiv.org/abs/2510.03305v1)** | 2025-09-30 | Supplement |
 | **[PACER: Physics Informed Uncertainty Aware Climate Emulator](http://arxiv.org/abs/2410.21657v3)** | 2025-09-29 |  |
 | **[Forecasting the Future with Yesterday's Climate: Temperature Bias in AI Weather and Climate Models](http://arxiv.org/abs/2509.22359v1)** | 2025-09-26 | 13 pages, 5 figures |
 | **[AutoClimDS: Climate Data Science Agentic AI -- A Knowledge Graph is All You Need](http://arxiv.org/abs/2509.21553v1)** | 2025-09-25 |  |
@@ -692,7 +872,6 @@ labels: documentation
 | **[Towards Designing Social Interventions For Online Climate Change Denialism Discussions](http://arxiv.org/abs/2507.06561v2)** | 2025-08-11 |  |
 | **[Taking the Garbage Out of Data-Driven Prediction Across Climate Timescales](http://arxiv.org/abs/2508.07062v1)** | 2025-08-09 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 3 tables</p></details> |
 | **[ClimateSOM: A Visual Analysis Workflow for Climate Ensemble Datasets](http://arxiv.org/abs/2508.06732v1)** | 2025-08-08 |  |
-| **[VITA: Variational Pretraining of Transformers for Climate-Robust Crop Yield Forecasting](http://arxiv.org/abs/2508.03589v1)** | 2025-08-05 |  |
 | **[The Complexity of Extreme Climate Events on the New Zealand's Kiwifruit Industry](http://arxiv.org/abs/2508.02130v1)** | 2025-08-04 | <details><summary>Pre-p...</summary><p>Pre-print v0.8 2025-08-04</p></details> |
 | **[Reconstructing Historical Climate Fields With Deep Learning](http://arxiv.org/abs/2311.18348v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted version + SI</p></details> |
 | **[Green building blocks reveal the complex anatomy of climate change mitigation technologies](http://arxiv.org/abs/2504.06834v2)** | 2025-07-29 |  |
@@ -844,8 +1023,6 @@ labels: documentation
 | **[WxC-Bench: A Novel Dataset for Weather and Climate Downstream Tasks](http://arxiv.org/abs/2412.02780v1)** | 2024-12-03 |  |
 | **[Exploring Climate Change Discourse: Measurements and Analysis of Reddit Data](http://arxiv.org/abs/2412.01111v1)** | 2024-12-02 |  |
 | **[Climate Adaptation with Reinforcement Learning: Experiments with Flooding and Transportation in Copenhagen](http://arxiv.org/abs/2409.18574v2)** | 2024-11-29 | <details><summary>Accep...</summary><p>Accepted for presentation at Tackling Climate Change with Machine Learning workshop at NeurIPS 2024</p></details> |
-| **[The belief in Moore's Law is undermining ICT climate action](http://arxiv.org/abs/2411.17391v2)** | 2024-11-27 | <details><summary>This ...</summary><p>This position paper and extended abstract is accepted for presentation at LOCO '24: 1st International Workshop on Low Carbon Computing, 2024-12-03, in Glasgow, UK</p></details> |
-| **[Resolution-Agnostic Transformer-based Climate Downscaling](http://arxiv.org/abs/2411.14774v2)** | 2024-11-27 |  |
 
 ## soil
 | **Title** | **Date** | **Comment** |
@@ -1054,10 +1231,15 @@ labels: documentation
 ## plant
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detailed Aerial Mapping of Photovoltaic Power Plants Through Semantically Significant Keypoints](http://arxiv.org/abs/2510.04840v1)** | 2025-10-06 | 10 pages, 18 figures |
+| **[Power Reserve Capacity from Virtual Power Plants with Reliability and Cost Guarantees](http://arxiv.org/abs/2510.04815v1)** | 2025-10-06 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Power Systems</p></details> |
+| **[Spec2Control: Automating PLC/DCS Control-Logic Engineering from Natural Language Requirements with LLMs - A Multi-Plant Evaluation](http://arxiv.org/abs/2510.04519v1)** | 2025-10-06 | 12 pages, 9 figures |
+| **[Don't Pay Attention, PLANT It: Pretraining Attention via Learning-to-Rank](http://arxiv.org/abs/2410.23066v2)** | 2025-10-05 |  |
 | **[Find the Fruit: Zero-Shot Sim2Real RL for Occlusion-Aware Plant Manipulation](http://arxiv.org/abs/2505.16547v2)** | 2025-09-30 | <details><summary>9 Pag...</summary><p>9 Pages, 3 Figures, 1 Table</p></details> |
 | **[Embedded Deep Learning for Bio-hybrid Plant Sensors to Detect Increased Heat and Ozone Levels](http://arxiv.org/abs/2509.24992v1)** | 2025-09-29 | <details><summary>Submi...</summary><p>Submitted to IEEE Sensors 2025</p></details> |
 | **[LifeCLEF Plant Identification Task 2014](http://arxiv.org/abs/2509.23900v1)** | 2025-09-28 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, CLEF 2014 Conference and Labs of the Evaluation Forum, September 15 to 18, 2014, Sheffield, United Kingdom</p></details> |
 | **[LifeCLEF Plant Identification Task 2015](http://arxiv.org/abs/2509.23891v1)** | 2025-09-28 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, CLEF 2015 Conference and Labs of the Evaluation Forum, September 08 to 11, 2015, Toulouse, France</p></details> |
+| **[Variational Autoencoders-based Detection of Extremes in Plant Productivity in an Earth System Model](http://arxiv.org/abs/2510.03266v1)** | 2025-09-26 |  |
 | **[From Noise to Knowledge: A Comparative Study of Acoustic Anomaly Detection Models in Pumped-storage Hydropower Plants](http://arxiv.org/abs/2509.22881v1)** | 2025-09-26 |  |
 | **[OmniPlantSeg: Species Agnostic 3D Point Cloud Organ Segmentation for High-Resolution Plant Phenotyping Across Modalities](http://arxiv.org/abs/2509.21038v1)** | 2025-09-25 |  |
 | **[Plant identification in an open-world (LifeCLEF 2016)](http://arxiv.org/abs/2509.20870v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, CLEF 2016 Conference and Labs of the Evaluation Forum, September 05 to 08, 2016, Evora, Portugal</p></details> |
@@ -1223,7 +1405,6 @@ labels: documentation
 | **[Planting Undetectable Backdoors in Machine Learning Models](http://arxiv.org/abs/2204.06974v2)** | 2024-11-09 |  |
 | **[Bootstrap Pettitt test for detecting change point in hydroclimatological data: a case study for Itaipu hydroelectric plant in Brazil](http://arxiv.org/abs/2411.05233v1)** | 2024-11-07 | 25 pages, 13 figures |
 | **[SSL-NBV: A Self-Supervised-Learning-Based Next-Best-View algorithm for Efficient 3D Plant Reconstruction by a Robot](http://arxiv.org/abs/2410.14790v2)** | 2024-10-31 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 1 table</p></details> |
-| **[Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification](http://arxiv.org/abs/2410.23066v1)** | 2024-10-30 |  |
 | **[Predicting potato plant vigor from the seed tuber properties](http://arxiv.org/abs/2410.19875v1)** | 2024-10-24 |  |
 | **[PlantCamo: Plant Camouflage Detection](http://arxiv.org/abs/2410.17598v1)** | 2024-10-23 |  |
 | **[Grid-Forming Control of Modular Dynamic Virtual Power Plants](http://arxiv.org/abs/2410.14912v1)** | 2024-10-18 |  |
@@ -1250,14 +1431,22 @@ labels: documentation
 | **[Hybrid Plant Models Call for a Different Plant Modelling Paradigm and a New Generation of Software (Heresy in the land of moles, fractions, & rigorous physical properties)](http://arxiv.org/abs/2408.15415v1)** | 2024-08-27 |  |
 | **[Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild](http://arxiv.org/abs/2408.14723v1)** | 2024-08-27 |  |
 | **[Multi-Class Plant Leaf Disease Detection: A CNN-based Approach with Mobile App Integration](http://arxiv.org/abs/2408.15289v1)** | 2024-08-26 |  |
-| **[Operational Safety in Human-in-the-loop Human-in-the-plant Autonomous Systems](http://arxiv.org/abs/2409.03780v1)** | 2024-08-22 | <details><summary>Desig...</summary><p>Design Automation Conference 2024 Work in progress paper</p></details> |
-| **[Evaluating Neural Radiance Fields (NeRFs) for 3D Plant Geometry Reconstruction in Field Conditions](http://arxiv.org/abs/2402.10344v3)** | 2024-08-06 | <details><summary>Publi...</summary><p>Published in 'Plant Phenomics'</p></details> |
-| **[A study on general visual categorization of objects into animal and plant groups using global shape descriptors with a focus on category-specific deficits](http://arxiv.org/abs/1901.11398v3)** | 2024-08-05 | <details><summary>11 pa...</summary><p>11 pages, 7 Figures, 1 Table</p></details> |
-| **[Designing Harvesting Tools for Olive Trees: Methodological Reflections on Exploring and Incorporating Plant Perspectives in the Early Stages of Design Process](http://arxiv.org/abs/2407.21481v1)** | 2024-07-31 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 3 tables, The Design Journal</p></details> |
 
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion^2: Turning 3D Environments into Radio Frequency Heatmaps](http://arxiv.org/abs/2510.02274v2)** | 2025-10-06 |  |
+| **[Efficient Navigation in Unknown Indoor Environments with Vision-Language Models](http://arxiv.org/abs/2510.04991v1)** | 2025-10-06 | 8 pages, 4 figures |
+| **[Program Synthesis Benchmark for Visual Programming in XLogoOnline Environment](http://arxiv.org/abs/2406.11334v2)** | 2025-10-06 | ACL'25 paper |
+| **[CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions](http://arxiv.org/abs/2412.06702v2)** | 2025-10-05 | <details><summary>ACM T...</summary><p>ACM Transaction on Graphics 2025;21 pages, 15 figures; Webpage: https://lujintaozju.github.io/publications/CHOICE/</p></details> |
+| **[Environment-Aware Indoor LoRaWAN Path Loss: Parametric Regression Comparisons, Shadow Fading, and Calibrated Fade Margins](http://arxiv.org/abs/2510.04346v1)** | 2025-10-05 | <details><summary>Code:...</summary><p>Code: https://github.com/nahshonmokua/LoRaWAN-Indoor-PL-parametrics</p></details> |
+| **[MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](http://arxiv.org/abs/2506.04405v2)** | 2025-10-05 |  |
+| **[Time-Optimized Safe Navigation in Unstructured Environments through Learning Based Depth Completion](http://arxiv.org/abs/2506.14975v2)** | 2025-10-05 |  |
+| **[Student-AI Interaction in an LLM-Empowered Learning Environment: A Cluster Analysis of Engagement Profiles](http://arxiv.org/abs/2503.01694v2)** | 2025-10-05 | <details><summary>15 pa...</summary><p>15 pages, 10 figures; Reported on ECER 2025</p></details> |
+| **[HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments](http://arxiv.org/abs/2510.04161v1)** | 2025-10-05 | 5 Figures |
+| **[COVER:COverage-VErified Roadmaps for Fixed-time Motion Planning in Continuous Semi-Static Environments](http://arxiv.org/abs/2510.03875v1)** | 2025-10-04 |  |
+| **[Robust Visual Embodiment: How Robots Discover Their Bodies in Real Environments](http://arxiv.org/abs/2510.03677v1)** | 2025-10-04 |  |
+| **[Towards Generalizable Context-aware Anomaly Detection: A Large-scale Benchmark in Cloud Environments](http://arxiv.org/abs/2508.01844v2)** | 2025-10-03 |  |
 | **[Optimal Smooth Coverage Trajectory Planning for Quadrotors in Cluttered Environment](http://arxiv.org/abs/2510.03169v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the 44th Chinese Control Conference, 2025. Please cite the paper using appropriate formats</p></details> |
 | **[Learning Stability Certificate for Robotics in Real-World Environments](http://arxiv.org/abs/2510.03123v1)** | 2025-10-03 |  |
 | **[From Facts to Foils: Designing and Evaluating Counterfactual Explanations for Smart Environments](http://arxiv.org/abs/2510.03078v1)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted at Ex-ASE 2025, co-located with the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</p></details> |
@@ -1266,203 +1455,14 @@ labels: documentation
 | **[EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments](http://arxiv.org/abs/2506.08136v2)** | 2025-10-03 |  |
 | **[RSV-SLAM: Toward Real-Time Semantic Visual SLAM in Indoor Dynamic Environments](http://arxiv.org/abs/2510.02616v1)** | 2025-10-02 | <details><summary>Proce...</summary><p>Proceedings of SAI Intelligent Systems Conference 2023</p></details> |
 | **[Efficient Optimal Path Planning in Dynamic Environments Using Koopman MPC](http://arxiv.org/abs/2510.02584v1)** | 2025-10-02 | <details><summary>This ...</summary><p>This work has been submitted to the ACC2026 conference</p></details> |
-| **[Diffusion^2: Turning 3D Environments into Radio Frequency Heatmaps](http://arxiv.org/abs/2510.02274v1)** | 2025-10-02 |  |
 | **[The Perceived Influences of Environment on Health in Italy: a Penalized Ordinal Regression Approach](http://arxiv.org/abs/2510.01803v1)** | 2025-10-02 |  |
-| **[GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments](http://arxiv.org/abs/2509.21998v2)** | 2025-10-02 | 39 pages, 8 figures |
-| **[Online Hierarchical Policy Learning using Physics Priors for Robot Navigation in Unknown Environments](http://arxiv.org/abs/2510.01519v1)** | 2025-10-01 |  |
-| **[MEMTRACK: Evaluating Long-Term Memory and State Tracking in Multi-Platform Dynamic Agent Environments](http://arxiv.org/abs/2510.01353v1)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 SEA Workshop</p></details> |
-| **[TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP Environments](http://arxiv.org/abs/2510.01179v1)** | 2025-10-01 | 35 pages, 13 figures |
-| **[Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning](http://arxiv.org/abs/2505.16928v2)** | 2025-10-01 |  |
-| **[Enhancing Urban VANETs Stability: A Single-Hop Clustering Strategy in Metropolitan Environments](http://arxiv.org/abs/2510.00939v1)** | 2025-10-01 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 5 tables, Journal</p></details> |
-| **[Progressive Weight Loading: Accelerating Initial Inference and Gradually Boosting Performance on Resource-Constrained Environments](http://arxiv.org/abs/2509.22319v2)** | 2025-10-01 |  |
-| **[HetSwarm: Cooperative Navigation of Heterogeneous Swarm in Dynamic and Dense Environments through Impedance-based Guidance](http://arxiv.org/abs/2502.06722v2)** | 2025-10-01 | <details><summary>Manus...</summary><p>Manuscript has been accepted by ICUAS-2025</p></details> |
-| **[ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment](http://arxiv.org/abs/2503.02723v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted in IROS 2025</p></details> |
-| **[CGSim: A Simulation Framework for Large Scale Distributed Computing Environment](http://arxiv.org/abs/2510.00822v1)** | 2025-10-01 | <details><summary>The p...</summary><p>The paper has been accepted at PMBS workshop SC25</p></details> |
-| **[Learning Hierarchical Domain Models Through Environment-Grounded Interaction](http://arxiv.org/abs/2505.13497v3)** | 2025-10-01 |  |
-| **[Heterogeneous Predictor-based Risk-Aware Planning with Conformal Prediction in Dense, Uncertain Environments](http://arxiv.org/abs/2507.11920v2)** | 2025-10-01 |  |
-| **[A dataset and model for recognition of audiologically relevant environments for hearing aids: AHEAD-DS and YAMNet+](http://arxiv.org/abs/2508.10360v3)** | 2025-10-01 |  |
-| **[cmWave/FR3 Large-Scale Channel Characterization for Urban Macro/Micro and Suburban Environments](http://arxiv.org/abs/2510.00275v1)** | 2025-09-30 | <details><summary>GLOBE...</summary><p>GLOBECOM 2025 - 2025 IEEE Global Communications Conference</p></details> |
-| **[OceanGym: A Benchmark Environment for Underwater Embodied Agents](http://arxiv.org/abs/2509.26536v1)** | 2025-09-30 | Work in progress |
-| **[Learning from Hallucinating Critical Points for Navigation in Dynamic Environments](http://arxiv.org/abs/2509.26513v1)** | 2025-09-30 |  |
-| **[VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments](http://arxiv.org/abs/2506.02387v2)** | 2025-09-30 |  |
-| **[WorldGym: World Model as An Environment for Policy Evaluation](http://arxiv.org/abs/2506.00613v3)** | 2025-09-30 | <details><summary>https...</summary><p>https://world-model-eval.github.io</p></details> |
-| **[Analysis of a Spatialized Brain-Body-Environment System](http://arxiv.org/abs/2509.25640v1)** | 2025-09-30 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, Artificial Life Conference 2025, selected for talk</p></details> |
-| **[Online Mapping for Autonomous Driving: Addressing Sensor Generalization and Dynamic Map Updates in Campus Environments](http://arxiv.org/abs/2509.25542v1)** | 2025-09-29 | <details><summary>19th ...</summary><p>19th International Symposium on Experimental Robotics</p></details> |
-| **[TaBSA -- A framework for training and benchmarking algorithms scheduling tasks for mobile robots working in dynamic environments](http://arxiv.org/abs/2408.16844v3)** | 2025-09-29 | <details><summary>Artic...</summary><p>Article submitted to the SoftwareX journal</p></details> |
-| **[PIPer: On-Device Environment Setup via Online Reinforcement Learning](http://arxiv.org/abs/2509.25455v1)** | 2025-09-29 | Under review |
-| **[Safe Planning in Unknown Environments using Conformalized Semantic Maps](http://arxiv.org/abs/2509.25124v1)** | 2025-09-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 algorithms, 1 table</p></details> |
-| **[Hierarchical Task Environments as the Next Frontier for Embodied World Models in Robot Soccer](http://arxiv.org/abs/2509.04731v2)** | 2025-09-29 | <details><summary>In th...</summary><p>In the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Embodied World Models for Decision Making (EWM)</p></details> |
-| **[DarwinGame: Playing Tournaments for Tuning Applications in Noisy Cloud Environments](http://arxiv.org/abs/2509.25090v1)** | 2025-09-29 |  |
-| **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v1)** | 2025-09-29 |  |
-| **[Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments](http://arxiv.org/abs/2509.25282v1)** | 2025-09-29 | 5 pages, 1 table |
-| **[SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents](http://arxiv.org/abs/2509.24282v1)** | 2025-09-29 |  |
-| **[GLIDE: A Coordinated Aerial-Ground Framework for Search and Rescue in Unknown Environments](http://arxiv.org/abs/2509.14210v2)** | 2025-09-28 |  |
-| **[HUNT: High-Speed UAV Navigation and Tracking in Unstructured Environments via Instantaneous Relative Frames](http://arxiv.org/abs/2509.19452v3)** | 2025-09-28 |  |
-| **[Face-voice Association in Multilingual Environments (FAME) 2026 Challenge Evaluation Plan](http://arxiv.org/abs/2508.04592v2)** | 2025-09-28 | <details><summary>4 pag...</summary><p>4 pages, ICASSP'26, SP Grand Challenge'26</p></details> |
-| **[Learning to Reason in Structured In-context Environments with Reinforcement Learning](http://arxiv.org/abs/2509.23330v1)** | 2025-09-27 |  |
-| **[Distributed Multi-Robot Multi-Target Simultaneous Search and Tracking in an Unknown Non-convex Environment](http://arxiv.org/abs/2509.23308v1)** | 2025-09-27 |  |
-| **[Online Dynamic Goal Recognition in Gym Environments](http://arxiv.org/abs/2509.23244v1)** | 2025-09-27 |  |
-| **[Multi-Robot Allocation for Information Gathering in Non-Uniform Spatiotemporal Environments](http://arxiv.org/abs/2509.22883v1)** | 2025-09-26 | <details><summary>Submi...</summary><p>Submitted to American Control Conference (ACC) 2026</p></details> |
-| **[MapExRL: Human-Inspired Indoor Exploration with Predicted Environment Context and Reinforcement Learning](http://arxiv.org/abs/2503.01548v2)** | 2025-09-26 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, ICAR 2025</p></details> |
-| **[An Ontology for Unified Modeling of Tasks, Actions, Environments, and Capabilities in Personal Service Robotics](http://arxiv.org/abs/2509.22434v1)** | 2025-09-26 |  |
-| **[Multi-CAP: A Multi-Robot Connectivity-Aware Hierarchical Coverage Path Planning Algorithm for Unknown Environments](http://arxiv.org/abs/2509.14941v2)** | 2025-09-26 |  |
-| **[AgentOrchestra: Orchestrating Hierarchical Multi-Agent Intelligence with the Tool-Environment-Agent(TEA) Protocol](http://arxiv.org/abs/2506.12508v4)** | 2025-09-26 |  |
-| **[Neural Orchestration for Multi-Agent Systems: A Deep Learning Framework for Optimal Agent Selection in Multi-Domain Task Environments](http://arxiv.org/abs/2505.02861v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted for Publication at PReMI 2025 - 11th International Conference on Pattern Recognition and Machine Intelligence</p></details> |
-| **[Scalable Option Learning in High-Throughput Environments](http://arxiv.org/abs/2509.00338v2)** | 2025-09-26 |  |
-| **[UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments](http://arxiv.org/abs/2509.21733v1)** | 2025-09-26 |  |
-| **[GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments](http://arxiv.org/abs/2502.01778v3)** | 2025-09-25 |  |
-| **[TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design](http://arxiv.org/abs/2506.19997v3)** | 2025-09-25 |  |
-| **[SwarmRaft: Leveraging Consensus for Robust Drone Swarm Coordination in GNSS-Degraded Environments](http://arxiv.org/abs/2508.00622v2)** | 2025-09-25 |  |
-| **[Estimating Deep Learning energy consumption based on model architecture and training environment](http://arxiv.org/abs/2307.05520v5)** | 2025-09-25 | <details><summary>48 pa...</summary><p>48 pages, 10 figures, under review in Computer Standards & Interfaces journal. This work is an extension of arXiv:2307.05520v3 [cs.LG]</p></details> |
-| **[Detecting gene-environment interactions to guide personalized intervention: boosting distributional regression for polygenic scores](http://arxiv.org/abs/2509.20850v1)** | 2025-09-25 | <details><summary>18 pa...</summary><p>18 pages with 8 figures</p></details> |
-| **[NetCAS: Dynamic Cache and Backend Device Management in Networked Environments](http://arxiv.org/abs/2510.02323v1)** | 2025-09-25 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, submitted to USENIX FAST 2026</p></details> |
-| **[Occlusion-Aware Consistent Model Predictive Control for Robot Navigation in Occluded Obstacle-Dense Environments](http://arxiv.org/abs/2503.04563v4)** | 2025-09-25 |  |
-| **[Learning Terrain-Specialized Policies for Adaptive Locomotion in Challenging Environments](http://arxiv.org/abs/2509.20635v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted to the 22nd International Conference on Advanced Robotics (ICAR 2025). 7 pages</p></details> |
-| **[Towards a user-centric HPC-QC environment](http://arxiv.org/abs/2509.20525v1)** | 2025-09-24 | <details><summary>9 Pag...</summary><p>9 Pages, accepted to SFWM workshop at SC25</p></details> |
-| **[Playpen: An Environment for Exploring Learning Through Conversational Interaction](http://arxiv.org/abs/2504.08590v3)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Main) Source code: https://github.com/lm-playpen/playpen Please send correspodence to: lm-playschool@googlegroups.com</p></details> |
-| **[SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments](http://arxiv.org/abs/2509.19990v1)** | 2025-09-24 |  |
-| **[Where Did I Leave My Glasses? Open-Vocabulary Semantic Exploration in Real-World Semi-Static Environments](http://arxiv.org/abs/2509.19851v1)** | 2025-09-24 |  |
-| **[BoreaRL: A Multi-Objective Reinforcement Learning Environment for Climate-Adaptive Boreal Forest Management](http://arxiv.org/abs/2509.19846v1)** | 2025-09-24 |  |
-| **[Enabling Plant Phenotyping in Weedy Environments using Multi-Modal Imagery via Synthetic and Generated Training Data](http://arxiv.org/abs/2509.19208v1)** | 2025-09-23 |  |
-| **[Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting](http://arxiv.org/abs/2509.18956v1)** | 2025-09-23 |  |
-| **[Number Adaptive Formation Flight Planning via Affine Deformable Guidance in Narrow Environments](http://arxiv.org/abs/2509.18636v1)** | 2025-09-23 |  |
-| **[Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning](http://arxiv.org/abs/2509.18083v1)** | 2025-09-22 |  |
-| **[Hybrid Reputation Aggregation: A Robust Defense Mechanism for Adversarial Federated Learning in 5G and Edge Network Environments](http://arxiv.org/abs/2509.18044v1)** | 2025-09-22 |  |
-| **[Detection of Misreporting Attacks on Software-Defined Immersive Environments](http://arxiv.org/abs/2509.18040v1)** | 2025-09-22 | <details><summary>7 Pag...</summary><p>7 Pages, 7 Images, will appear in CNSM 2025</p></details> |
-| **[Bringing Pedagogy into Focus: Evaluating Virtual Teaching Assistants' Question-Answering in Asynchronous Learning Environments](http://arxiv.org/abs/2509.17961v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted in EMNLP 2025 Findings</p></details> |
-| **[ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion](http://arxiv.org/abs/2509.17941v1)** | 2025-09-22 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2025 Project site: https://amrl.cs.utexas.edu/ComposableNav/</p></details> |
-| **[Dynamic ReAct: Scalable Tool Selection for Large-Scale MCP Environments](http://arxiv.org/abs/2509.20386v1)** | 2025-09-22 |  |
-| **[Evaluating Multimodal Large Language Models with Daily Composite Tasks in Home Environments](http://arxiv.org/abs/2509.17425v1)** | 2025-09-22 |  |
-| **[Runaway is Ashamed, But Helpful: On the Early-Exit Behavior of Large Language Model-based Agents in Embodied Environments](http://arxiv.org/abs/2505.17616v2)** | 2025-09-22 | <details><summary>EMNLP...</summary><p>EMNLP 2025 - Findings</p></details> |
-| **[Exploring Bichronous Collaboration in Virtual Environments](http://arxiv.org/abs/2509.17230v1)** | 2025-09-21 | <details><summary>13 pa...</summary><p>13 pages, 6 pages, The 31st ACM Symposium on Virtual Reality Software and Technology (VRST '25)</p></details> |
-| **[ARE: Scaling Up Agent Environments and Evaluations](http://arxiv.org/abs/2509.17158v1)** | 2025-09-21 |  |
-| **[A Reliable Robot Motion Planner in Complex Real-world Environments via Action Imagination](http://arxiv.org/abs/2509.16963v1)** | 2025-09-21 |  |
-| **[Advancing Audio-Visual Navigation Through Multi-Agent Collaboration in 3D Environments](http://arxiv.org/abs/2509.22698v1)** | 2025-09-21 | <details><summary>Main ...</summary><p>Main paper (15 pages). Accepted for publication by ICONIP( International Conference on Neural Information Processing) 2025</p></details> |
-| **[Governed By Agents: A Survey On The Role Of Agentic AI In Future Computing Environments](http://arxiv.org/abs/2509.16676v1)** | 2025-09-20 |  |
-| **[SWA-PF: Semantic-Weighted Adaptive Particle Filter for Memory-Efficient 4-DoF UAV Localization in GNSS-Denied Environments](http://arxiv.org/abs/2509.13795v2)** | 2025-09-20 |  |
-| **[Vision-Based Perception for Autonomous Vehicles in Off-Road Environment Using Deep Learning](http://arxiv.org/abs/2509.19378v1)** | 2025-09-20 | <details><summary>2022....</summary><p>2022. 117p. Electrical Engineering PhD Thesis - Graduate Program in Electrical and Computer Engineering, Federal University of Bahia, 40210-630, Salvador, Brazil</p></details> |
-| **[On the Convergence Rates of Federated Q-Learning across Heterogeneous Environments](http://arxiv.org/abs/2409.03897v2)** | 2025-09-20 |  |
-| **[Harmonic Summation-Based Robust Pitch Estimation in Noisy and Reverberant Environments](http://arxiv.org/abs/2509.16480v1)** | 2025-09-20 |  |
-| **[A Data-Driven Discretized CS:GO Simulation Environment to Facilitate Strategic Multi-Agent Planning Research](http://arxiv.org/abs/2509.06355v2)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted at the Winter Simulation Conference 2025, December, Seattle USA</p></details> |
-| **[A Modular Robotic System for Autonomous Exploration and Semantic Updating in Large-Scale Indoor Environments](http://arxiv.org/abs/2409.15493v3)** | 2025-09-19 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 5 tables. Project page is available at https://irvlutd.github.io/SemanticMapping/</p></details> |
-| **[Dynamic Objects Relocalization in Changing Environments with Flow Matching](http://arxiv.org/abs/2509.16398v1)** | 2025-09-19 |  |
-| **[GRID: Graph-based Reasoning for Intervention and Discovery in Built Environments](http://arxiv.org/abs/2509.16397v1)** | 2025-09-19 |  |
-| **[Mixing properties of some Markov chains models in random environments](http://arxiv.org/abs/2509.16118v1)** | 2025-09-19 |  |
-| **[An MPC framework for efficient navigation of mobile robots in cluttered environments](http://arxiv.org/abs/2509.15917v1)** | 2025-09-19 | <details><summary>- Cod...</summary><p>- Code available at: https://github.com/IntelligentControlSystems/ClutteredEnvironment - Supplementary video: https://youtu.be/Hn_hpAmGgq0</p></details> |
-| **[SMART: Scalable Multi-Agent Reasoning and Trajectory Planning in Dense Environments](http://arxiv.org/abs/2509.15737v1)** | 2025-09-19 |  |
-| **[How built environment shapes cycling experience: A multi-scale review in historical urban contexts](http://arxiv.org/abs/2509.15657v1)** | 2025-09-19 | 19 pages, 11 figures |
-| **[Runtime Learning of Quadruped Robots in Wild Environments](http://arxiv.org/abs/2503.04794v2)** | 2025-09-19 |  |
-| **[SmolRGPT: Efficient Spatial Reasoning for Warehouse Environments with 600M Parameters](http://arxiv.org/abs/2509.15490v1)** | 2025-09-18 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)</p></details> |
-| **[Comparative Analysis of STEM and non-STEM Teachers' Needs for Integrating AI into Educational Environments](http://arxiv.org/abs/2509.16276v1)** | 2025-09-18 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, Published in HCII 2025 Conference Proceedings</p></details> |
-| **[Sample Efficient Experience Replay in Non-stationary Environments](http://arxiv.org/abs/2509.15032v1)** | 2025-09-18 | 5 pages, 3 figures |
-| **[Semantic-LiDAR-Inertial-Wheel Odometry Fusion for Robust Localization in Large-Scale Dynamic Environments](http://arxiv.org/abs/2509.14999v1)** | 2025-09-18 |  |
-| **[PA-MPPI: Perception-Aware Model Predictive Path Integral Control for Quadrotor Navigation in Unknown Environments](http://arxiv.org/abs/2509.14978v1)** | 2025-09-18 |  |
-| **[Wireless Communication Performance Testing: From Laboratory Environment to Research Vessel](http://arxiv.org/abs/2509.14740v1)** | 2025-09-18 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
-| **[DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis](http://arxiv.org/abs/2509.14684v1)** | 2025-09-18 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[Modeling User Redemption Behavior in Complex Incentive Digital Environment: An Empirical Study Using Large-Scale Transactional Data](http://arxiv.org/abs/2509.14508v1)** | 2025-09-18 |  |
-| **[Semantic Exploration and Dense Mapping of Complex Environments using Ground Robot with Panoramic LiDAR-Camera Fusion](http://arxiv.org/abs/2505.22880v3)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters</p></details> |
-| **[Diffusion-Based Unsupervised Audio-Visual Speech Separation in Noisy Environments with Noise Prior](http://arxiv.org/abs/2509.14379v1)** | 2025-09-17 |  |
-| **[Investigating the Ways in Which Mobile Phone Images with Open-Source Data Can Be Used to Create an Augmented Virtual Environment (AVE)](http://arxiv.org/abs/2509.14374v1)** | 2025-09-17 |  |
-| **[Multi-robot Multi-source Localization in Complex Flows with Physics-Preserving Environment Models](http://arxiv.org/abs/2509.14228v1)** | 2025-09-17 |  |
-| **[Performance Optimization of YOLO-FEDER FusionNet for Robust Drone Detection in Visually Complex Environments](http://arxiv.org/abs/2509.14012v1)** | 2025-09-17 |  |
-| **[Multi-Attacker Single-Defender Target Defense in Conical Environments](http://arxiv.org/abs/2509.13564v1)** | 2025-09-16 |  |
-| **[Towards General Agentic Intelligence via Environment Scaling](http://arxiv.org/abs/2509.13311v1)** | 2025-09-16 | <details><summary>https...</summary><p>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</p></details> |
-| **[Learning Environment-Aware Affordance for 3D Articulated Object Manipulation under Occlusions](http://arxiv.org/abs/2309.07510v5)** | 2025-09-16 | <details><summary>In 37...</summary><p>In 37th Conference on Neural Information Processing Systems (NeurIPS 2023). Website at https://chengkaiacademycity.github.io/EnvAwareAfford/</p></details> |
-| **[Practical Handling of Dynamic Environments in Decentralised Multi-Robot Patrol](http://arxiv.org/abs/2509.13069v1)** | 2025-09-16 |  |
-| **[Safe Reinforcement Learning using Action Projection: Safeguard the Policy or the Environment?](http://arxiv.org/abs/2509.12833v1)** | 2025-09-16 |  |
-| **[Safety filtering of robotic manipulation under environment uncertainty: a computational approach](http://arxiv.org/abs/2509.12674v1)** | 2025-09-16 | 8 pages, 8 figures |
-| **[Federated Foundation Models in Harsh Wireless Environments: Prospects, Challenges, and Future Directions](http://arxiv.org/abs/2509.01957v2)** | 2025-09-16 | <details><summary>This ...</summary><p>This paper is under review in IEEE Network Magazine Special Issue on Large AI Models for the Internet of Everything</p></details> |
-| **[Zero to Autonomy in Real-Time: Online Adaptation of Dynamics in Unstructured Environments](http://arxiv.org/abs/2509.12516v1)** | 2025-09-15 | <details><summary>Submi...</summary><p>Submitted to ICRA 2026</p></details> |
-| **[Strategic Concealment of Environment Representations in Competitive Games](http://arxiv.org/abs/2509.05503v2)** | 2025-09-15 |  |
-| **[Detecting Model Drifts in Non-Stationary Environment Using Edit Operation Measures](http://arxiv.org/abs/2509.11367v1)** | 2025-09-14 | <details><summary>28 pa...</summary><p>28 pages, 3 figures, 17 tables</p></details> |
-| **[A Web-Based Environment for the Specification and Generation of Smart Legal Contracts](http://arxiv.org/abs/2509.11258v1)** | 2025-09-14 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables, conference</p></details> |
-| **[Tracailer: An Efficient Trajectory Planner for Tractor-Trailer Robots in Unstructured Environments](http://arxiv.org/abs/2502.19832v2)** | 2025-09-14 | <details><summary>21 pa...</summary><p>21 pages, 17 figures, 6 tables</p></details> |
-| **[Agent-based Simulation for Drone Charging in an Internet of Things Environment System](http://arxiv.org/abs/2509.10867v1)** | 2025-09-13 | 4 pages |
-| **[RecoWorld: Building Simulated Environments for Agentic Recommender Systems](http://arxiv.org/abs/2509.10397v1)** | 2025-09-12 |  |
-| **[A Stochastic Birth-and-Death Approach for Street Furniture Geolocation in Urban Environments](http://arxiv.org/abs/2509.10310v1)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of the 27th Irish Machine Vision and Image Processing Conference (IMVIP 2025)</p></details> |
-| **[The Overcooked Generalisation Challenge: Evaluating Cooperation with Novel Partners in Unknown Environments Using Unsupervised Environment Design](http://arxiv.org/abs/2406.17949v3)** | 2025-09-12 | TMLR, 31 pages |
-| **[Feedback-Driven Tool-Use Improvements in Large Language Models via Automated Build Environments](http://arxiv.org/abs/2508.08791v2)** | 2025-09-12 |  |
-| **[Real World Robotic Exploration using Deep Neural Networks Trained in Photorealistic Reconstructed Environments](http://arxiv.org/abs/2509.13342v1)** | 2025-09-12 | <details><summary>This ...</summary><p>This report is submitted as partial fulfilment of the requirements for the Honours Programme of the Department of Computer Science and Software Engineering, The University of Western Australia, 2019</p></details> |
-| **[Estimating carbon pools in the shelf sea environment: reanalysis or model-informed machine learning?](http://arxiv.org/abs/2508.10178v2)** | 2025-09-11 | <details><summary>24 pa...</summary><p>24 pages, 9 figures (3 in the appendix), v2 - minor changes</p></details> |
-| **[How well can LLMs provide planning feedback in grounded environments?](http://arxiv.org/abs/2509.09790v1)** | 2025-09-11 |  |
-| **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
-| **[Revisiting Non-Acyclic GFlowNets in Discrete Environments](http://arxiv.org/abs/2502.07735v3)** | 2025-09-11 | <details><summary>ICML ...</summary><p>ICML 2025; minor corrections in proofs of Proposition 3.6 and 3.8 in v3, all results remain unchanged</p></details> |
-| **[The main factors in student satisfaction with a campus environment: A mixed approach vs. a quantitative approach](http://arxiv.org/abs/2509.10571v1)** | 2025-09-11 |  |
-| **[AEOS: Active Environment-aware Optimal Scanning Control for UAV LiDAR-Inertial Odometry in Complex Scenes](http://arxiv.org/abs/2509.09141v1)** | 2025-09-11 |  |
-| **[Dual-Stage Safe Herding Framework for Adversarial Attacker in Dynamic Environment](http://arxiv.org/abs/2509.08460v1)** | 2025-09-10 |  |
-| **[A Planning Strategy for Building a Heterogeneous Smart EM Environment](http://arxiv.org/abs/2509.08378v1)** | 2025-09-10 |  |
-| **[Visual Network Analysis in Immersive Environments: A Survey](http://arxiv.org/abs/2501.08500v2)** | 2025-09-10 |  |
-| **[A Chinese Continuous Sign Language Dataset Based on Complex Environments](http://arxiv.org/abs/2409.11960v2)** | 2025-09-10 | 11 pages, 3 figures |
-| **[MARLINE: Multi-Source Mapping Transfer Learning for Non-Stationary Environments](http://arxiv.org/abs/2509.08176v1)** | 2025-09-09 | <details><summary>Publi...</summary><p>Published in the 2020 IEEE International Conference on Data Mining (ICDM)</p></details> |
-| **[Multi Robot Coordination in Highly Dynamic Environments: Tackling Asymmetric Obstacles and Limited Communication](http://arxiv.org/abs/2509.08859v1)** | 2025-09-09 | <details><summary>The 1...</summary><p>The 19th International Conference on Intelligent Autonomous Systems (IAS 19), 2025, Genoa</p></details> |
-| **[Toward a Metrology for Artificial Intelligence: Hidden-Rule Environments and Reinforcement Learning](http://arxiv.org/abs/2509.06213v2)** | 2025-09-09 |  |
-| **[VoxCity: A Seamless Framework for Open Geospatial Data Integration, Grid-Based Semantic 3D City Model Generation, and Urban Environment Simulation](http://arxiv.org/abs/2504.13934v2)** | 2025-09-09 |  |
-| **[Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments](http://arxiv.org/abs/2509.06953v1)** | 2025-09-08 | <details><summary>Websi...</summary><p>Website at \url{deep-reactive-policy.com}</p></details> |
-| **[VehicleWorld: A Highly Integrated Multi-Device Environment for Intelligent Vehicle Interaction](http://arxiv.org/abs/2509.06736v1)** | 2025-09-08 |  |
-| **[The GOOSE Dataset for Perception in Unstructured Environments](http://arxiv.org/abs/2310.16788v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at ICRA 2024, Github link: https://github.com/FraunhoferIOSB/goose_dataset</p></details> |
-| **[MAPF-HD: Multi-Agent Path Finding in High-Density Environments](http://arxiv.org/abs/2509.06374v1)** | 2025-09-08 | 9 pages, 12 figures |
-| **[PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments](http://arxiv.org/abs/2509.06235v1)** | 2025-09-07 | <details><summary>for t...</summary><p>for the source code, see https://github.com/aialt/PillagerBench</p></details> |
-| **[An efficient deep reinforcement learning environment for flexible job-shop scheduling](http://arxiv.org/abs/2509.07019v1)** | 2025-09-07 |  |
-| **[Evaluating YOLO Architectures: Implications for Real-Time Vehicle Detection in Urban Environments of Bangladesh](http://arxiv.org/abs/2509.05652v1)** | 2025-09-06 |  |
-| **[Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments](http://arxiv.org/abs/2505.08299v2)** | 2025-09-05 |  |
-| **[MEAN-RIR: Multi-Modal Environment-Aware Network for Robust Room Impulse Response Estimation](http://arxiv.org/abs/2509.05205v1)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted by ASRU 2025</p></details> |
-| **[Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting](http://arxiv.org/abs/2410.19920v3)** | 2025-09-05 |  |
-| **[Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v3)** | 2025-09-05 | ACL 2025 |
-| **[AI-Assisted Rapid Crystal Structure Generation Towards a Target Local Environment](http://arxiv.org/abs/2506.08224v2)** | 2025-09-05 | 27 pages, 15 figures |
-| **[Improving Robustness of AlphaZero Algorithms to Test-Time Environment Changes](http://arxiv.org/abs/2509.04317v1)** | 2025-09-04 |  |
-| **[Privacy Preservation and Identity Tracing Prevention in AI-Driven Eye Tracking for Interactive Learning Environments](http://arxiv.org/abs/2509.05376v1)** | 2025-09-04 |  |
-| **[Machine Learning for LiDAR-Based Indoor Surface Classification in Intelligent Wireless Environments](http://arxiv.org/abs/2509.03813v1)** | 2025-09-04 |  |
-| **[Cooperative Grasping for Collective Object Transport in Constrained Environments](http://arxiv.org/abs/2509.03638v1)** | 2025-09-03 |  |
-| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
-| **[IL-SLAM: Intelligent Line-assisted SLAM Based on Feature Awareness for Dynamic Environments](http://arxiv.org/abs/2509.02972v1)** | 2025-09-03 | <details><summary>submi...</summary><p>submitted to International Conference on Robotic Computing and Communication(IEEE IRC)</p></details> |
-| **[Improving the Resilience of Quadrotors in Underground Environments by Combining Learning-based and Safety Controllers](http://arxiv.org/abs/2509.02808v1)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted and awarded best paper at the 11th International Conference on Control, Decision and Information Technologies (CoDIT 2025 - https://codit2025.org/)</p></details> |
-| **[Energy-Efficient Split Learning for Resource-Constrained Environments: A Smart Farming Solution](http://arxiv.org/abs/2509.02549v1)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted at the 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS), 2025</p></details> |
-| **[MUSE-FM: Multi-task Environment-aware Foundation Model for Wireless Communications](http://arxiv.org/abs/2509.01967v1)** | 2025-09-02 |  |
-| **[Self-Supervised Learning-Based Path Planning and Obstacle Avoidance Using PPO and B-Splines in Unknown Environments](http://arxiv.org/abs/2412.02176v2)** | 2025-09-01 |  |
-| **[How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on $τ$-bench](http://arxiv.org/abs/2508.20931v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
-| **[Dyna-LfLH: Learning Agile Navigation in Dynamic Environments from Learned Hallucination](http://arxiv.org/abs/2403.17231v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted at International Conference on Intelligent Robots and Systems (IROS) 2025 Hangzhou, China</p></details> |
-| **[GPS Spoofing Attacks and Pilot Responses Using a Flight Simulator Environment](http://arxiv.org/abs/2509.22662v1)** | 2025-09-01 |  |
-| **[SR-SLAM: Scene-reliability Based RGB-D SLAM in Diverse Environments](http://arxiv.org/abs/2509.01111v1)** | 2025-09-01 | submitted |
-| **[Quantum-like Coherence Derived from the Interaction between Chemical Reaction and Its Environment](http://arxiv.org/abs/2509.01021v1)** | 2025-08-31 | 36 pages, 13 figures |
-| **[Auto prompt sql: a resource-efficient architecture for text-to-sql translation in constrained environments](http://arxiv.org/abs/2506.03598v3)** | 2025-08-31 | <details><summary>4 pag...</summary><p>4 pages,2 figures,EITCE 2025</p></details> |
-| **[DyPho-SLAM : Real-time Photorealistic SLAM in Dynamic Environments](http://arxiv.org/abs/2509.00741v1)** | 2025-08-31 | <details><summary>Accep...</summary><p>Accepted by ICME 2025(Oral)</p></details> |
-| **[Narrative-to-Scene Generation: An LLM-Driven Pipeline for 2D Game Environments](http://arxiv.org/abs/2509.04481v1)** | 2025-08-31 |  |
-| **[Vehicle-in-Virtual-Environment (VVE) Method for Developing and Evaluating VRU Safety of Connected and Autonomous Driving with Focus on Bicyclist Safety](http://arxiv.org/abs/2509.00624v1)** | 2025-08-30 |  |
-| **[Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing](http://arxiv.org/abs/2312.10448v2)** | 2025-08-30 |  |
-| **[Waste-Bench: A Comprehensive Benchmark for Evaluating VLLMs in Cluttered Environments](http://arxiv.org/abs/2509.00176v1)** | 2025-08-29 |  |
-| **[From Drone Imagery to Livability Mapping: AI-powered Environment Perception in Rural China](http://arxiv.org/abs/2508.21738v1)** | 2025-08-29 |  |
-| **[Language-Enhanced Mobile Manipulation for Efficient Object Search in Indoor Environments](http://arxiv.org/abs/2508.20899v1)** | 2025-08-28 |  |
-| **[Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](http://arxiv.org/abs/2505.19214v2)** | 2025-08-28 |  |
-| **[The Application of Virtual Environments and Artificial Intelligence in Higher Education: Experimental Findings in Philosophy Teaching](http://arxiv.org/abs/2509.00110v1)** | 2025-08-28 |  |
-| **[UAV-UGV Cooperative Trajectory Optimization and Task Allocation for Medical Rescue Tasks in Post-Disaster Environments](http://arxiv.org/abs/2506.06136v2)** | 2025-08-28 |  |
-| **[Enhanced Trust Region Sequential Convex Optimization for Multi-Drone Thermal Screening Trajectory Planning in Urban Environments](http://arxiv.org/abs/2506.06012v3)** | 2025-08-28 |  |
-| **[Lessons from Biophilic Design: Rethinking Affective Interaction Design in Built Environments](http://arxiv.org/abs/2508.19867v1)** | 2025-08-27 | <details><summary>3 pag...</summary><p>3 pages, 1 footer image, provocation paper for CHI 2025 Workshop on Affective Interactions, Japan</p></details> |
-| **[Hybrid Classical-Quantum Supercomputing: A demonstration of a multi-user, multi-QPU and multi-GPU environment](http://arxiv.org/abs/2508.16297v2)** | 2025-08-27 |  |
-| **[Context-Aware Risk Estimation in Home Environments: A Probabilistic Framework for Service Robots](http://arxiv.org/abs/2508.19788v1)** | 2025-08-27 | <details><summary>8 pag...</summary><p>8 pages, Accepted for IEEE RO-MAN 2025 Conference</p></details> |
-| **[Efficient Human-Aware Task Allocation for Multi-Robot Systems in Shared Environments](http://arxiv.org/abs/2508.19731v1)** | 2025-08-27 | <details><summary>7 Pag...</summary><p>7 Pages, 4 Figures, Accepted in IROS2025</p></details> |
-| **[Real-Time Sampling-Based Safe Motion Planning for Robotic Manipulators in Dynamic Environments](http://arxiv.org/abs/2501.00507v2)** | 2025-08-27 |  |
-| **[Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment Failures in LLM Agents](http://arxiv.org/abs/2508.19504v1)** | 2025-08-27 |  |
-| **[PoolFlip: A Multi-Agent Reinforcement Learning Security Environment for Cyber Defense](http://arxiv.org/abs/2508.19488v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted at GameSec 2025</p></details> |
-| **[ZeST: an LLM-based Zero-Shot Traversability Navigation for Unknown Environments](http://arxiv.org/abs/2508.19131v1)** | 2025-08-26 |  |
-| **[Safe Reinforcement Learning in Black-Box Environments via Adaptive Shielding](http://arxiv.org/abs/2405.18180v3)** | 2025-08-26 | <details><summary>To be...</summary><p>To be published in ECAI 25</p></details> |
-| **[Comparative Analysis of UAV Path Planning Algorithms for Efficient Navigation in Urban 3D Environments](http://arxiv.org/abs/2508.16515v2)** | 2025-08-26 | <details><summary>AFROS...</summary><p>AFROS 2024 Conference</p></details> |
-| **[An Adaptive Environment-Aware Transformer Autoencoder for UAV-FSO with Dynamic Complexity Control](http://arxiv.org/abs/2508.16918v2)** | 2025-08-26 |  |
-| **[Tractable Stochastic Hybrid Model Predictive Control using Gaussian Processes for Repetitive Tasks in Unseen Environments](http://arxiv.org/abs/2508.18203v1)** | 2025-08-25 | <details><summary>Europ...</summary><p>European Control Conference (ECC) 2025</p></details> |
-| **[Robust Anomaly Detection in Industrial Environments via Meta-Learning](http://arxiv.org/abs/2508.17789v1)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to VISION Workshop at ICCV 2025</p></details> |
-| **[Gaussian Process Modeling with Genotype x Environment Kernels for Wheat Performance Prediction](http://arxiv.org/abs/2508.17730v1)** | 2025-08-25 |  |
-| **[IDU: Incremental Dynamic Update of Existing 3D Virtual Environments with New Imagery Data](http://arxiv.org/abs/2508.17579v1)** | 2025-08-25 |  |
-| **[SEER-VAR: Semantic Egocentric Environment Reasoner for Vehicle Augmented Reality](http://arxiv.org/abs/2508.17255v1)** | 2025-08-24 |  |
-| **[DeeP-Mod: Deep Dynamic Programming based Environment Modelling using Feature Extraction](http://arxiv.org/abs/2504.20535v2)** | 2025-08-24 | <details><summary>This ...</summary><p>This is an author's version. Paper has been accepted to 19th International Symposium on Neural Networks and was presented in August 2025 in China</p></details> |
-| **[Transformer-based Models to Deal with Heterogeneous Environments in Human Activity Recognition](http://arxiv.org/abs/2209.11750v2)** | 2025-08-23 | <details><summary>Title...</summary><p>Titled changed from pre-print version "Lightweight Transformers for Human Activity Recognition on Mobile Devices"</p></details> |
-| **[M3DMap: Object-aware Multimodal 3D Mapping for Dynamic Environments](http://arxiv.org/abs/2508.17044v1)** | 2025-08-23 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 13 tables. Preprint of the accepted article in Optical Memory and Neural Network Journal</p></details> |
-| **[On Kinodynamic Global Planning in a Simplicial Complex Environment: A Mixed Integer Approach](http://arxiv.org/abs/2508.16511v1)** | 2025-08-22 |  |
-| **[NiceWebRL: a Python library for human subject experiments with reinforcement learning environments](http://arxiv.org/abs/2508.15693v1)** | 2025-08-21 |  |
-| **[An Efficient Open World Environment for Multi-Agent Social Learning](http://arxiv.org/abs/2508.15679v1)** | 2025-08-21 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Sustainable and Secure Reuse in Dependency Supply Chains: Initial Analysis of NPM packages at the End of the Chain](http://arxiv.org/abs/2503.02804v3)** | 2025-10-06 | <details><summary>Submi...</summary><p>Submitted and presented at SE 2030 Software Engineering Roadmap Workshop. Submitted to TOSEM Special Issue SE 2030</p></details> |
 | **[Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward](http://arxiv.org/abs/2510.03222v1)** | 2025-10-03 |  |
+| **[Embedding Sustainability in Software Engineering Curriculum: A Case Study](http://arxiv.org/abs/2510.03321v1)** | 2025-10-01 | 11 pages |
 | **[Net-Zero 6G from Earth to Orbit: Sustainable Design of Integrated Terrestrial and Non-Terrestrial Networks](http://arxiv.org/abs/2510.00678v1)** | 2025-10-01 | <details><summary>Submi...</summary><p>Submitted to IEEE Communications Magazine</p></details> |
 | **[ThirstyFLOPS: Water Footprint Modeling and Analysis Toward Sustainable HPC Systems](http://arxiv.org/abs/2510.00471v1)** | 2025-10-01 |  |
 | **[Choosing a Model, Shaping a Future: Comparing LLM Perspectives on Sustainability and its Relationship with AI](http://arxiv.org/abs/2505.14435v2)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted for EMNLP Conference</p></details> |
@@ -1660,6 +1660,4 @@ labels: documentation
 | **[Sustaining Knowledge Infrastructures: Asking Questions and Listening for Answers](http://arxiv.org/abs/2502.19360v1)** | 2025-02-26 |  |
 | **[Towards Sustainable Web Agents: A Plea for Transparency and Dedicated Metrics for Energy Consumption](http://arxiv.org/abs/2502.17903v1)** | 2025-02-25 |  |
 | **[Teleology-Driven Affective Computing: A Causal Framework for Sustained Well-Being](http://arxiv.org/abs/2502.17172v1)** | 2025-02-24 | 24 pages, 7 figures |
-| **[Systematic Weight Evaluation for Pruning Large Language Models: Enhancing Performance and Sustainability](http://arxiv.org/abs/2502.17071v1)** | 2025-02-24 |  |
-| **[A Sustainable Circular Framework for Financing Infrastructure Climate Adaptation: Integrated Carbon Markets](http://arxiv.org/abs/2501.08004v2)** | 2025-02-24 | <details><summary>18 pa...</summary><p>18 pages,2 figures,99 references</p></details> |
 
