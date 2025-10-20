@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - October 20, 2025
+title: Latest 200 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -211,6 +211,7 @@ labels: documentation
 ## farming
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Poultry Farm Intelligence: An Integrated Multi-Sensor AI Platform for Enhanced Welfare and Productivity](http://arxiv.org/abs/2510.15757v1)** | 2025-10-17 |  |
 | **[Mapping Farmed Landscapes from Remote Sensing](http://arxiv.org/abs/2506.13993v2)** | 2025-10-16 |  |
 | **[Multi-Loop Design of Virtual Synchronous Machine Control for DFIG-Based Wind Farms](http://arxiv.org/abs/2510.05043v1)** | 2025-10-06 | <details><summary>Submi...</summary><p>Submitted for evaluation to Journal of Modern Power Systems and Clean Energy</p></details> |
 | **[Optimal Energy Management in Indoor Farming Using Lighting Flexibility and Intelligent Model Predictive Control](http://arxiv.org/abs/2510.03686v1)** | 2025-10-04 |  |
@@ -410,7 +411,6 @@ labels: documentation
 | **[Feedforward-Feedback wake redirection for wind farm control](http://arxiv.org/abs/2104.10737v1)** | 2021-04-21 |  |
 | **[Consideration of resilience for digital farming systems](http://arxiv.org/abs/2104.05287v1)** | 2021-04-12 |  |
 | **[Cybersecurity in Smart Farming: Canada Market Research](http://arxiv.org/abs/2104.05183v1)** | 2021-04-12 |  |
-| **[Active Power Control of Waked Wind Farms: Compensation of Turbine Saturation and Thrust Force Balance](http://arxiv.org/abs/2104.03894v1)** | 2021-04-08 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, This work has been accepted to ECC 2021 for publication under a Creative Commons Licence CC-BY-NC-ND</p></details> |
 
 ## crop
 | **Title** | **Date** | **Comment** |
@@ -619,6 +619,7 @@ labels: documentation
 ## weather
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph-based Neural Space Weather Forecasting](http://arxiv.org/abs/2509.19605v2)** | 2025-10-16 | <details><summary>20 pa...</summary><p>20 pages, 18 figures. Accepted to the NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences</p></details> |
 | **[From Binary to Bilingual: How the National Weather Service is Using Artificial Intelligence to Develop a Comprehensive Translation Program](http://arxiv.org/abs/2510.14369v1)** | 2025-10-16 |  |
 | **[Statistical post-processing yields accurate probabilistic forecasts from Artificial Intelligence weather models](http://arxiv.org/abs/2504.12672v2)** | 2025-10-15 |  |
 | **[Adversarial Attacks on Downstream Weather Forecasting Models: Application to Tropical Cyclone Trajectory Prediction](http://arxiv.org/abs/2510.10140v1)** | 2025-10-11 |  |
@@ -641,7 +642,6 @@ labels: documentation
 | **[Task-Adaptive Parameter-Efficient Fine-Tuning for Weather Foundation Models](http://arxiv.org/abs/2509.22020v1)** | 2025-09-26 |  |
 | **[Mesh Interpolation Graph Network for Dynamic and Spatially Irregular Global Weather Forecasting](http://arxiv.org/abs/2509.20911v1)** | 2025-09-25 | <details><summary>NeurI...</summary><p>NeurIPS 2025 main track</p></details> |
 | **[S$^2$Transformer: Scalable Structured Transformers for Global Station Weather Forecasting](http://arxiv.org/abs/2509.19648v2)** | 2025-09-25 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2509.18115</p></details> |
-| **[Graph-based Neural Space Weather Forecasting](http://arxiv.org/abs/2509.19605v1)** | 2025-09-23 | <details><summary>20 pa...</summary><p>20 pages, 18 figures. Accepted to the NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences</p></details> |
 | **[RoSe: Robust Self-supervised Stereo Matching under Adverse Weather Conditions](http://arxiv.org/abs/2509.19165v1)** | 2025-09-23 |  |
 | **[FastNet: Improving the physical consistency of machine-learning weather prediction models through loss function design](http://arxiv.org/abs/2509.17601v1)** | 2025-09-22 |  |
 | **[When Color-Space Decoupling Meets Diffusion for Adverse-Weather Image Restoration](http://arxiv.org/abs/2509.17024v1)** | 2025-09-21 |  |
@@ -1231,6 +1231,8 @@ labels: documentation
 ## plant
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Iterative Motion Compensation for Canonical 3D Reconstruction from UAV Plant Images Captured in Windy Conditions](http://arxiv.org/abs/2510.15491v1)** | 2025-10-17 |  |
+| **[Quantum-Key-Distribution Authenticated Aggregation and Settlement for Virtual Power Plants](http://arxiv.org/abs/2510.15239v1)** | 2025-10-17 |  |
 | **[Neural Network-enabled Domain-consistent Robust Optimisation for Global CO$_2$ Reduction Potential of Gas Power Plants](http://arxiv.org/abs/2510.14125v1)** | 2025-10-15 |  |
 | **[Robust Plant Disease Diagnosis with Few Target-Domain Samples](http://arxiv.org/abs/2510.12909v1)** | 2025-10-14 | <details><summary>7 pag...</summary><p>7 pages, 2 figures. Accepted at the IEEE International Conference on Visual Communications and Image Processing (VCIP) 2025. Extended version</p></details> |
 | **[Performance of Gaussian Boson Sampling on Planted Bipartite Clique Detection](http://arxiv.org/abs/2510.12774v1)** | 2025-10-14 |  |
@@ -1429,12 +1431,13 @@ labels: documentation
 | **[Fixed-Parameter Tractability of the (1+1) Evolutionary Algorithm on Random Planted Vertex Covers](http://arxiv.org/abs/2409.10144v1)** | 2024-09-16 |  |
 | **[A Dataset of the Operating Station Heat Rate for 806 Indian Coal Plant Units using Machine Learning](http://arxiv.org/abs/2410.00016v1)** | 2024-09-14 |  |
 | **[Impacts of EPA Power Plant Emissions Regulations on the US Electricity Sector](http://arxiv.org/abs/2409.08093v1)** | 2024-09-12 |  |
-| **[Low carbon optimal scheduling of integrated energy system considering waste heat utilization under the coordinated operation of incineration power plant and P2G](http://arxiv.org/abs/2409.07254v2)** | 2024-09-12 | <details><summary>Accep...</summary><p>Accepted by Acta Energiae Solaris Sinica, 9 pages, in Chinese language, 12 figures</p></details> |
-| **[Advanced Machine Learning Framework for Efficient Plant Disease Prediction](http://arxiv.org/abs/2409.05174v1)** | 2024-09-08 |  |
 
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Expediting Reinforcement Learning by Incorporating Knowledge About Temporal Causality in the Environment](http://arxiv.org/abs/2510.15456v1)** | 2025-10-17 | <details><summary>Pleas...</summary><p>Please cite the proceedings version. Source code: https://github.com/corazza/tcrl</p></details> |
+| **[Quantization-Based Score Calibration for Few-Shot Keyword Spotting with Dynamic Time Warping in Noisy Environments](http://arxiv.org/abs/2510.15432v1)** | 2025-10-17 |  |
+| **[An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment](http://arxiv.org/abs/2509.22550v3)** | 2025-10-17 |  |
 | **[STITCHER: Constrained Trajectory Planning in Known Environments with Real-Time Motion Primitive Search](http://arxiv.org/abs/2510.14893v1)** | 2025-10-16 |  |
 | **[Detecting Early and Implicit Suicidal Ideation via Longitudinal and Information Environment Signals on Social Media](http://arxiv.org/abs/2510.14889v1)** | 2025-10-16 |  |
 | **[Unifying Environment Perception and Route Choice Modeling for Trajectory Representation Learning](http://arxiv.org/abs/2510.14819v1)** | 2025-10-16 |  |
@@ -1504,7 +1507,6 @@ labels: documentation
 | **[Optimal Smooth Coverage Trajectory Planning for Quadrotors in Cluttered Environment](http://arxiv.org/abs/2510.03169v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the 44th Chinese Control Conference, 2025. Please cite the paper using appropriate formats</p></details> |
 | **[Learning Stability Certificate for Robotics in Real-World Environments](http://arxiv.org/abs/2510.03123v1)** | 2025-10-03 |  |
 | **[From Facts to Foils: Designing and Evaluating Counterfactual Explanations for Smart Environments](http://arxiv.org/abs/2510.03078v1)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted at Ex-ASE 2025, co-located with the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</p></details> |
-| **[An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment](http://arxiv.org/abs/2509.22550v2)** | 2025-10-03 |  |
 | **[Octax: Accelerated CHIP-8 Arcade Environments for Reinforcement Learning in JAX](http://arxiv.org/abs/2510.01764v2)** | 2025-10-03 |  |
 | **[EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments](http://arxiv.org/abs/2506.08136v2)** | 2025-10-03 |  |
 | **[Adversarial Reinforcement Learning for Offensive and Defensive Agents in a Simulated Zero-Sum Network Environment](http://arxiv.org/abs/2510.05157v1)** | 2025-10-03 | <details><summary>8 pag...</summary><p>8 pages, 5 tables, 5 figures. 12th International Conference on Next Generation Computing, Communication, Systems and Security</p></details> |
@@ -1633,8 +1635,6 @@ labels: documentation
 | **[The main factors in student satisfaction with a campus environment: A mixed approach vs. a quantitative approach](http://arxiv.org/abs/2509.10571v1)** | 2025-09-11 |  |
 | **[AEOS: Active Environment-aware Optimal Scanning Control for UAV LiDAR-Inertial Odometry in Complex Scenes](http://arxiv.org/abs/2509.09141v1)** | 2025-09-11 |  |
 | **[Dual-Stage Safe Herding Framework for Adversarial Attacker in Dynamic Environment](http://arxiv.org/abs/2509.08460v1)** | 2025-09-10 |  |
-| **[A Planning Strategy for Building a Heterogeneous Smart EM Environment](http://arxiv.org/abs/2509.08378v1)** | 2025-09-10 |  |
-| **[Visual Network Analysis in Immersive Environments: A Survey](http://arxiv.org/abs/2501.08500v2)** | 2025-09-10 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
