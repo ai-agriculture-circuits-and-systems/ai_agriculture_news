@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - December 08, 2025
+title: Latest 200 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -1226,6 +1226,7 @@ labels: documentation
 ## plant
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PLANesT-3D: A new annotated dataset for segmentation of 3D plant point clouds](https://arxiv.org/abs/2407.21150v2)** | 2025-12-05 |  |
 | **[ConMamba: Contrastive Vision Mamba for Plant Disease Detection](https://arxiv.org/abs/2506.03213v2)** | 2025-11-24 |  |
 | **[Rethinking Plant Disease Diagnosis: Bridging the Academic-Practical Gap with Vision Transformers and Zero-Shot Learning](https://arxiv.org/abs/2511.18989v1)** | 2025-11-24 |  |
 | **[A Diversity-optimized Deep Ensemble Approach for Accurate Plant Leaf Disease Detection](https://arxiv.org/abs/2511.16982v1)** | 2025-11-21 |  |
@@ -1418,7 +1419,6 @@ labels: documentation
 | **[Evaluating Neural Radiance Fields (NeRFs) for 3D Plant Geometry Reconstruction in Field Conditions](https://arxiv.org/abs/2402.10344v3)** | 2024-08-06 | <details><summary>Publi...</summary><p>Published in 'Plant Phenomics'</p></details> |
 | **[A study on general visual categorization of objects into animal and plant groups using global shape descriptors with a focus on category-specific deficits](https://arxiv.org/abs/1901.11398v3)** | 2024-08-05 | <details><summary>11 pa...</summary><p>11 pages, 7 Figures, 1 Table</p></details> |
 | **[Designing Harvesting Tools for Olive Trees: Methodological Reflections on Exploring and Incorporating Plant Perspectives in the Early Stages of Design Process](https://arxiv.org/abs/2407.21481v1)** | 2024-07-31 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 3 tables, The Design Journal</p></details> |
-| **[PLANesT-3D: A new annotated dataset for segmentation of 3D plant point clouds](https://arxiv.org/abs/2407.21150v1)** | 2024-07-30 |  |
 | **[A Fault Prognostic System for the Turbine Guide Bearings of a Hydropower Plant Using Long-Short Term Memory (LSTM)](https://arxiv.org/abs/2407.19040v1)** | 2024-07-26 | 8 figures, 3 tables |
 | **[Investigation to answer three key questions concerning plant pest identification and development of a practical identification framework](https://arxiv.org/abs/2407.18000v1)** | 2024-07-25 | 40 pages, 10 figures |
 | **[Hierarchical Object Detection and Recognition Framework for Practical Plant Disease Diagnosis](https://arxiv.org/abs/2407.17906v1)** | 2024-07-25 | 6 pages, 3 figures |
@@ -1430,6 +1430,9 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative AI in Simulation-Based Test Environments for Large-Scale Cyber-Physical Systems: An Industrial Study](https://arxiv.org/abs/2512.05507v1)** | 2025-12-05 | <details><summary>This ...</summary><p>This paper appears in the proceedings of the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025). For citations, please refer to the published version in the PROFES 2025 proceedings</p></details> |
+| **[Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments](https://arxiv.org/abs/2510.23928v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at ROBOVIS 2026</p></details> |
+| **[Can ChatGPT evaluate research environments? Evidence from REF2021](https://arxiv.org/abs/2512.05202v1)** | 2025-12-04 |  |
 | **[Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://arxiv.org/abs/2512.04987v1)** | 2025-12-04 |  |
 | **[Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels](https://arxiv.org/abs/2512.04966v1)** | 2025-12-04 | <details><summary>13 pa...</summary><p>13 pages, 13 figures, 40 references, submitted to IEEE for possible publication</p></details> |
 | **[HAFO: A Force-Adaptive Control Framework for Humanoid Robots in Intense Interaction Environments](https://arxiv.org/abs/2511.20275v3)** | 2025-12-04 |  |
@@ -1605,7 +1608,6 @@ labels: documentation
 | **[Trajectory Design for UAV-Based Low-Altitude Wireless Networks in Unknown Environments: A Digital Twin-Assisted TD3 Approach](https://arxiv.org/abs/2510.24255v1)** | 2025-10-28 | 13 pages, 11 figures |
 | **[HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment](https://arxiv.org/abs/2510.22917v2)** | 2025-10-28 | under review |
 | **[Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments](https://arxiv.org/abs/2510.23931v1)** | 2025-10-27 | 17 pages, 12 figures |
-| **[Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments](https://arxiv.org/abs/2510.23928v1)** | 2025-10-27 | <details><summary>Under...</summary><p>Under Review for ROBOVIS 2026</p></details> |
 | **[Coordinated Autonomous Drones for Human-Centered Fire Evacuation in Partially Observable Urban Environments](https://arxiv.org/abs/2510.23899v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted to IEEE Global Humanitarian Technology Conference (GHTC 2025). 8 pages, 4 figures</p></details> |
 | **[Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets](https://arxiv.org/abs/2510.25779v1)** | 2025-10-27 |  |
 | **[Multi-Environment POMDPs: Discrete Model Uncertainty Under Partial Observability](https://arxiv.org/abs/2510.23744v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
@@ -1628,12 +1630,11 @@ labels: documentation
 | **[Physics-Informed Neural Networks for MIMO Beam Map and Environment Reconstruction](https://arxiv.org/abs/2510.21238v1)** | 2025-10-24 |  |
 | **[Underwater Visual-Inertial-Acoustic-Depth SLAM with DVL Preintegration for Degraded Environments](https://arxiv.org/abs/2510.21215v1)** | 2025-10-24 | 10 pages, 10 figures |
 | **[Attestable Builds: Compiling Verifiable Binaries on Untrusted Systems using Trusted Execution Environments](https://arxiv.org/abs/2505.02521v2)** | 2025-10-24 |  |
-| **[Interpret Policies in Deep Reinforcement Learning using SILVER with RL-Guided Labeling: A Model-level Approach to High-dimensional and Multi-action Environments](https://arxiv.org/abs/2510.19244v2)** | 2025-10-24 |  |
-| **[RadioMapMotion: A Dataset and Baseline for Proactive Spatio-Temporal Radio Environment Prediction](https://arxiv.org/abs/2511.17526v1)** | 2025-10-24 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
 | **[Superstructure Optimization with Embedded Neural Networks for Sustainable Aviation Fuel Production](https://arxiv.org/abs/2509.09796v3)** | 2025-12-03 |  |
 | **[Core Hours and Carbon Credits: Incentivizing Sustainability in HPC](https://arxiv.org/abs/2501.09557v2)** | 2025-12-01 |  |
 | **[Injecting Sustainability in Software Architecture: A Rapid Review](https://arxiv.org/abs/2512.00106v1)** | 2025-11-27 | <details><summary>(Acce...</summary><p>(Accepted/In press) 10th IEEE/ACM International Workshop on Green and Sustainable Software (GREENS '26): GREENS@ICSE 2026</p></details> |
@@ -1748,7 +1749,6 @@ labels: documentation
 | **[ACCESS-AV: Adaptive Communication-Computation Codesign for Sustainable Autonomous Vehicle Localization in Smart Factories](https://arxiv.org/abs/2507.20399v1)** | 2025-07-27 | 28 pages, 9 figures |
 | **[Towards Sustainability Model Cards](https://arxiv.org/abs/2507.19559v1)** | 2025-07-25 |  |
 | **[Towards Autonomous Sustainability Assessment via Multimodal AI Agents](https://arxiv.org/abs/2507.17012v1)** | 2025-07-22 |  |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v1)** | 2025-07-21 |  |
 | **[Predict, Reposition, and Allocate: A Greedy and Flow-Based Architecture for Sustainable Urban Food Delivery](https://arxiv.org/abs/2507.15282v1)** | 2025-07-21 |  |
 | **[Holistic analysis on the sustainability of Federated Learning across AI product lifecycle](https://arxiv.org/abs/2312.14628v3)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted in ECAI 2025 (PAIS track)</p></details> |
 | **[ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum](https://arxiv.org/abs/2507.12032v1)** | 2025-07-16 |  |
