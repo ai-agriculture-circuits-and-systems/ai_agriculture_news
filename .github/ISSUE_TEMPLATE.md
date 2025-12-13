@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - December 13, 2025
+title: Latest 200 Papers - December 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -1229,7 +1229,7 @@ labels: documentation
 ## plant
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MULE - A Co-Generation Fission Power Plant Concept to Support Lunar In-Situ Resource Utilisation](https://arxiv.org/abs/2512.10705v1)** | 2025-12-11 |  |
+| **[MULE -- A Co-Generation Fission Power Plant Concept to Support Lunar In-Situ Resource Utilisation](https://arxiv.org/abs/2512.10705v1)** | 2025-12-11 |  |
 | **[StateSpace-SSL: Linear-Time Self-supervised Learning for Plant Disease Detection](https://arxiv.org/abs/2512.09492v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted to AAAI workshop (AgriAI 2026)</p></details> |
 | **[Learning to Infer Parameterized Representations of Plants from 3D Scans](https://arxiv.org/abs/2505.22337v2)** | 2025-12-10 |  |
 | **[PlantBiMoE: A Bidirectional Foundation Model with SparseMoE for Plant Genomes](https://arxiv.org/abs/2512.07113v1)** | 2025-12-08 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, accept to BIBM</p></details> |
