@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - December 15, 2025
+title: Latest 200 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -415,6 +415,7 @@ labels: documentation
 ## crop
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[General-purpose AI models can generate actionable knowledge on agroecological crop protection](https://arxiv.org/abs/2512.11474v1)** | 2025-12-12 | <details><summary>33 pa...</summary><p>33 pages, 3 figures, 3 tables, 1 supplementary table</p></details> |
 | **[Robust Crop Planning under Uncertainty: Aligning Economic Optimality with Agronomic Sustainability](https://arxiv.org/abs/2512.10396v1)** | 2025-12-11 |  |
 | **[Mind the Gap: Bridging Prior Shift in Realistic Few-Shot Crop-Type Classification](https://arxiv.org/abs/2511.16218v1)** | 2025-11-20 | 7 pages, 4 figures |
 | **[Crossmodal learning for Crop Canopy Trait Estimation](https://arxiv.org/abs/2511.16031v1)** | 2025-11-20 | 18 pages, 7 figures |
@@ -614,7 +615,6 @@ labels: documentation
 | **[Vision-Based Cranberry Crop Ripening Assessment](https://arxiv.org/abs/2309.00028v1)** | 2023-08-31 |  |
 | **[Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification](https://arxiv.org/abs/2308.15094v1)** | 2023-08-29 |  |
 | **[Cumulative Link Mixed-Effects Models in the Service of Remote Sensing Crop Progress Monitoring](https://arxiv.org/abs/2308.14520v1)** | 2023-08-28 |  |
-| **[Predicting Crop Yield With Machine Learning: An Extensive Analysis Of Input Modalities And Models On a Field and sub-field Level](https://arxiv.org/abs/2308.08948v1)** | 2023-08-17 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, 3 tables, IEEE IGARSS 2023</p></details> |
 
 ## weather
 | **Title** | **Date** | **Comment** |
@@ -823,6 +823,8 @@ labels: documentation
 ## climate
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models](https://arxiv.org/abs/2506.22552v6)** | 2025-12-12 |  |
+| **[Sensitivity Analysis for Climate Science with Generative Flow Models](https://arxiv.org/abs/2511.00663v3)** | 2025-12-12 |  |
 | **[Forecasting the Future with Yesterday's Climate: Temperature Bias in AI Weather and Climate Models](https://arxiv.org/abs/2509.22359v2)** | 2025-12-09 | 13 pages, 5 figures |
 | **[Framing Climate Change on YouTube: North-South Divides in Narratives and Public Engagement](https://arxiv.org/abs/2512.08183v1)** | 2025-12-09 |  |
 | **[Downscaling climate projections to 1 km with single-image super resolution](https://arxiv.org/abs/2509.21399v2)** | 2025-12-04 |  |
@@ -843,9 +845,7 @@ labels: documentation
 | **[VITA: Variational Pretraining of Transformers for Climate-Robust Crop Yield Forecasting](https://arxiv.org/abs/2508.03589v3)** | 2025-11-14 |  |
 | **[Quantifying Climate Policy Action and Its Links to Development Outcomes: A Cross-National Data-Driven Analysis](https://arxiv.org/abs/2510.17425v2)** | 2025-11-13 | <details><summary>This ...</summary><p>This paper/proposal has been accepted as a poster in the NeurIPS 2025</p></details> |
 | **[On the Estimation of Climate Normals and Anomalies](https://arxiv.org/abs/2511.05071v2)** | 2025-11-13 |  |
-| **[Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models](https://arxiv.org/abs/2506.22552v5)** | 2025-11-11 |  |
 | **[Climate Driven Interactions Between Malaria Transmission and Diabetes Prevalence](https://arxiv.org/abs/2511.08562v1)** | 2025-11-11 | 21 pages, 6 figures |
-| **[Sensitivity Analysis for Climate Science with Generative Flow Models](https://arxiv.org/abs/2511.00663v2)** | 2025-11-10 |  |
 | **[Characterizing AI Manipulation Risks in Brazilian YouTube Climate Discourse](https://arxiv.org/abs/2511.06091v1)** | 2025-11-08 | <details><summary>Accep...</summary><p>Accepted to the Special Track on AI for Social Impact at AAAI 2026</p></details> |
 | **[Quantifying the Climate Risk of Generative AI: Region-Aware Carbon Accounting with G-TRACE and the AI Sustainability Pyramid](https://arxiv.org/abs/2511.04776v1)** | 2025-11-06 | 27 page, 4 figures |
 | **[Deep Learning-Driven Downscaling for Climate Risk Assessment of Projected Temperature Extremes in the Nordic Region](https://arxiv.org/abs/2511.03770v1)** | 2025-11-05 |  |
@@ -1433,7 +1433,10 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment](https://arxiv.org/abs/2512.10206v1)** | 2025-12-11 |  |
+| **[The Emergence of Complex Behavior in Large-Scale Ecological Environments](https://arxiv.org/abs/2510.18221v3)** | 2025-12-12 | <details><summary>33 pa...</summary><p>33 pages, 23 figures, 12 tables, experiment code available at https://github.com/jbejjani2022/ecological-emergent-behavior</p></details> |
+| **[Multi-Docker-Eval: A `Shovel of the Gold Rush' Benchmark on Automatic Environment Building for Software Engineering](https://arxiv.org/abs/2512.06915v3)** | 2025-12-12 |  |
+| **[RoomPilot: Controllable Synthesis of Interactive Indoor Environments via Multimodal Semantic Parsing](https://arxiv.org/abs/2512.11234v1)** | 2025-12-12 | 20 pages, 6 figures |
+| **[CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment](https://arxiv.org/abs/2512.10206v2)** | 2025-12-12 |  |
 | **[ARE: Scaling Up Agent Environments and Evaluations](https://arxiv.org/abs/2509.17158v2)** | 2025-12-10 | <details><summary>Updat...</summary><p>Updated authors order and acknowledgement</p></details> |
 | **[SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://arxiv.org/abs/2512.10046v1)** | 2025-12-10 | <details><summary>Confe...</summary><p>Conference: NeurIPS 2025 (main)</p></details> |
 | **[SCOPE: Language Models as One-Time Teacher for Hierarchical Planning in Text Environments](https://arxiv.org/abs/2512.09897v1)** | 2025-12-10 |  |
@@ -1446,7 +1449,6 @@ labels: documentation
 | **[Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents](https://arxiv.org/abs/2512.08870v1)** | 2025-12-09 |  |
 | **[Obstacle Avoidance of UAV in Dynamic Environments Using Direction and Velocity-Adaptive Artificial Potential Field](https://arxiv.org/abs/2512.07609v2)** | 2025-12-09 |  |
 | **[Performance Comparison of Aerial RIS and STAR-RIS in 3D Wireless Environments](https://arxiv.org/abs/2512.08755v1)** | 2025-12-09 |  |
-| **[Multi-Docker-Eval: A `Shovel of the Gold Rush' Benchmark on Automatic Environment Building for Software Engineering](https://arxiv.org/abs/2512.06915v2)** | 2025-12-09 |  |
 | **[Adaptive Matched Filtering for Sensing With Communication Signals in Cluttered Environments](https://arxiv.org/abs/2512.08157v1)** | 2025-12-09 |  |
 | **[SimuHome: A Temporal- and Environment-Aware Benchmark for Smart Home LLM Agents](https://arxiv.org/abs/2509.24282v2)** | 2025-12-08 | 10 pages |
 | **[Agentic Artificial Intelligence for Ethical Cybersecurity in Uganda: A Reinforcement Learning Framework for Threat Detection in Resource-Constrained Environments](https://arxiv.org/abs/2512.07909v1)** | 2025-12-08 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 2 tables, 1 appendix</p></details> |
@@ -1470,6 +1472,7 @@ labels: documentation
 | **[AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://arxiv.org/abs/2511.19304v2)** | 2025-12-03 |  |
 | **[TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design](https://arxiv.org/abs/2506.19997v4)** | 2025-12-02 |  |
 | **[Multi-Agent Reinforcement Learning and Real-Time Decision-Making in Robotic Soccer for Virtual Environments](https://arxiv.org/abs/2512.03166v1)** | 2025-12-02 |  |
+| **[An Efficient Approach for Energy Conservation in Cloud Computing Environment](https://arxiv.org/abs/2512.10974v1)** | 2025-12-02 |  |
 | **[Forecasting in Offline Reinforcement Learning for Non-stationary Environments](https://arxiv.org/abs/2512.01987v2)** | 2025-12-02 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025</p></details> |
 | **[On the identifiability of causal graphs with multiple environments](https://arxiv.org/abs/2510.13583v2)** | 2025-12-02 | Preprint |
 | **[BoreaRL: A Multi-Objective Reinforcement Learning Environment for Climate-Adaptive Boreal Forest Management](https://arxiv.org/abs/2509.19846v2)** | 2025-12-02 |  |
@@ -1630,14 +1633,12 @@ labels: documentation
 | **[Local Performance vs. Out-of-Distribution Generalization: An Empirical Analysis of Personalized Federated Learning in Heterogeneous Data Environments](https://arxiv.org/abs/2510.24503v1)** | 2025-10-28 |  |
 | **[Concurrent-Allocation Task Execution for Multi-Robot Path-Crossing-Minimal Navigation in Obstacle Environments](https://arxiv.org/abs/2504.09230v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Robotics</p></details> |
 | **[Trajectory Design for UAV-Based Low-Altitude Wireless Networks in Unknown Environments: A Digital Twin-Assisted TD3 Approach](https://arxiv.org/abs/2510.24255v1)** | 2025-10-28 | 13 pages, 11 figures |
-| **[HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment](https://arxiv.org/abs/2510.22917v2)** | 2025-10-28 | under review |
-| **[Differential Privacy: Gradient Leakage Attacks in Federated Learning Environments](https://arxiv.org/abs/2510.23931v1)** | 2025-10-27 | 17 pages, 12 figures |
-| **[Coordinated Autonomous Drones for Human-Centered Fire Evacuation in Partially Observable Urban Environments](https://arxiv.org/abs/2510.23899v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted to IEEE Global Humanitarian Technology Conference (GHTC 2025). 8 pages, 4 figures</p></details> |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unified Smart Factory Model: A model-based Approach for Integrating Industry 4.0 and Sustainability for Manufacturing Systems](https://arxiv.org/abs/2512.10631v1)** | 2025-12-11 |  |
+| **[FT-MoE: Sustainable-learning Mixture of Experts for Fault-Tolerant Computing](https://arxiv.org/abs/2504.20446v2)** | 2025-12-12 |  |
+| **[Unified Smart Factory Model: A model-based Approach for Integrating Industry 4.0 and Sustainability for Manufacturing Systems](https://arxiv.org/abs/2512.10631v2)** | 2025-12-12 |  |
 | **[Robust Crop Planning under Uncertainty: Aligning Economic Optimality with Agronomic Sustainability](https://arxiv.org/abs/2512.10396v1)** | 2025-12-11 |  |
 | **[A data-driven approach to linking design features with manufacturing process data for sustainable product development](https://arxiv.org/abs/2512.09690v1)** | 2025-12-10 | <details><summary>This ...</summary><p>This is the preprint of a paper accepted for the CIRP Design Conference 2026</p></details> |
 | **[Democratizing ML for Enterprise Security: A Self-Sustained Attack Detection Framework](https://arxiv.org/abs/2512.08802v1)** | 2025-12-09 | <details><summary>publi...</summary><p>published in CAMLIS 2025, https://www.camlis.org/</p></details> |
@@ -1817,7 +1818,6 @@ labels: documentation
 | **[CarbonCall: Sustainability-Aware Function Calling for Large Language Models on Edge Devices](https://arxiv.org/abs/2504.20348v2)** | 2025-05-02 |  |
 | **[SustainDC: Benchmarking for Sustainable Data Center Control](https://arxiv.org/abs/2408.07841v5)** | 2025-04-30 | <details><summary>Accep...</summary><p>Accepted at Advances in Neural Information Processing Systems 2024 (NeurIPS 2024)</p></details> |
 | **[Safe to Stay: Psychological Safety Sustains Participation in Pull-based Open Source Projects](https://arxiv.org/abs/2504.17510v2)** | 2025-04-29 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[FT-MoE: Sustainable-learning Mixture of Experts Model for Fault-Tolerant Computing with Multiple Tasks](https://arxiv.org/abs/2504.20446v1)** | 2025-04-29 |  |
 | **[Snakemaker: Seamlessly transforming ad-hoc analyses into sustainable Snakemake workflows with generative AI](https://arxiv.org/abs/2505.02841v1)** | 2025-04-26 |  |
 | **[Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics](https://arxiv.org/abs/2504.11341v2)** | 2025-04-24 |  |
 | **[Building Sustainable and Trustworthy Indigenous Knowledge Preservation Ecosystem](https://arxiv.org/abs/2504.17281v1)** | 2025-04-24 |  |
