@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - December 31, 2025
+title: Latest 200 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
