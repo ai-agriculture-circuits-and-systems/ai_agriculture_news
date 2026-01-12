@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - January 12, 2026
+title: Latest 200 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -619,6 +619,7 @@ labels: documentation
 ## weather
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AWaRe-SAC: Proactive Slice Admission Control under Weather-Induced Capacity Uncertainty](https://arxiv.org/abs/2601.05978v1)** | 2026-01-09 |  |
 | **[Making Tunable Parameters State-Dependent in Weather and Climate Models with Reinforcement Learning](https://arxiv.org/abs/2601.04268v1)** | 2026-01-07 | 66 pages, 22 figures |
 | **[Probabilistic Transformers for Joint Modeling of Global Weather Dynamics and Decision-Centric Variables](https://arxiv.org/abs/2601.03753v1)** | 2026-01-07 |  |
 | **[WeatherDiffusion: Controllable Weather Editing in Intrinsic Space](https://arxiv.org/abs/2508.06982v5)** | 2026-01-07 |  |
@@ -818,7 +819,6 @@ labels: documentation
 | **[Turning Up the Heat: Assessing 2-m Temperature Forecast Errors in AI Weather Prediction Models During Heat Waves](https://arxiv.org/abs/2504.21195v1)** | 2025-04-29 |  |
 | **[Testing the Limit of Atmospheric Predictability with a Machine Learning Weather Model](https://arxiv.org/abs/2504.20238v1)** | 2025-04-28 |  |
 | **[ClimaEmpact: Domain-Aligned Small Language Models and Datasets for Extreme Weather Analytics](https://arxiv.org/abs/2504.19066v1)** | 2025-04-27 |  |
-| **[Adversarial Observations in Weather Forecasting](https://arxiv.org/abs/2504.15942v1)** | 2025-04-22 |  |
 
 ## climate
 | **Title** | **Date** | **Comment** |
@@ -1230,6 +1230,8 @@ labels: documentation
 ## plant
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Planted Structure in Circular Data](https://arxiv.org/abs/2601.05993v1)** | 2026-01-09 | 33 pages, 1 figure |
+| **[Multi-Image Super Resolution Framework for Detection and Analysis of Plant Roots](https://arxiv.org/abs/2601.05482v1)** | 2026-01-09 |  |
 | **[Meta-Learning Guided Pruning for Few-Shot Plant Pathology on Edge Devices](https://arxiv.org/abs/2601.02353v1)** | 2026-01-05 |  |
 | **[Industrial Ouroboros: Deep Lateral Movement via Living Off the Plant](https://arxiv.org/abs/2512.21248v2)** | 2025-12-29 |  |
 | **[Don't Pay Attention, PLANT It: Pretraining Attention via Learning-to-Rank](https://arxiv.org/abs/2410.23066v4)** | 2025-12-26 |  |
@@ -1428,12 +1430,13 @@ labels: documentation
 | **[Residual-based Attention Physics-informed Neural Networks for Spatio-Temporal Ageing Assessment of Transformers Operated in Renewable Power Plants](https://arxiv.org/abs/2405.06443v2)** | 2024-10-03 | 23 pages, 18 figures |
 | **[A Novel Feature Extraction Model for the Detection of Plant Disease from Leaf Images in Low Computational Devices](https://arxiv.org/abs/2410.01854v1)** | 2024-10-01 | <details><summary>10 Pa...</summary><p>10 Pages, 8 figures, 1 table</p></details> |
 | **[A Knowledge-Informed Large Language Model Framework for U.S. Nuclear Power Plant Shutdown Initiating Event Classification for Probabilistic Risk Assessment](https://arxiv.org/abs/2410.00929v1)** | 2024-09-30 |  |
-| **[Automated Disease Diagnosis in Pumpkin Plants Using Advanced CNN Models](https://arxiv.org/abs/2410.00062v1)** | 2024-09-29 | 10 pages, 8 figures |
-| **[Plant Robots: Harnessing Growth Actuation of Plants for Locomotion and Object Manipulation](https://arxiv.org/abs/2407.16162v3)** | 2024-09-26 | 16 pages, 4 figures |
 
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents](https://arxiv.org/abs/2601.05899v1)** | 2026-01-09 | AAAI 2026 Oral |
+| **[EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis](https://arxiv.org/abs/2601.05808v1)** | 2026-01-09 | Working in progress |
+| **[MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis](https://arxiv.org/abs/2601.05483v1)** | 2026-01-09 |  |
 | **[Safe Continual Reinforcement Learning Methods for Nonstationary Environments. Towards a Survey of the State of the Art](https://arxiv.org/abs/2601.05152v1)** | 2026-01-08 | 20 pages, 4 figures |
 | **[SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning](https://arxiv.org/abs/2601.04809v1)** | 2026-01-08 | 19 pages,5 figures |
 | **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v2)** | 2026-01-08 | Work In Progress |
@@ -1631,13 +1634,11 @@ labels: documentation
 | **[Evaluating Multimodal Large Language Models with Daily Composite Tasks in Home Environments](https://arxiv.org/abs/2509.17425v2)** | 2025-11-20 |  |
 | **[SPHaptics: A Real-Time Bidirectional Haptic Interaction Framework for Coupled Rigid-Soft Body and Lagrangian Fluid Simulation in Virtual Environments](https://arxiv.org/abs/2511.15908v1)** | 2025-11-19 | 9 pages, 9 figures |
 | **[RRT*former: Environment-Aware Sampling-Based Motion Planning using Transformer](https://arxiv.org/abs/2511.15414v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[Terra Nova: A Comprehensive Challenge Environment for Intelligent Agents](https://arxiv.org/abs/2511.15378v1)** | 2025-11-19 |  |
-| **[Platform-Agnostic Reinforcement Learning Framework for Safe Exploration of Cluttered Environments with Graph Attention](https://arxiv.org/abs/2511.15358v1)** | 2025-11-19 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, submitted to the 2026 IEEE International Conference on Robotics & Automation</p></details> |
-| **[Path Planning through Multi-Agent Reinforcement Learning in Dynamic Environments](https://arxiv.org/abs/2511.15284v1)** | 2025-11-19 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leader-driven or Leaderless: How Participation Structure Sustains Engagement and Shapes Narratives in Online Hate Communities](https://arxiv.org/abs/2512.12441v3)** | 2026-01-09 |  |
 | **[The unsuitability of existing regulations to reach sustainable AI](https://arxiv.org/abs/2601.04958v1)** | 2026-01-08 |  |
 | **[Feasibility Study Regarding Self-sustainable Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2601.04723v1)** | 2026-01-08 | <details><summary>5page...</summary><p>5pages, 3 figures, submitted and accepted by IEEE Wireless Communication Letter</p></details> |
 | **[Legitimizing, Developing, and Sustaining Feminist HCI in East Asia: Challenges and Opportunities](https://arxiv.org/abs/2512.13000v3)** | 2026-01-07 | <details><summary>The p...</summary><p>The proposal was accepted by CHI2026 meet-up track; and will be published in Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26)</p></details> |
@@ -1648,7 +1649,6 @@ labels: documentation
 | **[AI-Driven Green Cognitive Radio Networks for Sustainable 6G Communication](https://arxiv.org/abs/2512.20739v1)** | 2025-12-23 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Full research article with MATLAB and NS-3 simulations</p></details> |
 | **[Spatio-Temporal Graph Neural Networks for Dairy Farm Sustainability Forecasting and Counterfactual Policy Analysis](https://arxiv.org/abs/2512.19970v1)** | 2025-12-23 |  |
 | **[Empirical and Sustainability Aspects of Software Engineering Research in the Era of Large Language Models: A Reflection](https://arxiv.org/abs/2510.26538v2)** | 2025-12-19 | <details><summary>5 pag...</summary><p>5 pages, Camera Ready Accepted at ICSE-NIER 2026</p></details> |
-| **[Leader-driven or Leaderless: How Participation Structure Sustains Engagement and Shapes Narratives in Online Hate Communities](https://arxiv.org/abs/2512.12441v2)** | 2025-12-17 |  |
 | **[Reconsidering Conversational Norms in LLM Chatbots for Sustainable AI](https://arxiv.org/abs/2512.14673v1)** | 2025-12-16 |  |
 | **[EcoScapes: LLM-Powered Advice for Crafting Sustainable Cities](https://arxiv.org/abs/2512.14373v1)** | 2025-12-16 |  |
 | **[CogMem: A Cognitive Memory Architecture for Sustained Multi-Turn Reasoning in Large Language Models](https://arxiv.org/abs/2512.14118v1)** | 2025-12-16 | underreview |
