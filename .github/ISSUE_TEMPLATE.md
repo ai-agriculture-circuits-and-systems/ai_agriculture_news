@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - January 15, 2026
+title: Latest 200 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -619,6 +619,7 @@ labels: documentation
 ## weather
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Searth Transformer: A Transformer Architecture Incorporating Earth's Geospheric Physical Priors for Global Mid-Range Weather Forecasting](https://arxiv.org/abs/2601.09467v1)** | 2026-01-14 |  |
 | **[Efficient Parameter Calibration of Numerical Weather Prediction Models via Evolutionary Sequential Transfer Optimization](https://arxiv.org/abs/2601.08663v1)** | 2026-01-13 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 4 tables</p></details> |
 | **[Hybrid SARIMA LSTM Model for Local Weather Forecasting: A Residual Learning Approach for Data Driven Meteorological Prediction](https://arxiv.org/abs/2601.07951v1)** | 2026-01-12 |  |
 | **[AWaRe-SAC: Proactive Slice Admission Control under Weather-Induced Capacity Uncertainty](https://arxiv.org/abs/2601.05978v1)** | 2026-01-09 |  |
@@ -818,7 +819,6 @@ labels: documentation
 | **[CoDiCast: Conditional Diffusion Model for Global Weather Prediction with Uncertainty Quantification](https://arxiv.org/abs/2409.05975v4)** | 2025-05-02 | 18 pages, 15 figures |
 | **[Neural and Time-Series Approaches for Pricing Weather Derivatives: Performance and Regime Adaptation Using Satellite Data](https://arxiv.org/abs/2411.12013v2)** | 2025-05-02 | 23 pages, 31 figures |
 | **[ClearVision: Leveraging CycleGAN and SigLIP-2 for Robust All-Weather Classification in Traffic Camera Imagery](https://arxiv.org/abs/2504.19684v2)** | 2025-05-01 |  |
-| **[Turning Up the Heat: Assessing 2-m Temperature Forecast Errors in AI Weather Prediction Models During Heat Waves](https://arxiv.org/abs/2504.21195v1)** | 2025-04-29 |  |
 
 ## climate
 | **Title** | **Date** | **Comment** |
@@ -1434,6 +1434,17 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](https://arxiv.org/abs/2504.11901v4)** | 2026-01-14 | <details><summary>Causa...</summary><p>Causal Discovery and Inference - Robot Autonomy - Human-Robot Spatial Interaction - Decision-Making</p></details> |
+| **[Environment as Policy: Learning to Race in Unseen Tracks](https://arxiv.org/abs/2410.22308v3)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Robotics and Automation (ICRA), 2025</p></details> |
+| **[What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding](https://arxiv.org/abs/2601.09503v1)** | 2026-01-14 |  |
+| **[SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning](https://arxiv.org/abs/2601.04809v2)** | 2026-01-14 | 19 pages,5 figures |
+| **[Data Scaling for Navigation in Unknown Environments](https://arxiv.org/abs/2601.09444v1)** | 2026-01-14 |  |
+| **[Long-term Task-oriented Agent: Proactive Long-term Intent Maintenance in Dynamic Environments](https://arxiv.org/abs/2601.09382v1)** | 2026-01-14 | 8 pages, 2 figures |
+| **[Where Did I Leave My Glasses? Open-Vocabulary Semantic Exploration in Real-World Semi-Static Environments](https://arxiv.org/abs/2509.19851v2)** | 2026-01-14 |  |
+| **[REML implementations of kernel-based genomic prediction models for genotype x environment x management interactions](https://arxiv.org/abs/2501.06844v2)** | 2026-01-14 |  |
+| **[Feedback-Based Mobile Robot Navigation in 3-D Environments Using Artificial Potential Functions Technical Report](https://arxiv.org/abs/2601.09318v1)** | 2026-01-14 |  |
+| **[Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](https://arxiv.org/abs/2601.09111v1)** | 2026-01-14 |  |
+| **[The Hierarchy of Agentic Capabilities: Evaluating Frontier Models on Realistic RL Environments](https://arxiv.org/abs/2601.09032v1)** | 2026-01-13 |  |
 | **[Tailored Immersive Environments: Advancing Neurodivergent Support Through Virtual Reality](https://arxiv.org/abs/2601.08652v1)** | 2026-01-13 |  |
 | **[Large Language Models to Enhance Multi-task Drone Operations in Simulated Environments](https://arxiv.org/abs/2601.08405v1)** | 2026-01-13 | <details><summary>1st I...</summary><p>1st International Conference on Drones and Unmanned Systems (DAUS' 2025)</p></details> |
 | **[StackPilot: Autonomous Function Agents for Scalable and Environment-Free Code Execution](https://arxiv.org/abs/2508.11665v2)** | 2026-01-13 | <details><summary>This ...</summary><p>This method needs to be reconsidered and there is something wrong with experiment</p></details> |
@@ -1461,10 +1472,10 @@ labels: documentation
 | **[FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments](https://arxiv.org/abs/2601.07853v1)** | 2026-01-09 |  |
 | **[MMUEChange: A Generalized LLM Agent Framework for Intelligent Multi-Modal Urban Environment Change Analysis](https://arxiv.org/abs/2601.05483v1)** | 2026-01-09 |  |
 | **[Safe Continual Reinforcement Learning Methods for Nonstationary Environments. Towards a Survey of the State of the Art](https://arxiv.org/abs/2601.05152v1)** | 2026-01-08 | 20 pages, 4 figures |
-| **[SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning](https://arxiv.org/abs/2601.04809v1)** | 2026-01-08 | 19 pages,5 figures |
 | **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v2)** | 2026-01-08 | Work In Progress |
 | **[Trade-R1: Bridging Verifiable Rewards to Stochastic Environments via Process-Level Reasoning Verification](https://arxiv.org/abs/2601.03948v2)** | 2026-01-08 |  |
 | **[S2Vec: Self-Supervised Geospatial Embeddings for the Built Environment](https://arxiv.org/abs/2504.16942v2)** | 2026-01-07 |  |
+| **[EZInput: A Cross-Environment Python Library for Easy UI Generation in Scientific Computing](https://arxiv.org/abs/2601.08859v1)** | 2026-01-07 |  |
 | **[PhysDepth: Plug-and-Play Physical Refinement for Monocular Depth Estimation in Challenging Environments](https://arxiv.org/abs/2412.04666v3)** | 2026-01-07 |  |
 | **[WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks](https://arxiv.org/abs/2601.02439v2)** | 2026-01-07 | <details><summary>Sligh...</summary><p>Slightly modified format; added Table 3 for better illustration of the scaling results</p></details> |
 | **[I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing](https://arxiv.org/abs/2601.03741v1)** | 2026-01-07 |  |
@@ -1623,22 +1634,12 @@ labels: documentation
 | **[SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments](https://arxiv.org/abs/2511.23465v1)** | 2025-11-28 |  |
 | **[Zero-Shot Multi-Criteria Visual Quality Inspection for Semi-Controlled Industrial Environments via Real-Time 3D Digital Twin Simulation](https://arxiv.org/abs/2511.23214v1)** | 2025-11-28 |  |
 | **[LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system](https://arxiv.org/abs/2511.22598v1)** | 2025-11-27 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, ICICN 2025</p></details> |
-| **[SwordRiding: A Unified Navigation Framework for Quadrotors in Unknown Complex Environments via Online Guiding Vector Fields](https://arxiv.org/abs/2511.22043v1)** | 2025-11-27 | <details><summary>For a...</summary><p>For an experimental demo, see https://www.youtube.com/watch?v=tKYCg266c4o. For the lemma proof, see https://github.com/SmartGroupSystems/GVF_close_loop_planning/blob/main/proofs.md</p></details> |
-| **[Model-Based Reward Shaping for Adversarial Inverse Reinforcement Learning in Stochastic Environments](https://arxiv.org/abs/2410.03847v2)** | 2025-11-26 |  |
-| **[MarketGen: A Scalable Simulation Platform with Auto-Generated Embodied Supermarket Environments](https://arxiv.org/abs/2511.21161v1)** | 2025-11-26 | <details><summary>Proje...</summary><p>Project Page: https://xuhu0529.github.io/MarketGen</p></details> |
-| **[Staggered Environment Resets Improve Massively Parallel On-Policy Reinforcement Learning](https://arxiv.org/abs/2511.21011v1)** | 2025-11-26 |  |
-| **[MAPF-HD: Multi-Agent Path Finding in High-Density Environments](https://arxiv.org/abs/2509.06374v2)** | 2025-11-26 | 9 pages, 12 figures |
-| **[SPHINX: A Synthetic Environment for Visual Perception and Reasoning](https://arxiv.org/abs/2511.20814v1)** | 2025-11-25 |  |
-| **[OpenApps: Simulating Environment Variations to Measure UI-Agent Reliability](https://arxiv.org/abs/2511.20766v1)** | 2025-11-25 |  |
-| **[OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://arxiv.org/abs/2509.26536v2)** | 2025-11-25 | Work in progress |
-| **[Energy Costs and Neural Complexity Evolution in Changing Environments](https://arxiv.org/abs/2511.20018v1)** | 2025-11-25 | <details><summary>Prese...</summary><p>Presented at ALIFE 2025, proceedings forthcoming (MIT Press)</p></details> |
-| **[Multi-Context Fusion Transformer for Pedestrian Crossing Intention Prediction in Urban Environments](https://arxiv.org/abs/2511.20011v1)** | 2025-11-25 |  |
-| **[Real-Time Object Tracking with On-Device Deep Learning for Adaptive Beamforming in Dynamic Acoustic Environments](https://arxiv.org/abs/2511.19396v1)** | 2025-11-24 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance](https://arxiv.org/abs/2601.08676v1)** | 2026-01-13 |  |
+| **[Analysis of the Maximum Prediction Gain of Short-Term Prediction on Sustained Speech](https://arxiv.org/abs/2601.09461v1)** | 2026-01-14 | <details><summary>Rejec...</summary><p>Rejected at Eurasip for practical irrelevancy. Submitted here for reference. Originally accepted at DCC 2020 (Poster) but withdrawn due to page count limit</p></details> |
+| **[Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance](https://arxiv.org/abs/2601.08676v2)** | 2026-01-14 |  |
 | **[Power Assumptions Matter: Evaluating End-user Laptop Energy Models for Sustainability Reporting of Browser-Based Web Services](https://arxiv.org/abs/2510.12566v2)** | 2026-01-13 |  |
 | **[Solutions for Sustainable and Resilient Communication Infrastructure in Disaster Relief and Management Scenarios](https://arxiv.org/abs/2410.13977v2)** | 2026-01-11 | <details><summary>32 pa...</summary><p>32 pages, accepted and published by IEEE COMST</p></details> |
 | **[C-EQ-ALINEA: Distributed, Coordinated, and Equitable Ramp Metering Strategy for Sustainable Freeway Operations](https://arxiv.org/abs/2601.06311v1)** | 2026-01-09 |  |
@@ -1837,5 +1838,4 @@ labels: documentation
 | **[EcoWeedNet: A Lightweight and Automated Weed Detection Method for Sustainable Next-Generation Agricultural Consumer Electronics](https://arxiv.org/abs/2502.00205v2)** | 2025-05-07 |  |
 | **[CLEAR: Cue Learning using Evolution for Accurate Recognition Applied to Sustainability Data Extraction](https://arxiv.org/abs/2501.18504v3)** | 2025-05-07 | <details><summary>9 pag...</summary><p>9 pages plus 2 pages of supplemental material</p></details> |
 | **[Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2505.03721v1)** | 2025-05-06 |  |
-| **[CarbonCall: Sustainability-Aware Function Calling for Large Language Models on Edge Devices](https://arxiv.org/abs/2504.20348v2)** | 2025-05-02 |  |
 
