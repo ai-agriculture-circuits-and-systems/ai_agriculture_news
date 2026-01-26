@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - January 26, 2026
+title: Latest 200 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## agriculture
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture](https://arxiv.org/abs/2601.16405v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted by RACS '25: International Conference on Research in Adaptive and Convergent Systems, November 16-19, 2025, Ho Chi Minh, Vietnam. 10 pages, 5 figures</p></details> |
 | **[The Promise of Time-Series Foundation Models for Agricultural Forecasting: Evidence from Commodity Prices](https://arxiv.org/abs/2601.06371v2)** | 2026-01-18 |  |
 | **[AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Agriculture Mapping](https://arxiv.org/abs/2505.21357v3)** | 2026-01-15 |  |
 | **[AgriAgent: Contract-Driven Planning and Capability-Aware Tool Orchestration in Real-World Agriculture](https://arxiv.org/abs/2601.08308v1)** | 2026-01-13 |  |
@@ -206,7 +207,6 @@ labels: documentation
 | **[AgroXAI: Explainable AI-Driven Crop Recommendation System for Agriculture 4.0](https://arxiv.org/abs/2412.16196v1)** | 2024-12-16 | <details><summary>Accep...</summary><p>Accepted in 2024 IEEE International Conference on Big Data (IEEE BigData), 10 pages, 9 Figures, 5 Tables</p></details> |
 | **[Agro-STAY : Collecte de données et analyse des informations en agriculture alternative issues de YouTube](https://arxiv.org/abs/2412.10576v1)** | 2024-12-13 | <details><summary>8 pag...</summary><p>8 pages, in French language, 3 figures</p></details> |
 | **[Agri-LLaVA: Knowledge-Infused Large Multimodal Assistant on Agricultural Pests and Diseases](https://arxiv.org/abs/2412.02158v2)** | 2024-12-04 |  |
-| **[Adaptive LiDAR Odometry and Mapping for Autonomous Agricultural Mobile Robots in Unmanned Farms](https://arxiv.org/abs/2412.02899v1)** | 2024-12-03 |  |
 
 ## farming
 | **Title** | **Date** | **Comment** |
@@ -415,6 +415,7 @@ labels: documentation
 ## crop
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Embedding -based Crop Type Classification in the Groundnut Basin of Senegal](https://arxiv.org/abs/2601.16900v1)** | 2026-01-23 |  |
 | **[CropCraft: Complete Structural Characterization of Crop Plants From Images](https://arxiv.org/abs/2411.09693v2)** | 2026-01-22 | <details><summary>3DV 2...</summary><p>3DV 2026 (Oral). Project page: https://ajzhai.github.io/CropCraft</p></details> |
 | **[AgriPINN: A Process-Informed Neural Network for Interpretable and Scalable Crop Biomass Prediction Under Water Stress](https://arxiv.org/abs/2601.16045v1)** | 2026-01-22 |  |
 | **[The impact of abnormal temperatures on crop yields in Italy: a functional quantile regression approach](https://arxiv.org/abs/2601.12864v1)** | 2026-01-19 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 3 tables</p></details> |
@@ -614,7 +615,6 @@ labels: documentation
 | **[CROP: Conservative Reward for Model-based Offline Policy Optimization](https://arxiv.org/abs/2310.17245v1)** | 2023-10-26 |  |
 | **[Image Cropping under Design Constraints](https://arxiv.org/abs/2310.08892v1)** | 2023-10-13 | ACMMM Asia accepted |
 | **[Hierarchical Mask2Former: Panoptic Segmentation of Crops, Weeds and Leaves](https://arxiv.org/abs/2310.06582v1)** | 2023-10-10 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables, for code, see https://github.com/madeleinedarbyshire/HierarchicalMask2Former</p></details> |
-| **[XAI for Early Crop Classification](https://arxiv.org/abs/2310.06574v1)** | 2023-10-10 |  |
 
 ## weather
 | **Title** | **Date** | **Comment** |
@@ -823,6 +823,7 @@ labels: documentation
 ## climate
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Long-Term Probabilistic Forecast of Vegetation Conditions Using Climate Attributes in the Four Corners Region](https://arxiv.org/abs/2601.16347v1)** | 2026-01-22 |  |
 | **[Multimodal Climate Disinformation Detection: Integrating Vision-Language Models with External Knowledge Sources](https://arxiv.org/abs/2601.16108v1)** | 2026-01-22 |  |
 | **[THOR: A Versatile Foundation Model for Earth Observation Climate and Society Applications](https://arxiv.org/abs/2601.16011v1)** | 2026-01-22 | 25 pages |
 | **[Field-Space Autoencoder for Scalable Climate Emulators](https://arxiv.org/abs/2601.15102v1)** | 2026-01-21 |  |
@@ -1022,7 +1023,6 @@ labels: documentation
 | **[Climplicit: Climatic Implicit Embeddings for Global Ecological Tasks](https://arxiv.org/abs/2504.05089v2)** | 2025-04-14 | <details><summary>Publi...</summary><p>Published as a workshop paper at "Tackling Climate Change with Machine Learning", ICLR 2025</p></details> |
 | **[Using Reinforcement Learning to Integrate Subjective Wellbeing into Climate Adaptation Decision Making](https://arxiv.org/abs/2504.10031v1)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted for presentation at Tackling Climate Change with Machine Learning workshop at ICLR 2025</p></details> |
 | **[TigerGPT: A New AI Chatbot for Adaptive Campus Climate Surveys](https://arxiv.org/abs/2504.13925v1)** | 2025-04-11 |  |
-| **[LUCIE: A Lightweight Uncoupled ClImate Emulator with long-term stability and physical consistency for O(1000)-member ensembles](https://arxiv.org/abs/2405.16297v3)** | 2025-04-10 |  |
 
 ## soil
 | **Title** | **Date** | **Comment** |
@@ -1434,6 +1434,11 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://arxiv.org/abs/2601.16973v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project page: https://visgym.github.io/</p></details> |
+| **[Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](https://arxiv.org/abs/2507.04037v4)** | 2026-01-23 |  |
+| **[EvoConfig: Self-Evolving Multi-Agent Systems for Efficient Autonomous Environment Configuration](https://arxiv.org/abs/2601.16489v1)** | 2026-01-23 |  |
+| **[Endless Terminals: Scaling RL Environments for Terminal Agents](https://arxiv.org/abs/2601.16443v1)** | 2026-01-23 |  |
+| **[GR3EN: Generative Relighting for 3D Environments](https://arxiv.org/abs/2601.16272v1)** | 2026-01-22 | <details><summary>proje...</summary><p>project page: https://gr3en-relight.github.io/</p></details> |
 | **[Sign Language-Based versus Touch-Based Input for Deaf Users with Interactive Personal Assistants in Simulated Kitchen Environments](https://arxiv.org/abs/2404.14610v2)** | 2026-01-22 | <details><summary>To ap...</summary><p>To appear in Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, CHI EA 2024, May 11-16, 2024, Honolulu, HI, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3613905.3651075</p></details> |
 | **[SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration](https://arxiv.org/abs/2512.10046v2)** | 2026-01-22 | <details><summary>Confe...</summary><p>Conference: NeurIPS 2025 (main)</p></details> |
 | **[You May Use the Same Channel Knowledge Map for Environment-Aware NLoS Sensing and Communication](https://arxiv.org/abs/2507.03589v2)** | 2026-01-22 |  |
@@ -1444,7 +1449,6 @@ labels: documentation
 | **[Neural Tracking of Sustained Attention, Attention Switching, and Natural Conversation in Audiovisual Environments using Mobile EEG](https://arxiv.org/abs/2601.15097v1)** | 2026-01-21 | <details><summary>Submi...</summary><p>Submitted to European Journal of Neuroscience</p></details> |
 | **[ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan](https://arxiv.org/abs/2601.07303v4)** | 2026-01-21 |  |
 | **[Improving Regret Approximation for Unsupervised Dynamic Environment Generation](https://arxiv.org/abs/2601.14957v1)** | 2026-01-21 |  |
-| **[Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](https://arxiv.org/abs/2507.04037v3)** | 2026-01-21 |  |
 | **[HCVR Scene Generation: High Compatibility Virtual Reality Environment Generation for Extended Redirected Walking](https://arxiv.org/abs/2601.14679v1)** | 2026-01-21 |  |
 | **[SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation](https://arxiv.org/abs/2601.14615v1)** | 2026-01-21 |  |
 | **[Evaluating Preattentive Features for Detecting Changes in Virtual Environments](https://arxiv.org/abs/2601.14561v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper has been accepted for the IEEE VR conference</p></details> |
@@ -1630,10 +1634,6 @@ labels: documentation
 | **[Trajectory Optimization for Cellular-Connected UAV in Complex Environment with Partial CKM](https://arxiv.org/abs/2512.06452v1)** | 2025-12-06 |  |
 | **[Defending Event-Triggered Systems against Out-of-Envelope Environments](https://arxiv.org/abs/2512.06331v1)** | 2025-12-06 | <details><summary>Publi...</summary><p>Published at the RTAutoSec Workshop, which was co-located to ECRTS 2025</p></details> |
 | **[Generative AI in Simulation-Based Test Environments for Large-Scale Cyber-Physical Systems: An Industrial Study](https://arxiv.org/abs/2512.05507v1)** | 2025-12-05 | <details><summary>This ...</summary><p>This paper appears in the proceedings of the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025). For citations, please refer to the published version in the PROFES 2025 proceedings</p></details> |
-| **[The Reproducible Research Platform establishes a unified open science environment bridging data and software lifecycles across disciplines, from proposal to publication](https://arxiv.org/abs/2512.06039v1)** | 2025-12-04 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 10 extended data figures and 2 tables</p></details> |
-| **[Can ChatGPT evaluate research environments? Evidence from REF2021](https://arxiv.org/abs/2512.05202v1)** | 2025-12-04 |  |
-| **[Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://arxiv.org/abs/2512.04987v1)** | 2025-12-04 |  |
-| **[Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels](https://arxiv.org/abs/2512.04966v1)** | 2025-12-04 | <details><summary>13 pa...</summary><p>13 pages, 13 figures, 40 references, submitted to IEEE for possible publication</p></details> |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
