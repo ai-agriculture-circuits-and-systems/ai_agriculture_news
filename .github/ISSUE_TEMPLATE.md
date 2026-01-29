@@ -1,5 +1,5 @@
 ---
-title: Latest 200 Papers - January 29, 2026
+title: Latest 200 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news) page for a better reading experience and more papers.**
@@ -823,6 +823,8 @@ labels: documentation
 ## climate
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Opportunities of Touch-Enabled Spherical Displays to support Climate Conversations](https://arxiv.org/abs/2601.20468v1)** | 2026-01-28 | <details><summary>Submi...</summary><p>Submitted to Posters of CHI'26</p></details> |
+| **[Large language models accurately predict public perceptions of support for climate action worldwide](https://arxiv.org/abs/2601.20141v1)** | 2026-01-28 | 35 pages |
 | **[Learning long term climate-resilient transport adaptation pathways under direct and indirect flood impacts using reinforcement learning](https://arxiv.org/abs/2601.18586v1)** | 2026-01-26 |  |
 | **[Rethinking AI in the age of climate collapse: Ethics, power, and responsibility](https://arxiv.org/abs/2601.18462v1)** | 2026-01-26 | 9 pages |
 | **[CondensNet: Enabling stable long-term climate simulations via hybrid deep learning models with adaptive physical constraints](https://arxiv.org/abs/2502.13185v2)** | 2026-01-24 |  |
@@ -1021,8 +1023,6 @@ labels: documentation
 | **[AI-ready Snow Radar Echogram Dataset (SRED) for climate change monitoring](https://arxiv.org/abs/2505.00786v1)** | 2025-05-01 |  |
 | **[Validation of a 24-hour-ahead Prediction model for a Residential Electrical Load under diverse climate](https://arxiv.org/abs/2505.00348v1)** | 2025-05-01 |  |
 | **[Data Driven Deep Learning for Correcting Global Climate Model Projections of SST and DSL in the Bay of Bengal](https://arxiv.org/abs/2504.20620v1)** | 2025-04-29 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 3 tables of main paper; 24 pages, 17 figures of Supporting Information</p></details> |
-| **[Predicting Coastal Water Levels in the Context of Climate Change Using Kolmogorov-Zurbenko Time Series Analysis Methods](https://arxiv.org/abs/2412.09419v2)** | 2025-04-25 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, this article draws from arXiv:2007.03031v3 and arXiv:2412.07735v1; updated references</p></details> |
-| **[A Physics-guided Multimodal Transformer Path to Weather and Climate Sciences](https://arxiv.org/abs/2504.14174v1)** | 2025-04-19 | Perspective article |
 
 ## soil
 | **Title** | **Date** | **Comment** |
@@ -1435,6 +1435,11 @@ labels: documentation
 ## environment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment Rollouts](https://arxiv.org/abs/2601.20730v1)** | 2026-01-28 | 26 pages |
+| **[MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment](https://arxiv.org/abs/2601.20335v1)** | 2026-01-28 |  |
+| **[LEGO-Eval: Towards Fine-Grained Evaluation on Synthesizing 3D Embodied Environments with Tool Augmentation](https://arxiv.org/abs/2511.03001v2)** | 2026-01-28 |  |
+| **[Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis](https://arxiv.org/abs/2601.20103v1)** | 2026-01-27 | <details><summary>Datas...</summary><p>Dataset: https://huggingface.co/datasets/PatronusAI/trace-dataset</p></details> |
+| **[Distributional value gradients for stochastic environments](https://arxiv.org/abs/2601.20071v1)** | 2026-01-27 |  |
 | **[Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof](https://arxiv.org/abs/2601.19893v1)** | 2026-01-27 |  |
 | **[Physics-Aware Novel-View Acoustic Synthesis with Vision-Language Priors and 3D Acoustic Environment Modeling](https://arxiv.org/abs/2601.19712v1)** | 2026-01-27 | <details><summary>ICASS...</summary><p>ICASSP 2026 Accept, Project page: https://physnvas.github.io/</p></details> |
 | **[The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments](https://arxiv.org/abs/2601.19557v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted submission to the 2026 IEEE Aerospace Conference</p></details> |
@@ -1534,6 +1539,7 @@ labels: documentation
 | **[EZInput: A Cross-Environment Python Library for Easy UI Generation in Scientific Computing](https://arxiv.org/abs/2601.08859v1)** | 2026-01-07 |  |
 | **[PhysDepth: Plug-and-Play Physical Refinement for Monocular Depth Estimation in Challenging Environments](https://arxiv.org/abs/2412.04666v3)** | 2026-01-07 |  |
 | **[I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing](https://arxiv.org/abs/2601.03741v1)** | 2026-01-07 |  |
+| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v1)** | 2026-01-06 |  |
 | **[NavAI: A Generalizable LLM Framework for Navigation Tasks in Virtual Reality Environments](https://arxiv.org/abs/2601.03251v1)** | 2026-01-06 |  |
 | **[An Informative Planning Framework for Target Tracking and Active Mapping in Dynamic Environments with ASVs](https://arxiv.org/abs/2508.14636v3)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted for publication in Robotics and Automation Letters (RA-L)</p></details> |
 | **[Steering Flexible Linear Objects in Planar Environments by Two Robot Hands Using Euler's Elastica Solutions](https://arxiv.org/abs/2501.02874v4)** | 2026-01-06 |  |
@@ -1629,16 +1635,13 @@ labels: documentation
 | **[Backdoors in DRL: Four Environments Focusing on In-distribution Triggers](https://arxiv.org/abs/2505.17248v3)** | 2025-12-12 |  |
 | **[STITCHER: Constrained Trajectory Planning in Complex Environments with Real-Time Motion Primitive Search](https://arxiv.org/abs/2510.14893v3)** | 2025-12-12 |  |
 | **[The Emergence of Complex Behavior in Large-Scale Ecological Environments](https://arxiv.org/abs/2510.18221v3)** | 2025-12-12 | <details><summary>33 pa...</summary><p>33 pages, 23 figures, 12 tables, experiment code available at https://github.com/jbejjani2022/ecological-emergent-behavior</p></details> |
-| **[Multi-Docker-Eval: A `Shovel of the Gold Rush' Benchmark on Automatic Environment Building for Software Engineering](https://arxiv.org/abs/2512.06915v3)** | 2025-12-12 |  |
-| **[RoomPilot: Controllable Synthesis of Interactive Indoor Environments via Multimodal Semantic Parsing](https://arxiv.org/abs/2512.11234v1)** | 2025-12-12 | 20 pages, 6 figures |
-| **[CP-Env: Evaluating Large Language Models on Clinical Pathways in a Controllable Hospital Environment](https://arxiv.org/abs/2512.10206v2)** | 2025-12-12 |  |
-| **[ARE: Scaling Up Agent Environments and Evaluations](https://arxiv.org/abs/2509.17158v2)** | 2025-12-10 | <details><summary>Updat...</summary><p>Updated authors order and acknowledgement</p></details> |
-| **[SCOPE: Language Models as One-Time Teacher for Hierarchical Planning in Text Environments](https://arxiv.org/abs/2512.09897v1)** | 2025-12-10 |  |
-| **[C*: A Coverage Path Planning Algorithm for Unknown Environments using Rapidly Covering Graphs](https://arxiv.org/abs/2505.13782v2)** | 2025-12-10 |  |
 
 ## sustainability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LogSieve: Task-Aware CI Log Reduction for Sustainable LLM-Based Analysis](https://arxiv.org/abs/2601.20148v1)** | 2026-01-28 | <details><summary>Prepr...</summary><p>Preprint. Accepted for presentation at Mining Software Repositories (MSR'26), co-located ICSE 2026. The final version will appear in the ACM Digital Library as part of the MSR'26 conference proceedings</p></details> |
+| **[Dynamics of Human-AI Collective Knowledge on the Web: A Scalable Model and Insights for Sustainable Growth](https://arxiv.org/abs/2601.20099v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted for ACM Web Conference 2026 (WWW26)</p></details> |
+| **[Data Fusion and Aggregation Methods to Develop Composite Indexes for a Sustainable Future](https://arxiv.org/abs/2507.09204v2)** | 2026-01-27 |  |
 | **[AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v1)** | 2026-01-27 | 22 pages, 2 figures |
 | **[Activation Function Design Sustains Plasticity in Continual Learning](https://arxiv.org/abs/2509.22562v2)** | 2026-01-27 |  |
 | **[Balancing Sustainability And Performance: The Role Of Small-Scale Llms In Agentic Artificial Intelligence Systems](https://arxiv.org/abs/2601.19311v1)** | 2026-01-27 |  |
@@ -1803,7 +1806,6 @@ labels: documentation
 | **[ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum](https://arxiv.org/abs/2507.12032v1)** | 2025-07-16 |  |
 | **[White paper: Towards Human-centric and Sustainable 6G Services -- the fortiss Research Perspective](https://arxiv.org/abs/2507.14209v1)** | 2025-07-15 |  |
 | **[A Feed-Forward Artificial Intelligence Pipeline for Sustainable Desalination under Climate Uncertainties: UAE Insights](https://arxiv.org/abs/2507.10609v1)** | 2025-07-13 |  |
-| **[Data Fusion and Aggregation Methods to Develop Composite Indexes for a Sustainable Future](https://arxiv.org/abs/2507.09204v1)** | 2025-07-12 |  |
 | **[Knowledge Graph-Based approach for Sustainable 6G End-to-End System Design](https://arxiv.org/abs/2507.08717v1)** | 2025-07-11 | <details><summary>The p...</summary><p>The paper is submitted to IEEE Open Journal of the Communications Society (IEEE OJCOMS)</p></details> |
 | **[Teaching Sustainable Creative Technologies](https://arxiv.org/abs/2507.05320v1)** | 2025-07-07 | <details><summary>LOCO ...</summary><p>LOCO 2024, December 3, 2024, Glasgow/Online</p></details> |
 | **[High-Resolution Sustain Pedal Depth Estimation from Piano Audio Across Room Acoustics](https://arxiv.org/abs/2507.04230v1)** | 2025-07-06 |  |
@@ -1837,6 +1839,4 @@ labels: documentation
 | **[Towards Resilient and Sustainable Global Industrial Systems: An Evolutionary-Based Approach](https://arxiv.org/abs/2503.11688v2)** | 2025-05-28 | <details><summary>Prepr...</summary><p>Preprint submitted to Expert Systems with Applications</p></details> |
 | **[A Global Commuting Origin-Destination Flow Dataset for Urban Sustainable Development](https://arxiv.org/abs/2505.17111v1)** | 2025-05-21 | 21 pages, 17 figures |
 | **[OceanChat: The Effect of Virtual Conversational AI Agents on Sustainable Attitude and Behavior Change](https://arxiv.org/abs/2502.02863v2)** | 2025-05-21 | <details><summary>21 pa...</summary><p>21 pages, 18 figures, 2 tables</p></details> |
-| **[HarmonE: A Self-Adaptive Approach to Architecting Sustainable MLOps](https://arxiv.org/abs/2505.13693v1)** | 2025-05-19 | <details><summary>This ...</summary><p>This paper has been accepted to ECSA 2025</p></details> |
-| **[Carbon Footprint Reduction for Sustainable Data Centers in Real-Time](https://arxiv.org/abs/2403.14092v3)** | 2025-05-18 |  |
 
